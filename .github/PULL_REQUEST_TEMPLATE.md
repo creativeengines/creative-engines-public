@@ -10,7 +10,8 @@
 
 Reviewer, before approving this PR, verify ALL of the following:
 
-- [ ] **No internal methodology IP** – nothing in this diff exposes scoring formulas, algorithms, internal frameworks, training pipeline details, or proprietary methodology mechanics. If a reader could reproduce CREN's methodology from this content, REJECT.
+- [ ] **No internal methodology IP** – nothing in this diff exposes scoring formulas, algorithms, internal frameworks, training pipeline details, or proprietary methodology mechanics. If a reader could reproduce the methodology from this content, REJECT.
+- [ ] **No internal terminology** – the product is **Creative Engines**. Internal shorthand (e.g. "CREN") MUST NOT appear in any public-facing file. Use the full product name everywhere.
 - [ ] **No customer or partner data** – no real client names, real campaigns, real numbers, real conversations.
 - [ ] **No pricing or commercial terms** – pricing details, contracts, and commercial terms do not live in this repo. If this PR adds any, treat as a deliberate exception and require both founders' approval.
 - [ ] **No internal personal information** – no founder personal contact details beyond what is already public.

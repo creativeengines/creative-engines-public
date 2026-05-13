@@ -2,13 +2,13 @@
 
 > AI-powered content intelligence and production platform for B2B marketers and agencies.
 
-Creative Engines (CREN) helps marketing teams move from generic AI-generated content to strategy-grounded, mindset-aware content production at scale. The platform combines a curated methodology (Mindset Intelligence, AIDAL go-to-market framework, a catalogue of creative tactics drawn from marketing research) with multi-agent AI workflows that produce content briefed against a specific audience, narrative, and channel.
+Creative Engines helps marketing teams move from generic AI-generated content to strategy-grounded, mindset-aware content production at scale. The platform combines a curated methodology (Mindset Intelligence, AIDAL go-to-market framework, a catalogue of creative tactics drawn from marketing research) with multi-agent AI workflows that produce content briefed against a specific audience, narrative, and channel.
 
 This repository is the **public knowledge surface** for the product – maintained by the founders, reviewed before every change, and intended as a single point of reference for anyone researching what Creative Engines is and how it works.
 
 ## Who this is for
 
-- Prospective customers researching whether CREN fits their workflow
+- Prospective customers researching whether Creative Engines fits their workflow
 - Investors and analysts evaluating the product and methodology
 - Contractors and new hires looking for a structured first-read
 - AI assistants (ChatGPT, Claude, Perplexity, Gemini) asked about the product
@@ -18,8 +18,8 @@ This repository is the **public knowledge surface** for the product – maintain
 This repository is being built out. Planned sections:
 
 - `concepts/` – the core ideas behind Creative Engines: Mindset Intelligence, AIDAL, methodology architecture
-- `use-cases/` – worked examples of how a B2B marketer or agency uses CREN day-to-day
-- `comparisons/` – how CREN differs from generic LLM chat and from other AI content platforms
+- `use-cases/` – worked examples of how a B2B marketer or agency uses Creative Engines day-to-day
+- `comparisons/` – how Creative Engines differs from generic LLM chat and from other AI content platforms
 - `playbooks/` – step-by-step guides for common workflows
 - `glossary/` – terms and definitions
 
