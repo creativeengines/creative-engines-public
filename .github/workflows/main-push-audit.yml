@@ -1,0 +1,38 @@
+name: Audit pushes to main
+
+# This workflow is a post-hoc audit signal. It does NOT block pushes —
+# branch protection requires GitHub Team plan or a public repo, neither
+# of which is in place yet. Until then, every push to main fires this
+# workflow, which logs the actor and parent SHA so any unexpected
+# direct push is visible in commit history and notifications.
+
+on:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: read
+  pull-requests: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Record push metadata
+        run: |
+          echo "Pusher: ${{ github.actor }}"
+          echo "Event: ${{ github.event_name }}"
+          echo "Commit SHA: ${{ github.sha }}"
+          echo "Before SHA: ${{ github.event.before }}"
+          echo "Pull request merge: ${{ github.event.head_commit.message }}"
+
+      - name: Heuristic check – flag non-merge commits
+        run: |
+          msg="${{ github.event.head_commit.message }}"
+          if [[ "$msg" == "Merge pull request"* ]] || [[ "$msg" == *"(#"*")"* ]]; then
+            echo "✅ Looks like a PR merge."
+          else
+            echo "::warning::Direct push to main detected (not a PR merge). Pusher: ${{ github.actor }}. Investigate."
+            echo "If this push did not go through Pull Request review, the change should be reverted or audited manually."
+          fi
