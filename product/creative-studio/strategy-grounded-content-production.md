@@ -1,0 +1,65 @@
+---
+title: "Strategy-Grounded Content Production"
+status: Current
+last_updated: 2026-06-09
+audience: [buyers, users, agencies, ai-assistants]
+tags: [product, creative-studio, strategy-grounded-content, content-production, creative-engines]
+---
+
+# Strategy-Grounded Content Production
+
+Strategy-Grounded Content Production is the capability that turns brand context, buyer Mindsets, strategic narratives, and source material into reviewable editorial assets.
+
+The client-facing point is not that Creative Engines can generate text. The point is that production starts from strategy and remains open to human review.
+
+## What the user sees
+
+A user can begin a content session with structured context:
+
+- The active brand.
+- The intended buyer Mindset.
+- The strategic narrative or content direction.
+- Relevant source material.
+- The desired format or asset type.
+- Human feedback during review.
+
+Creative Engines can then help produce draft variants, support review, and preserve approved outputs for later content operations.
+
+## What it helps the team do
+
+Strategy-Grounded Content Production helps teams:
+
+- Avoid blank-page writing sessions.
+- Produce content from approved brand and buyer context.
+- Compare variants before choosing a direction.
+- Give feedback without restarting the whole task.
+- Keep human judgment in the loop.
+- Reduce AI slop by making the work more specific and better governed.
+
+## What it helps decide
+
+The production surface helps answer:
+
+- Does this draft serve the intended Mindset?
+- Does it carry the right strategic narrative?
+- Is it grounded in approved source material?
+- Does it sound like the brand's own thinking?
+- Should the team approve, revise, redo, or save the asset?
+
+## How it connects to the product
+
+This capability depends on [Brand Knowledge](../brand-knowledge/README.md), [Mindset Intelligence](../mindset-intelligence/README.md), and [Brand Strategy](../brand-strategy/README.md).
+
+Saved assets move into [Content Campaigns and Tasks](../content-distribution/content-campaigns-and-tasks.md), where they can become planned work, campaign assets, or reusable content.
+
+## Public boundary
+
+This page explains the production experience at a client level. It does not publish generation instructions, internal workflow names, exact model behavior, hidden review logic, or protected production methods.
+
+## See also
+
+- [Creative Studio](./README.md)
+- [Brand Knowledge](../brand-knowledge/README.md)
+- [Content Distribution](../content-distribution/README.md)
+- [Anti-slop stance](../../concepts/anti-slop-stance.md)
+- [Editorial governance](../../concepts/editorial-governance.md)

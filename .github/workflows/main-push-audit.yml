@@ -1,10 +1,7 @@
 name: Audit pushes to main
 
-# This workflow is a post-hoc audit signal. It does NOT block pushes —
-# branch protection requires GitHub Team plan or a public repo, neither
-# of which is in place yet. Until then, every push to main fires this
-# workflow, which logs the actor and parent SHA so any unexpected
-# direct push is visible in commit history and notifications.
+# This workflow is a post-merge audit signal. Repository rules should
+# provide the blocking control.
 
 on:
   push:
@@ -27,11 +24,11 @@ jobs:
           echo "Before SHA: ${{ github.event.before }}"
           echo "Pull request merge: ${{ github.event.head_commit.message }}"
 
-      - name: Heuristic check – flag non-merge commits
+      - name: Heuristic check - flag non-merge commits
         run: |
           msg="${{ github.event.head_commit.message }}"
           if [[ "$msg" == "Merge pull request"* ]] || [[ "$msg" == *"(#"*")"* ]]; then
-            echo "✅ Looks like a PR merge."
+            echo "Looks like a PR merge."
           else
             echo "::warning::Direct push to main detected (not a PR merge). Pusher: ${{ github.actor }}. Investigate."
             echo "If this push did not go through Pull Request review, the change should be reverted or audited manually."

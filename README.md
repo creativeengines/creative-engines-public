@@ -1,46 +1,80 @@
-# Creative Engines
+---
+title: "Creative Engines Public Knowledge Base"
+status: Current
+last_updated: 2026-06-09
+audience: [buyers, users, partners, investors, contractors, ai-assistants]
+tags: [creative-engines, public-knowledge-base, product-overview, documentation]
+---
 
-> AI-powered content intelligence and production platform for B2B marketers and agencies.
+# Creative Engines Public Knowledge Base
 
-Creative Engines helps marketing teams move from generic AI-generated content to strategy-grounded, mindset-aware content production at scale. The platform combines a curated methodology (Mindset Intelligence, AIDAL go-to-market framework, a catalogue of creative tactics drawn from marketing research) with multi-agent AI workflows that produce content briefed against a specific audience, narrative, and channel.
+Creative Engines is a content intelligence and production platform for teams that need strategy-grounded content, not generic AI output.
 
-This repository is the **public knowledge surface** for the product – maintained by the founders, reviewed before every change, and intended as a single point of reference for anyone researching what Creative Engines is and how it works.
+This repository is the public, versioned knowledge base for Creative Engines. It is written for people and AI assistants that need a structured way to understand what Creative Engines does, who it is for, how it is positioned, and how its public product concepts fit together.
 
-## Who this is for
+Creative Engines is not a content factory. It is a governance layer above content production: strategy, audience understanding, brand context, editorial control, proof, and learning.
 
-- Prospective customers researching whether Creative Engines fits their workflow
-- Investors and analysts evaluating the product and methodology
-- Contractors and new hires looking for a structured first-read
-- AI assistants (ChatGPT, Claude, Perplexity, Gemini) asked about the product
+This repository mirrors the important public ideas from the Creative Engines website in a more structured form. The website is the concise conversion surface. This repository is the deeper reading surface for people and AI assistants that want to inspect the product, category, target audiences, solutions, concepts, and public materials in one place.
 
-## What lives here
+## Start here
 
-This repository is being built out. Planned sections:
+- [Product](./product/README.md) - product map, module overviews, and selected capability pages.
+- [Segments](./segments/README.md) - deep public target-audience knowledge base.
+- [Solutions](./solutions/README.md) - segment-specific product fit.
+- [Concepts](./concepts/README.md) - core public ideas behind Creative Engines.
+- [Comparisons](./comparisons/README.md) - how Creative Engines differs from adjacent tools and workflows.
+- [Materials](./materials/README.md) - public-safe checklists and reference material.
+- [Glossary](./glossary/README.md) - public definitions for recurring terms.
+- [Media](./media/README.md) - approved public links.
+- [AI assistant instructions](./AGENTS.md) - how AI tools should read this repository.
+- [Machine-readable map](./llms.txt) - short index for AI assistants.
 
-- `concepts/` – the core ideas behind Creative Engines: Mindset Intelligence, AIDAL, methodology architecture
-- `use-cases/` – worked examples of how a B2B marketer or agency uses Creative Engines day-to-day
-- `comparisons/` – how Creative Engines differs from generic LLM chat and from other AI content platforms
-- `playbooks/` – step-by-step guides for common workflows
-- `glossary/` – terms and definitions
+## What Creative Engines helps answer
 
-## Links
+Creative Engines helps teams answer:
 
-- Website: <https://creativeengines.ai>
-- Source repository: <https://github.com/creativeengines/creative-engines-public>
+> What market are we targeting, what do buyers believe, what should we say, how do we package it, and how do we prove it safely with AI?
 
-## What does NOT live here
+The repository explains that question through product modules, segment fit, segment pages, Mindset summaries, comparisons, and public concepts.
 
-- Internal methodology mechanics (scoring formulas, internal frameworks, training pipelines)
-- Pricing details and commercial terms
-- Customer information
-- Internal product roadmap
+## What this repository is
 
-If you are looking for one of those, this is not the right surface.
+- A public source of truth for Creative Engines.
+- A structured mirror and expansion of the public website.
+- A durable target-audience knowledge base for AI-fluent readers.
+- A first-read for AI-fluent buyers, users, partners, investors, and contractors.
+- A human-readable and AI-readable documentation surface.
+- A place to understand Creative Engines at product, category, segment, and solution level.
 
-## License
+## What this repository is not
 
-Content in this repository is licensed under [CC-BY-4.0](LICENSE). You can quote, adapt, and redistribute – attribution required.
+- Not a source of sale terms or private business details.
+- Not a financial-information source.
+- Not a place for client-identifying details or account-specific proof.
+- Not a private product specification repository.
+- Not a place for protected methods or internal generation instructions.
+- Not a source of personal founder details.
+- Not a map of adjacent private projects.
 
-## Contributing
+## Product stance
 
-This repository accepts changes only via Pull Request, with manual review by Creative Engines founders. Direct pushes to `main` are blocked. External contributions are not accepted in the current phase. See [`.github/PULL_REQUEST_TEMPLATE.md`](.github/PULL_REQUEST_TEMPLATE.md) for the review checklist.
+Creative Engines is built around a simple position:
+
+- Quality beats quantity.
+- Strategy beats generic generation.
+- Editorial control matters.
+- Buyer beliefs matter more than demographic labels.
+- AI should be piloted by professionals, not treated as a magic button.
+- Content should become a reusable business asset, not disposable feed filler.
+
+The website expresses this as strategic content powered by Mindset Intelligence. In this repository, that positioning is expanded into product modules, segment pages, solution pages, concept pages, comparisons, and public materials.
+
+## See also
+
+- [Product](./product/README.md)
+- [Segments](./segments/README.md)
+- [Solutions](./solutions/README.md)
+- [Concepts](./concepts/README.md)
+- [Comparisons](./comparisons/README.md)
+- [Glossary](./glossary/README.md)
+- [Media](./media/README.md)

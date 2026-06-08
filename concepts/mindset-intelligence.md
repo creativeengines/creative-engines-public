@@ -1,0 +1,52 @@
+---
+title: "Mindset Intelligence"
+status: Current
+last_updated: 2026-06-09
+audience: [buyers, users, partners, ai-assistants]
+tags: [concepts, mindset-intelligence, buyer-beliefs, creative-engines]
+---
+
+# Mindset Intelligence
+
+Mindset Intelligence is the Creative Engines concept for understanding buyers by what they believe, fear, expect, and need to resolve before acting.
+
+Most marketing tools describe audiences through surface labels: role, company type, industry, or demographic profile. Those labels help with targeting, but they do not explain why a buyer accepts one message and ignores another.
+
+Creative Engines treats buyer state as a strategy input. A useful content system should understand the difference between:
+
+- Who the buyer is.
+- What the buyer currently believes.
+- What problem the buyer is trying to name.
+- What risk the buyer is trying to avoid.
+- What progress the buyer wants to make.
+- What review or confidence the buyer needs before trusting a claim.
+
+## Segment vs. Mindset
+
+A **Segment** is an account type: the kind of company, agency, practice, or operator that may use Creative Engines.
+
+A **Mindset** is a narrower rational-emotional portrait inside a Segment. It describes a specific stakeholder state: role pressure, core jobs, push and pull forces, anxiety, habits, current workarounds, and desired outcomes.
+
+One Segment can contain many Mindsets. A single buying decision can involve several Mindsets at once, which is why content often fails when it speaks only to a company category or role label.
+
+## Why it matters
+
+Content fails when it speaks to a category label but misses the buyer's actual concern. Mindset Intelligence gives teams a more precise public language for matching content to buyer belief.
+
+This supports the Creative Engines narrative that personas tell you who, while Mindsets help explain why.
+
+## How to read this concept
+
+Mindset Intelligence should not be read as a demographic segmentation claim. It is a product concept for making buyer belief visible enough that strategy, content, review, and learning can work from the same buyer understanding.
+
+## Public boundary
+
+This page describes Mindset Intelligence as a product concept. It does not describe the protected method used to create, evaluate, or operationalize Mindset models.
+
+## See also
+
+- [Concepts](./README.md)
+- [Buyer belief loop](./buyer-belief-loop.md)
+- [Segments](../segments/README.md)
+- [Solutions](../solutions/README.md)
+- [Glossary](../glossary/README.md)

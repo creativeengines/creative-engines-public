@@ -1,32 +1,6 @@
 # CODEOWNERS for creative-engines-public
 #
-# This file works together with the branch protection rules on `main`.
-# Every change to this repository must be approved by the listed owners
-# before it can be merged. Direct pushes to `main` are blocked.
-#
-# Format: <pattern> <owner> [additional owners]
-# Order matters: later rules override earlier ones for the same path.
+# Every change to this repository must be reviewed before it can be merged.
+# Configure the organization review team below before publication.
 
-# ============================================================
-# Default — every file requires the primary founder's approval
-# ============================================================
-*                       @igor8levi
-
-# ============================================================
-# High-sensitivity paths — require BOTH founders' approval
-# ============================================================
-/README.md              @igor8levi @IlyaMolochnikov
-/LICENSE                @igor8levi @IlyaMolochnikov
-/.github/               @igor8levi @IlyaMolochnikov
-/press/                 @igor8levi @IlyaMolochnikov
-/announcements/         @igor8levi @IlyaMolochnikov
-
-# ============================================================
-# Forbidden zones — pricing details and commercial terms
-# do NOT belong in this public repository.
-# Default expectation: rejection unless explicitly briefed in advance.
-# Both founders must approve any change here.
-# ============================================================
-/pricing/               @igor8levi @IlyaMolochnikov
-/commercial/            @igor8levi @IlyaMolochnikov
-/contracts/             @igor8levi @IlyaMolochnikov
+* @creativeengines/public-review

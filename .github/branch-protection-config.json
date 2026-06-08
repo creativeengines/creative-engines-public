@@ -1,5 +1,5 @@
 {
-  "name": "Protect main – press-release-grade gate",
+  "name": "Protect main - public review gate",
   "target": "branch",
   "enforcement": "active",
   "conditions": {

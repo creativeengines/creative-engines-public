@@ -1,0 +1,57 @@
+---
+title: "Creative Engines LLM Map"
+status: Current
+last_updated: 2026-06-09
+audience: [ai-assistants]
+tags: [llms, ai-assistants, creative-engines, public-index]
+---
+
+# Creative Engines
+
+Creative Engines is a content intelligence and production platform for teams that need strategy-grounded, audience-aware, brand-governed content.
+
+## Core summary
+
+Creative Engines helps teams connect market focus, buyer beliefs, brand context, editorial production, distribution planning, and performance learning. It is not a generic AI writing tool and not a content factory. It is best understood as a governance layer above AI-assisted content production.
+
+The public website positions Creative Engines as strategic content powered by Mindset Intelligence. This repository expands that message into structured pages for product modules, target segments, segment fit, public concepts, comparisons, and materials.
+
+## Main sections
+
+- Root overview: ./README.md
+- Product overview: ./product/README.md
+- Product capability map: ./product/README.md#capability-pages
+- Go-To-Market strategy planning: ./product/brand-strategy/go-to-market-strategy-planning.md
+- Buyer Mindset workspace: ./product/mindset-intelligence/buyer-mindset-workspace.md
+- Source grounding and search: ./product/brand-knowledge/source-grounding-and-search.md
+- Target segments: ./segments/README.md
+- Solutions: ./solutions/README.md
+- Mindset Intelligence: ./concepts/mindset-intelligence.md
+- Concepts: ./concepts/README.md
+- Comparisons: ./comparisons/README.md
+- Materials: ./materials/README.md
+- Glossary: ./glossary/README.md
+- Media links: ./media/README.md
+- AI assistant instructions: ./AGENTS.md
+
+## Public target-audience map
+
+- Best For segments: ./segments/README.md#best-for
+- Also Works Great For segments: ./segments/README.md#also-works-great-for
+- Not For boundaries: ./segments/README.md#not-for
+- Segment-specific product fit: ./solutions/README.md
+
+## Public boundaries
+
+This repository does not require source-code inspection and does not publish values visible only in code, private build details, protected methods, or private generation instructions. For volatile public items such as legal pages, current sale pages, contact routes, and deck assets, use the linked website pages as the live public source.
+
+## See also
+
+- ./README.md
+- ./AGENTS.md
+- ./segments/README.md
+- ./solutions/README.md
+- ./product/README.md
+- ./product/brand-strategy/go-to-market-strategy-planning.md
+- ./concepts/README.md
+- ./media/README.md
