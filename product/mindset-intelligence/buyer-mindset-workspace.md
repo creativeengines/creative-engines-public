@@ -58,6 +58,8 @@ The workspace helps answer:
 
 Mindsets feed [Go-To-Market Strategy Planning](../brand-strategy/go-to-market-strategy-planning.md), [Creative Studio](../creative-studio/README.md), and [Content Campaigns and Tasks](../content-distribution/content-campaigns-and-tasks.md).
 
+The same Mindsets also power two distinctive steps: they anchor the [Attention Journey](../../concepts/attention-journey.md) that maps where a buyer's attention travels, and they make up the audience focus group that reviews content before release, described in the [Multi-Agent Creative Department](../../concepts/multi-agent-creative-department.md).
+
 They also connect to the public [Segments](../../segments/README.md) library, where this repository explains who Creative Engines is for and why different buyer groups need it.
 
 ## Public boundary

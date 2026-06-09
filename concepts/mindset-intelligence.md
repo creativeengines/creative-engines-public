@@ -35,6 +35,24 @@ Content fails when it speaks to a category label but misses the buyer's actual c
 
 This supports the Creative Engines narrative that personas tell you who, while Mindsets help explain why.
 
+## What a Mindset captures
+
+A Mindset is a deep rational-emotional portrait, not a one-line persona. It is informed by established ways of thinking about buyers, including Jobs To Be Done and the four forces that move a decision:
+
+- The **job** the buyer is trying to get done, and the progress they want.
+- The **push** away from their current situation, and the **pull** toward a better way.
+- The **anxiety** that change creates, and the **habit** that keeps the present in place.
+- The **emotions** in play, drawn from a structured set of emotional states rather than a single tone label.
+- The **beliefs, objections, and workarounds** the buyer currently holds.
+
+Because Creative Engines reasons about emotion and not only logic, content can be built for how a buyer feels about a problem, which is closer to how buying decisions are actually made. The methods behind this are described at a safe level in [The Methodology Base](./methodology-base.md).
+
+## From belief to attention to content
+
+A Mindset is the starting node of a longer route. Once the buyer's state is understood, Creative Engines maps where that buyer's attention travels in the [Attention Journey](./attention-journey.md), uses it to plan strategy, and produces content for each touchpoint.
+
+The same Mindsets also do something most tools never attempt: they form the audience [focus group](./multi-agent-creative-department.md) that reviews content before release. The buyer understanding that begins the work also tests the work, by reacting to what was understood, what was felt, and what was unclear.
+
 ## Source inputs
 
 Mindsets can be informed by first-party material such as reviews, comments, customer conversations, support notes, and other user-generated context. They can also be developed through Creative Engines research methodology when first-party material is limited or incomplete.
@@ -52,8 +70,11 @@ This page describes Mindset Intelligence as a product concept. It does not descr
 ## See also
 
 - [Concepts](./README.md)
+- [Attention Journey](./attention-journey.md)
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md)
+- [The Methodology Base](./methodology-base.md)
+- [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
 - [Buyer belief loop](./buyer-belief-loop.md)
 - [Segments](../segments/README.md)
-- [Solutions](../solutions/README.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Glossary](../glossary/README.md)

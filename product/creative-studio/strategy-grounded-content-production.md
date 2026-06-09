@@ -29,7 +29,13 @@ Creative Engines can then help produce draft variants, support review, and prese
 
 Strong creative work usually does not come from the first draft. It comes from a process: multiple directions, critical review, rejection of weak ideas, refinement of stronger ones, and final checks before publication.
 
-Creative Engines is designed to support that pattern. The user should be able to move from strategy into content production while keeping buyer Mindsets, brand context, source material, creative direction, and editorial review visible.
+Creative Engines runs production as a [multi-agent creative department](../../concepts/multi-agent-creative-department.md), modeled on how a strong agency team is staffed: a Creative Director that holds the strategic intent and selects the strongest work, Lead Copywriters that generate and refine competing directions, a Brand Guardian that checks brand safety, voice, and misinterpretation risk, and an audience focus group built from buyer Mindsets.
+
+The user moves from strategy into content production while keeping buyer Mindsets, brand context, source material, creative direction, and editorial review visible. What the user receives is not a first draft. It is the output of a contested process, tested against the audience before it is allowed to represent the brand.
+
+## Testing on the audience before release
+
+The step most content tools skip is built in here. Before content is approved, it can be shown to a focus group of the brand's own buyer Mindsets and asked what they understood, what they felt, what was clear, and what was confusing. Because those Mindsets represent the real audience, the feedback is specific rather than a generic readability check, and weak comprehension or a flat response can be fixed before release.
 
 ## Content workflow
 
