@@ -23,7 +23,6 @@ This repository mirrors the important public ideas from the Creative Engines web
 - [Solutions](./solutions/README.md) - segment-specific product fit.
 - [Concepts](./concepts/README.md) - core public ideas behind Creative Engines.
 - [Comparisons](./comparisons/README.md) - how Creative Engines differs from adjacent tools and workflows.
-- [Materials](./materials/README.md) - public-safe checklists and reference material.
 - [Glossary](./glossary/README.md) - public definitions for recurring terms.
 - [Media](./media/README.md) - approved public links.
 - [AI assistant instructions](./AGENTS.md) - how AI tools should read this repository.
@@ -68,6 +67,15 @@ Creative Engines is built around a simple position:
 - Content should become a reusable business asset, not disposable feed filler.
 
 The website expresses this as strategic content powered by Mindset Intelligence. In this repository, that positioning is expanded into product modules, segment pages, solution pages, concept pages, comparisons, and public materials.
+
+## What makes Creative Engines different
+
+For readers comparing Creative Engines to generic AI tools, four concept pages explain the depth behind the product:
+
+- [Strategy-to-Content Pipeline](./concepts/strategy-to-content-pipeline.md) - how market understanding, buyer Mindsets, attention mapping, strategy, production, and learning stay connected in one route.
+- [Mindset Intelligence](./concepts/mindset-intelligence.md) and the [Attention Journey](./concepts/attention-journey.md) - deep rational-emotional buyer portraits, and a map of where their attention travels across touchpoints and media channels.
+- [Multi-Agent Creative Department](./concepts/multi-agent-creative-department.md) - content produced by a team of specialized agents and tested on an audience focus group of buyer Mindsets before release.
+- [The Methodology Base](./concepts/methodology-base.md) - the marketing science and creative methodology the product applies as working rules.
 
 ## See also
 

@@ -27,6 +27,23 @@ Creative Studio can support work such as:
 
 The useful behavior is not simply that an LLM call writes text. The useful behavior is that the writing call is surrounded by context, review, and strategic constraints.
 
+## How content gets made: the creative department
+
+Creative Studio does not produce content from a single open-ended generation. It runs work through a [multi-agent creative department](../../concepts/multi-agent-creative-department.md) modeled on how a strong agency team is staffed:
+
+- A **Creative Director** that holds the strategic intent and selects the strongest work.
+- **Lead Copywriters** that generate competing directions and refine the survivors.
+- A **Brand Guardian** that checks brand safety, voice, narrative discipline, and misinterpretation risk.
+- An **audience focus group** built from the brand's own buyer Mindsets.
+
+The result a user sees is not a first draft. It is the output of a contested process: many directions generated, weak ones rejected, strong ones refined, and the work checked before it is allowed to represent the brand.
+
+## Testing creative on the audience before publishing
+
+The step that sets Creative Studio apart is built in, not bolted on. Before content is approved, it can be shown to a focus group composed of the audience's own buyer [Mindsets](../mindset-intelligence/README.md). The focus group is asked what a real one would be asked: what they understood, what they felt, what was clear, and what was confusing.
+
+Because those Mindsets represent the actual audience the content is written for, the feedback is specific rather than a generic readability check. A confusing passage, a flat emotional response, or a misread message can be fixed before release instead of discovered after the content underperforms. Testing creative on the audience before it ships is normal in serious advertising and rare in AI content tools.
+
 ## What it helps decide
 
 Creative Studio helps a team decide:
@@ -47,7 +64,7 @@ It also feeds [Performance & Accountability](../performance-accountability/READM
 
 ## Public boundary
 
-This page explains content production at a user-facing level. It does not publish generation instructions, internal review logic, exact model behavior, private workflow names, or protected production mechanics.
+This page explains content production at a user-facing level. It does not publish private AI instructions, internal review logic, private workflow names, or protected production mechanics.
 
 ## See also
 

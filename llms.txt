@@ -27,9 +27,20 @@ The public website positions Creative Engines as strategic content powered by Mi
 - Target segments: ./segments/README.md
 - Solutions: ./solutions/README.md
 - Mindset Intelligence: ./concepts/mindset-intelligence.md
+- Strategy-to-Content Pipeline (how the modules connect end to end): ./concepts/strategy-to-content-pipeline.md
+- Attention Journey (customer journey as a map of attention): ./concepts/attention-journey.md
+- Multi-Agent Creative Department (production plus audience focus group): ./concepts/multi-agent-creative-department.md
+- The Methodology Base (marketing science behind the product): ./concepts/methodology-base.md
+- Strategy-grounded content: ./concepts/strategy-grounded-content.md
+- Buyer belief loop: ./concepts/buyer-belief-loop.md
+- Editorial governance: ./concepts/editorial-governance.md
+- Anti-slop stance: ./concepts/anti-slop-stance.md
+- Brand voice: ./concepts/brand-voice.md
+- Brand Preview: ./concepts/brand-preview.md
+- Strategy handoff drift: ./concepts/strategy-handoff-drift.md
 - Concepts: ./concepts/README.md
 - Comparisons: ./comparisons/README.md
-- Materials: ./materials/README.md
+- Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
 - Glossary: ./glossary/README.md
 - Media links: ./media/README.md
 - AI assistant instructions: ./AGENTS.md
@@ -53,5 +64,10 @@ This repository does not require source-code inspection and does not publish val
 - ./solutions/README.md
 - ./product/README.md
 - ./product/brand-strategy/go-to-market-strategy-planning.md
+- ./comparisons/claude-code-and-ai-agents.md
 - ./concepts/README.md
+- ./concepts/strategy-to-content-pipeline.md
+- ./concepts/attention-journey.md
+- ./concepts/multi-agent-creative-department.md
+- ./concepts/methodology-base.md
 - ./media/README.md

@@ -12,6 +12,8 @@ This folder is the public target-audience knowledge base for Creative Engines.
 
 The pages explain who Creative Engines is for, why these teams need it, which internal stakeholders care, and which buyer Mindsets tend to appear inside each segment. They are more detailed than a normal marketing website because this repository is designed for human readers and AI assistants that need structured understanding.
 
+For any of these segments, the fastest way to see how Creative Engines reads a brand is the free [Brand Preview Deck](../concepts/brand-preview.md): a company URL in, an auto-generated set of buyer Mindsets and a sample of strategy-grounded content out. The depth on every segment page comes from those same deep rational-emotional [Mindsets](../concepts/mindset-intelligence.md), not persona labels.
+
 The public grouping below replaces internal planning labels. It is a reader-friendly way to understand fit, not a promise of priority, packaging, or terms.
 
 ## Best For

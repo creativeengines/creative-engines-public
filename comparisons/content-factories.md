@@ -32,6 +32,8 @@ The website is explicit about this stance: Creative Engines votes for quality, n
 
 ## Why the distinction matters
 
+A content factory judges a piece mainly by whether it shipped. Creative Engines judges it at several layers - the wording, the creative tactics, the structure, the underlying concept, and the strategic fit - because a piece can read well and still fail to do a job. That difference in what "good" means is the whole point.
+
 AI makes content volume easier. That raises the value of editorial discipline. Teams need systems that help them publish better, not merely more.
 
 Creative Engines is positioned as a governance layer above content factories, agencies, internal teams, and AI-assisted production systems. The point is not to remove production. The point is to make production answer to strategy.
@@ -42,4 +44,4 @@ Creative Engines is positioned as a governance layer above content factories, ag
 - [Anti-slop stance](../concepts/anti-slop-stance.md)
 - [Editorial governance](../concepts/editorial-governance.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
-- [Materials](../materials/README.md)
+- [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md)

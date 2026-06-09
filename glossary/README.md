@@ -26,7 +26,11 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Brand voice** - The way a brand expresses its judgment, vocabulary, taste, and point of view in public content.
 
+**Brand Guardian** - The public name for the brand and editorial review posture used to check whether content is safe, clear, consistent, distinctive, and ready to represent the brand.
+
 **Buying committee** - The set of roles that influence whether a team trusts, adopts, or operationalizes a system like Creative Engines.
+
+**Bisociation** - A creative concept associated with Arthur Koestler: connecting distant frames so an audience sees something familiar in a new way.
 
 **Content asset** - A piece of content intended to teach, persuade, support distribution, or become part of a reusable content library.
 
@@ -34,11 +38,33 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Creative Studio** - The product area where strategy and context are turned into content drafts and editorial assets.
 
+**Creative tactics catalog** - A structured set of creative moves used to help content avoid obvious category language and produce more specific ideas.
+
+**AI-slop risk** - A public review label for creative moves or outputs that may sound fluent but overly familiar, generic, or bot-like.
+
+**Distinctive assets** - Recognizable brand elements, cues, or patterns that help a brand become easier to notice and remember.
+
 **Editorial governance** - The controls and review habits that keep AI-assisted content aligned with strategy, brand context, and quality standards.
 
 **Four forces** - A public way to describe what pushes a buyer away from the present, pulls them toward a better way, creates anxiety about change, and keeps existing habits in place.
 
 **Human quality gate** - A review point where a person checks whether AI-assisted work is strategically aligned, brand-safe, useful, and ready to publish.
+
+**AI slop** - Low-effort AI-assisted content that sounds fluent but lacks strategy, specificity, originality, buyer relevance, or editorial accountability.
+
+**Attention Journey** - A map of where a buyer's attention travels across touchpoints and media channels before they act, and what they think and feel at each point. Creative Engines treats the customer journey as a route through attention rather than a generic funnel.
+
+**AIDAL** - A five-stage funnel framework used as the backbone of the journey: Awareness, Interest, Desire, Action, Loyalty.
+
+**Awareness ladder** - A five-rung model of buyer readiness (unaware, problem-aware, solution-aware, product-aware, most-aware) used to place each piece of content at the buyer's actual stage of awareness.
+
+**COM-B** - A behavioral framework reading whether a buyer can act (capability), has the chance to act (opportunity), and wants to act (motivation). Used as one shape for buyer Mindset profiles.
+
+**Audience focus group** - A focus group built from a brand's own buyer Mindsets, used inside production to check what real audience members understood, felt, and found unclear before content is published.
+
+**Methodology base** - The curated body of marketing science and creative methodology Creative Engines applies as working rules across audience understanding, strategy, attention planning, and production.
+
+**Multi-Agent Creative Department** - The set of specialized agents that produce content in Creative Studio, modeled on an agency creative department: a Creative Director, Lead Copywriters, a Brand Guardian, and an audience focus group.
 
 **Mindset** - A narrow rational-emotional portrait of a person inside a Segment: what they are trying to do, what they believe, what they fear, what holds them back, and what progress would feel like.
 
@@ -59,6 +85,7 @@ This glossary defines recurring public terms used across Creative Engines materi
 - [Root README](../README.md)
 - [Segments](../segments/README.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
+- [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Solutions](../solutions/README.md)
 - [Product](../product/README.md)
 - [AI assistant instructions](../AGENTS.md)

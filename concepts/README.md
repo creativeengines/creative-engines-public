@@ -14,7 +14,11 @@ Creative Engines uses these concepts to explain why the product is different fro
 
 ## Core concept pages
 
+- [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md) - how the modules connect end to end, from market understanding to published content and back.
 - [Mindset Intelligence](./mindset-intelligence.md)
+- [Attention Journey](./attention-journey.md) - how a buyer's attention travels across touchpoints and media channels.
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md) - how content is produced and tested on an audience focus group before release.
+- [The Methodology Base](./methodology-base.md) - the marketing science and creative methodology behind the product.
 - [Editorial governance](./editorial-governance.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
 - [Anti-slop stance](./anti-slop-stance.md)

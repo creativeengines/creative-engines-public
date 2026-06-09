@@ -25,6 +25,32 @@ A user can begin a content session with structured context:
 
 Creative Engines can then help produce draft variants, support review, and preserve approved outputs for later content operations.
 
+## Creative department pattern
+
+Strong creative work usually does not come from the first draft. It comes from a process: multiple directions, critical review, rejection of weak ideas, refinement of stronger ones, and final checks before publication.
+
+Creative Engines runs production as a [multi-agent creative department](../../concepts/multi-agent-creative-department.md), modeled on how a strong agency team is staffed: a Creative Director that holds the strategic intent and selects the strongest work, Lead Copywriters that generate and refine competing directions, a Brand Guardian that checks brand safety, voice, and misinterpretation risk, and an audience focus group built from buyer Mindsets.
+
+The user moves from strategy into content production while keeping buyer Mindsets, brand context, source material, creative direction, and editorial review visible. What the user receives is not a first draft. It is the output of a contested process, tested against the audience before it is allowed to represent the brand.
+
+## Testing on the audience before release
+
+The step most content tools skip is built in here. Before content is approved, it can be shown to a focus group of the brand's own buyer Mindsets and asked what they understood, what they felt, what was clear, and what was confusing. Because those Mindsets represent the real audience, the feedback is specific rather than a generic readability check, and weak comprehension or a flat response can be fixed before release.
+
+## Content workflow
+
+Strategy-Grounded Content Production is part of a larger workflow:
+
+- Research.
+- Structure.
+- Writing.
+- Styling.
+- Packaging.
+- Scheduling.
+- Publishing.
+
+Each stage can carry different review expectations. The purpose is to make content easier to inspect, improve, approve, reuse, and learn from.
+
 ## What it helps the team do
 
 Strategy-Grounded Content Production helps teams:
@@ -54,7 +80,7 @@ Saved assets move into [Content Campaigns and Tasks](../content-distribution/con
 
 ## Public boundary
 
-This page explains the production experience at a client level. It does not publish generation instructions, internal workflow names, exact model behavior, hidden review logic, or protected production methods.
+This page explains the production experience at a client level. It does not publish private AI instructions, internal workflow names, hidden review logic, or protected production methods.
 
 ## See also
 
@@ -63,3 +89,4 @@ This page explains the production experience at a client level. It does not publ
 - [Content Distribution](../content-distribution/README.md)
 - [Anti-slop stance](../../concepts/anti-slop-stance.md)
 - [Editorial governance](../../concepts/editorial-governance.md)
+- [Claude Code and AI agent workflows](../../comparisons/claude-code-and-ai-agents.md)

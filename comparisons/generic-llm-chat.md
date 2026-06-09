@@ -20,6 +20,16 @@ Generic chat can help a skilled user move faster. Creative Engines is designed t
 
 The practical difference is not that one uses AI and the other does not. The difference is what the AI is governed by.
 
+For AI agent environments such as Claude Code, the distinction is similar but more operational. An AI agent can help a skilled user assemble a custom workflow. Creative Engines provides the productized method, context model, review discipline, and content workflow for teams that do not want to maintain that system manually.
+
+## Why it is not just a wrapper
+
+A fair question about any AI product is whether it is just a thin shell over the same models everyone uses. Three things make Creative Engines different from a chat window:
+
+- **It is a kitchen, not an ingredient.** The underlying generation models are ingredients available to everyone. The value is the recipes: the buyer Mindsets, the narrative frames, the tactic combinations, and the stage-matching that assemble those ingredients into something a blank chat box cannot.
+- **It is grounded in the brand's own knowledge.** Generic chat answers from general web knowledge and can invent details. Creative Engines writes against a brand-specific knowledge layer of ingested, quality-scored source material, so drafts draw on the brand's real evidence instead of plausible-sounding filler.
+- **Output is traceable to strategy.** In generic chat, a draft is a free-floating answer. In Creative Engines, every asset is linked back to a specific Mindset, narrative, and journey stage, so you can see the strategic reason a piece exists, not just the text.
+
 ## When generic chat is enough
 
 - One-off drafting.
@@ -40,6 +50,7 @@ The practical difference is not that one uses AI and the other does not. The dif
 ## See also
 
 - [Comparisons](./README.md)
+- [Claude Code and AI agent workflows](./claude-code-and-ai-agents.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
 - [Brand voice](../concepts/brand-voice.md)
 - [Product](../product/README.md)

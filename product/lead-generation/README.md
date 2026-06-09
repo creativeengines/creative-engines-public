@@ -50,4 +50,3 @@ This page explains public entry points and buyer handoff at a client level. It d
 - [Solutions](../../solutions/README.md)
 - [Brand Preview](../../concepts/brand-preview.md)
 - [Media](../../media/README.md)
-- [Materials](../../materials/README.md)

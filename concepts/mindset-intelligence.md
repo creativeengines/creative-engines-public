@@ -35,6 +35,39 @@ Content fails when it speaks to a category label but misses the buyer's actual c
 
 This supports the Creative Engines narrative that personas tell you who, while Mindsets help explain why.
 
+## What a Mindset captures
+
+A Mindset is a deep rational-emotional portrait, not a one-line persona. For each one, Creative Engines works with a structured profile that includes:
+
+- The **job** the buyer is trying to get done, and the **desired outcome** they want.
+- The **four forces** that move a decision: the **push** away from the present, the **pull** toward a better way, the **anxiety** that change creates, and the **habit** that holds the present in place.
+- **Capability, opportunity, and motivation** - whether the buyer can act, has the chance to act, and wants to act. This is a behavioral reading of the buyer, not a demographic label.
+- **Demographics, professional profile, and psychographics** - who the buyer is, in work and in life.
+- An **emotional palette** drawn from a working model of 13 emotional states, rather than a single tone label.
+- **Sensitivity indicators** shown as readable bars: pain, purchasing power, and sensitivity to price, time, quality, and variety, plus a fear-to-aspiration axis.
+- The buyer's **activation channels** and **solutions landscape** - where their attention lives and what they use today.
+- The **beliefs, objections, and workarounds** the buyer currently holds.
+
+Each Mindset is also given a **persona**: a name, a face, and a short description, so a buyer profile is something a team can picture rather than a spreadsheet row.
+
+Because Creative Engines reasons about emotion and behavior, not only logic, content can be built for how a buyer feels and what blocks them from acting - closer to how buying decisions are actually made. The methods behind these readings are described at a safe level in [The Methodology Base](./methodology-base.md).
+
+## A prioritized set, not a flat list
+
+Creative Engines treats Mindsets as a prioritized portfolio rather than an undifferentiated list. The approach sorts them into tiers: the ideal customers a brand should actively pursue, a second tier to nurture, an opportunistic tier, and an explicit **negative tier** - the audiences a brand should deliberately not write for. Naming who a brand is not for is as useful as naming who it is for: it keeps content sharp and stops it trying to please everyone.
+
+## From belief to attention to content
+
+A Mindset is the starting node of a longer route. Once the buyer's state is understood, Creative Engines is designed to map where that buyer's attention travels in the [Attention Journey](./attention-journey.md), use it to plan strategy, and produce content for each touchpoint.
+
+The same Mindsets also do something most tools never attempt: they form the audience [focus group](./multi-agent-creative-department.md) that reviews content before release. The buyer understanding that begins the work also tests the work, by reacting to what was understood, what was felt, and what was unclear.
+
+## Source inputs
+
+Mindsets can be informed by first-party material such as reviews, comments, customer conversations, support notes, and other user-generated context. They can also be developed through Creative Engines research methodology when first-party material is limited or incomplete.
+
+The public idea is that buyer understanding should come from more than surface persona labels. Creative Engines is designed to make the buyer's rational and emotional state usable across strategy, content production, review, and learning.
+
 ## How to read this concept
 
 Mindset Intelligence should not be read as a demographic segmentation claim. It is a product concept for making buyer belief visible enough that strategy, content, review, and learning can work from the same buyer understanding.
@@ -46,7 +79,11 @@ This page describes Mindset Intelligence as a product concept. It does not descr
 ## See also
 
 - [Concepts](./README.md)
+- [Attention Journey](./attention-journey.md)
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md)
+- [The Methodology Base](./methodology-base.md)
+- [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
 - [Buyer belief loop](./buyer-belief-loop.md)
 - [Segments](../segments/README.md)
-- [Solutions](../solutions/README.md)
+- [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Glossary](../glossary/README.md)

@@ -35,6 +35,20 @@ The public website expresses this through three recurring ideas:
 
 Those ideas make Creative Engines different from a pure drafting surface. The work is not finished when text is generated. It is finished when the asset is aligned, useful, reviewed, and ready to represent the brand.
 
+## Brand Guardian
+
+Brand Guardian is the public name for the review posture Creative Engines applies to brand and editorial work. At a client-facing level, it means content should be checked for:
+
+- Brand safety.
+- Narrative discipline.
+- Voice consistency.
+- Distinctive assets.
+- Misinterpretation risk.
+- Offer clarity.
+- Fact-checking.
+
+These checks are not meant to replace the editor, strategist, or brand owner. They make review more consistent by giving human judgment a clearer structure.
+
 ## Public boundary
 
 This page explains the public concept. It does not describe private review systems or protected assessment rules.
@@ -45,4 +59,6 @@ This page explains the public concept. It does not describe private review syste
 - [Anti-slop stance](./anti-slop-stance.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
 - [Brand voice](./brand-voice.md)
-- [Materials](../materials/README.md)
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md)
+- [The Methodology Base](./methodology-base.md)
+- [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)

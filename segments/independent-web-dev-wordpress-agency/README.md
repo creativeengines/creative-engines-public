@@ -26,6 +26,8 @@ This page is intentionally short. The goal is to explain fit boundaries, not to 
 
 ## See also
 
+- [Definition and boundaries](./definition.md)
+- [Pain points](./pain-points.md)
 - [Segments](../README.md)
 - [Solutions](../../solutions/README.md)
 - [Product](../../product/README.md)
