@@ -47,6 +47,16 @@ Each solution page explains why the segment needs Creative Engines, which produc
 
 The pages do not expose internal priority markers, protected methods, implementation details, private research mechanics, private sale details, or financial estimates.
 
+## How Creative Engines shows up for a segment
+
+Across every segment, the product fit follows a consistent shape:
+
+- **A free Brand Preview Deck is the entry point.** A prospect drops in a company URL and receives an auto-generated brand-intelligence deck - the brand's buyer Mindsets, two contrasting buyer portraits, and a sample narrative with sample content - before any sales conversation. See [Brand Preview](../concepts/brand-preview.md).
+- **Depth comes from the Mindsets.** Each segment's content is built on deep rational-emotional buyer [Mindsets](../concepts/mindset-intelligence.md) - jobs, forces, emotions, sensitivities - not persona labels.
+- **Agencies get white-label.** For agency and studio segments, the lead-facing deck can carry the agency's own logo and colors, so the agency puts its brand on the intelligence.
+- **Regulated and enterprise buyers get control.** A mandatory human approval gate before publication, plus per-stage automatic, hybrid, or manual execution modes, fit brand-safety-sensitive and regulated segments.
+- **The market is bifurcating, and the fit follows it.** Enterprises still buy full-service agencies; mid-market brings work in-house; smaller teams self-serve with AI; and agencies shift from doing the work to strategy, curation, and AI operations. Creative Engines is built to support each side of that split.
+
 ## Shared operating question
 
 Creative Engines helps teams answer:
