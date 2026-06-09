@@ -26,6 +26,12 @@ A user should be able to inspect a set of Mindsets for a brand and understand:
 
 The workspace is meant to make buyer understanding usable during daily work, not hide it in research notes.
 
+## Source context
+
+Mindsets can be informed by first-party material such as reviews, comments, customer conversations, support notes, and other user-generated context. They can also be developed through Creative Engines research methodology when a team needs a structured view of buyer belief before it has enough direct material.
+
+The user-facing value is not the source material itself. The value is a usable buyer lens that can shape strategy, content, review, and learning.
+
 ## What it helps the team do
 
 The Buyer Mindset Workspace helps teams:
@@ -64,4 +70,5 @@ This page explains the workspace and its user-facing role. It does not publish h
 - [Mindset Intelligence concept](../../concepts/mindset-intelligence.md)
 - [Segments](../../segments/README.md)
 - [Buyer belief loop](../../concepts/buyer-belief-loop.md)
+- [Claude Code and AI agent workflows](../../comparisons/claude-code-and-ai-agents.md)
 - [Brand Strategy](../brand-strategy/README.md)

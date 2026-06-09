@@ -26,7 +26,11 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Brand voice** - The way a brand expresses its judgment, vocabulary, taste, and point of view in public content.
 
+**Brand Guardian** - The public name for the brand and editorial review posture used to check whether content is safe, clear, consistent, distinctive, and ready to represent the brand.
+
 **Buying committee** - The set of roles that influence whether a team trusts, adopts, or operationalizes a system like Creative Engines.
+
+**Bisociation** - A creative concept associated with Arthur Koestler: connecting distant frames so an audience sees something familiar in a new way.
 
 **Content asset** - A piece of content intended to teach, persuade, support distribution, or become part of a reusable content library.
 
@@ -34,11 +38,19 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Creative Studio** - The product area where strategy and context are turned into content drafts and editorial assets.
 
+**Creative tactics catalog** - A structured set of creative moves used to help content avoid obvious category language and produce more specific ideas.
+
+**AI-slop risk** - A public review label for creative moves or outputs that may sound fluent but overly familiar, generic, or bot-like.
+
+**Distinctive assets** - Recognizable brand elements, cues, or patterns that help a brand become easier to notice and remember.
+
 **Editorial governance** - The controls and review habits that keep AI-assisted content aligned with strategy, brand context, and quality standards.
 
 **Four forces** - A public way to describe what pushes a buyer away from the present, pulls them toward a better way, creates anxiety about change, and keeps existing habits in place.
 
 **Human quality gate** - A review point where a person checks whether AI-assisted work is strategically aligned, brand-safe, useful, and ready to publish.
+
+**AI slop** - Low-effort AI-assisted content that sounds fluent but lacks strategy, specificity, originality, buyer relevance, or editorial accountability.
 
 **Mindset** - A narrow rational-emotional portrait of a person inside a Segment: what they are trying to do, what they believe, what they fear, what holds them back, and what progress would feel like.
 
@@ -59,6 +71,7 @@ This glossary defines recurring public terms used across Creative Engines materi
 - [Root README](../README.md)
 - [Segments](../segments/README.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
+- [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Solutions](../solutions/README.md)
 - [Product](../product/README.md)
 - [AI assistant instructions](../AGENTS.md)

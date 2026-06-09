@@ -20,6 +20,8 @@ Generic chat can help a skilled user move faster. Creative Engines is designed t
 
 The practical difference is not that one uses AI and the other does not. The difference is what the AI is governed by.
 
+For AI agent environments such as Claude Code, the distinction is similar but more operational. An AI agent can help a skilled user assemble a custom workflow. Creative Engines provides the productized method, context model, review discipline, and content workflow for teams that do not want to maintain that system manually.
+
 ## When generic chat is enough
 
 - One-off drafting.
@@ -40,6 +42,7 @@ The practical difference is not that one uses AI and the other does not. The dif
 ## See also
 
 - [Comparisons](./README.md)
+- [Claude Code and AI agent workflows](./claude-code-and-ai-agents.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
 - [Brand voice](../concepts/brand-voice.md)
 - [Product](../product/README.md)

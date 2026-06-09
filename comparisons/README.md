@@ -12,6 +12,7 @@ This folder explains how Creative Engines differs from adjacent tools and workfl
 
 ## Comparison pages
 
+- [Claude Code and AI agent workflows](./claude-code-and-ai-agents.md)
 - [Generic LLM chat](./generic-llm-chat.md)
 - [AI writing tools](./ai-writing-tools.md)
 - [Content factories](./content-factories.md)

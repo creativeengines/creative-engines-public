@@ -35,6 +35,12 @@ Content fails when it speaks to a category label but misses the buyer's actual c
 
 This supports the Creative Engines narrative that personas tell you who, while Mindsets help explain why.
 
+## Source inputs
+
+Mindsets can be informed by first-party material such as reviews, comments, customer conversations, support notes, and other user-generated context. They can also be developed through Creative Engines research methodology when first-party material is limited or incomplete.
+
+The public idea is that buyer understanding should come from more than surface persona labels. Creative Engines is designed to make the buyer's rational and emotional state usable across strategy, content production, review, and learning.
+
 ## How to read this concept
 
 Mindset Intelligence should not be read as a demographic segmentation claim. It is a product concept for making buyer belief visible enough that strategy, content, review, and learning can work from the same buyer understanding.
@@ -49,4 +55,5 @@ This page describes Mindset Intelligence as a product concept. It does not descr
 - [Buyer belief loop](./buyer-belief-loop.md)
 - [Segments](../segments/README.md)
 - [Solutions](../solutions/README.md)
+- [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Glossary](../glossary/README.md)

@@ -29,6 +29,7 @@ The public website positions Creative Engines as strategic content powered by Mi
 - Mindset Intelligence: ./concepts/mindset-intelligence.md
 - Concepts: ./concepts/README.md
 - Comparisons: ./comparisons/README.md
+- Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
 - Materials: ./materials/README.md
 - Glossary: ./glossary/README.md
 - Media links: ./media/README.md
@@ -53,5 +54,6 @@ This repository does not require source-code inspection and does not publish val
 - ./solutions/README.md
 - ./product/README.md
 - ./product/brand-strategy/go-to-market-strategy-planning.md
+- ./comparisons/claude-code-and-ai-agents.md
 - ./concepts/README.md
 - ./media/README.md

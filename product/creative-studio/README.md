@@ -47,7 +47,7 @@ It also feeds [Performance & Accountability](../performance-accountability/READM
 
 ## Public boundary
 
-This page explains content production at a user-facing level. It does not publish generation instructions, internal review logic, exact model behavior, private workflow names, or protected production mechanics.
+This page explains content production at a user-facing level. It does not publish private AI instructions, internal review logic, private workflow names, or protected production mechanics.
 
 ## See also
 
