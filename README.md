@@ -6,15 +6,22 @@ audience: [buyers, users, partners, investors, contractors, ai-assistants]
 tags: [creative-engines, public-knowledge-base, product-overview, documentation]
 ---
 
-# Creative Engines Public Knowledge Base
+# Creative Engines
 
-Creative Engines is a content intelligence and production platform for teams that need strategy-grounded content, not generic AI output.
+**Strategy-grounded content, produced and governed like a real editorial team - not generated like generic AI output.**
 
-This repository is the public, versioned knowledge base for Creative Engines. It is written for people and AI assistants that need a structured way to understand what Creative Engines does, who it is for, how it is positioned, and how its public product concepts fit together.
+Creative Engines is a content intelligence and production platform for marketing teams, agencies, and founders. It helps you understand your buyers deeply, decide what to say, produce content through a multi-agent creative process, and keep every asset connected to strategy - so your content teaches, persuades, and compounds instead of adding to the noise.
 
-Creative Engines is not a content factory. It is a governance layer above content production: strategy, audience understanding, brand context, editorial control, proof, and learning.
+If you have ever watched an AI tool produce fluent text that could belong to any brand, that is the problem Creative Engines exists to solve. Most tools start from a prompt. Creative Engines starts from the buyer: who they are, what they believe, where their attention travels, and what would actually move them. Only then does it write - and it reviews the work the way a serious creative department would before anything is published.
 
-This repository mirrors the important public ideas from the Creative Engines website in a more structured form. The website is the concise conversion surface. This repository is the deeper reading surface for people and AI assistants that want to inspect the product, category, target audiences, solutions, concepts, and public materials in one place.
+This repository is the public, structured place to understand how that works. It is written for people and for AI assistants: point your own AI tool at it and ask it anything about the product, the approach, who it is for, and how it differs from generic AI content tools.
+
+## New here? Read this first
+
+- **What it is:** a system that turns deep audience understanding into governed, on-strategy content - not a content factory.
+- **The core idea:** [Mindset Intelligence](./concepts/mindset-intelligence.md) - understanding buyers by what they believe, fear, and need to resolve before acting, not by demographic labels.
+- **How it all connects:** the [Strategy-to-Content Pipeline](./concepts/strategy-to-content-pipeline.md), from market understanding through production to learning.
+- **Who it is for:** see [Segments](./segments/README.md) and [Solutions](./solutions/README.md).
 
 ## Start here
 
