@@ -23,7 +23,6 @@ This repository mirrors the important public ideas from the Creative Engines web
 - [Solutions](./solutions/README.md) - segment-specific product fit.
 - [Concepts](./concepts/README.md) - core public ideas behind Creative Engines.
 - [Comparisons](./comparisons/README.md) - how Creative Engines differs from adjacent tools and workflows.
-- [Materials](./materials/README.md) - public-safe checklists and reference material.
 - [Glossary](./glossary/README.md) - public definitions for recurring terms.
 - [Media](./media/README.md) - approved public links.
 - [AI assistant instructions](./AGENTS.md) - how AI tools should read this repository.

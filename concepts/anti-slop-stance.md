@@ -63,4 +63,3 @@ The point is not to force every asset to be unusual. The point is to prevent AI-
 - [Brand voice](./brand-voice.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Content factories comparison](../comparisons/content-factories.md)
-- [Materials](../materials/README.md)

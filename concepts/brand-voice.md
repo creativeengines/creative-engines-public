@@ -46,4 +46,3 @@ This page describes brand voice as a public product concept. It does not publish
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [The Methodology Base](./methodology-base.md)
 - [Brand Knowledge](../product/brand-knowledge/README.md)
-- [Brand voice commenting checklist](../materials/brand-voice-commenting-checklist.md)

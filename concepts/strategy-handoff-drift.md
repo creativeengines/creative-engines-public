@@ -26,6 +26,18 @@ Strategy handoff drift turns strong agency thinking into average content. It als
 
 Creative Engines is designed to make strategy more operational. The goal is not to add more documents. The goal is to keep brand context, buyer understanding, narrative direction, and review criteria close to the work.
 
+## Questions a clean handoff should answer
+
+A handoff has survived if the production work can still answer:
+
+- What should the reader believe after this?
+- What buyer hesitation is this asset meant to reduce?
+- What approved brand context should constrain the draft?
+- What would make this content feel interchangeable with another brand?
+- What should a human editor check before publication?
+
+Creative Engines keeps these answers attached to the work rather than leaving them in a senior person's memory.
+
 ## Public boundary
 
 This page describes a public buyer problem and product concept. It does not publish internal workflow design, scoring, source handling, or protected methodology.
@@ -37,4 +49,3 @@ This page describes a public buyer problem and product concept. It does not publ
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
 - [Mid-tier independent agency solution](../solutions/mid-tier-indie-agency/README.md)
-- [Strategy handoff drift checklist](../materials/strategy-handoff-drift-checklist.md)

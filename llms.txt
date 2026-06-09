@@ -34,7 +34,6 @@ The public website positions Creative Engines as strategic content powered by Mi
 - Concepts: ./concepts/README.md
 - Comparisons: ./comparisons/README.md
 - Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
-- Materials: ./materials/README.md
 - Glossary: ./glossary/README.md
 - Media links: ./media/README.md
 - AI assistant instructions: ./AGENTS.md
