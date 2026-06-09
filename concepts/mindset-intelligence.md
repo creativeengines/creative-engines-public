@@ -37,19 +37,28 @@ This supports the Creative Engines narrative that personas tell you who, while M
 
 ## What a Mindset captures
 
-A Mindset is a deep rational-emotional portrait, not a one-line persona. It is informed by established ways of thinking about buyers, including Jobs To Be Done and the four forces that move a decision:
+A Mindset is a deep rational-emotional portrait, not a one-line persona. For each one, Creative Engines works with a structured profile that includes:
 
-- The **job** the buyer is trying to get done, and the progress they want.
-- The **push** away from their current situation, and the **pull** toward a better way.
-- The **anxiety** that change creates, and the **habit** that keeps the present in place.
-- The **emotions** in play, drawn from a working model of 13 emotional states rather than a single tone label.
+- The **job** the buyer is trying to get done, and the **desired outcome** they want.
+- The **four forces** that move a decision: the **push** away from the present, the **pull** toward a better way, the **anxiety** that change creates, and the **habit** that holds the present in place.
+- **Capability, opportunity, and motivation** - whether the buyer can act, has the chance to act, and wants to act. This is a behavioral reading of the buyer, not a demographic label.
+- **Demographics, professional profile, and psychographics** - who the buyer is, in work and in life.
+- An **emotional palette** drawn from a working model of 13 emotional states, rather than a single tone label.
+- **Sensitivity indicators** shown as readable bars: pain, purchasing power, and sensitivity to price, time, quality, and variety, plus a fear-to-aspiration axis.
+- The buyer's **activation channels** and **solutions landscape** - where their attention lives and what they use today.
 - The **beliefs, objections, and workarounds** the buyer currently holds.
 
-Because Creative Engines reasons about emotion and not only logic, content can be built for how a buyer feels about a problem, which is closer to how buying decisions are actually made. The methods behind this are described at a safe level in [The Methodology Base](./methodology-base.md).
+Each Mindset is also given a **persona**: a name, a face, and a short description, so a buyer profile is something a team can picture rather than a spreadsheet row.
+
+Because Creative Engines reasons about emotion and behavior, not only logic, content can be built for how a buyer feels and what blocks them from acting - closer to how buying decisions are actually made. The methods behind these readings are described at a safe level in [The Methodology Base](./methodology-base.md).
+
+## A prioritized set, not a flat list
+
+Creative Engines treats Mindsets as a prioritized portfolio rather than an undifferentiated list. The approach sorts them into tiers: the ideal customers a brand should actively pursue, a second tier to nurture, an opportunistic tier, and an explicit **negative tier** - the audiences a brand should deliberately not write for. Naming who a brand is not for is as useful as naming who it is for: it keeps content sharp and stops it trying to please everyone.
 
 ## From belief to attention to content
 
-A Mindset is the starting node of a longer route. Once the buyer's state is understood, Creative Engines maps where that buyer's attention travels in the [Attention Journey](./attention-journey.md), uses it to plan strategy, and produces content for each touchpoint.
+A Mindset is the starting node of a longer route. Once the buyer's state is understood, Creative Engines is designed to map where that buyer's attention travels in the [Attention Journey](./attention-journey.md), use it to plan strategy, and produce content for each touchpoint.
 
 The same Mindsets also do something most tools never attempt: they form the audience [focus group](./multi-agent-creative-department.md) that reviews content before release. The buyer understanding that begins the work also tests the work, by reacting to what was understood, what was felt, and what was unclear.
 

@@ -54,6 +54,12 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Attention Journey** - A map of where a buyer's attention travels across touchpoints and media channels before they act, and what they think and feel at each point. Creative Engines treats the customer journey as a route through attention rather than a generic funnel.
 
+**AIDAL** - A five-stage funnel framework used as the backbone of the journey: Awareness, Interest, Desire, Action, Loyalty.
+
+**Awareness ladder** - A five-rung model of buyer readiness (unaware, problem-aware, solution-aware, product-aware, most-aware) used to place each piece of content at the buyer's actual stage of awareness.
+
+**COM-B** - A behavioral framework reading whether a buyer can act (capability), has the chance to act (opportunity), and wants to act (motivation). Used as one shape for buyer Mindset profiles.
+
 **Audience focus group** - A focus group built from a brand's own buyer Mindsets, used inside production to check what real audience members understood, felt, and found unclear before content is published.
 
 **Methodology base** - The curated body of marketing science and creative methodology Creative Engines applies as working rules across audience understanding, strategy, attention planning, and production.

@@ -16,9 +16,9 @@ This page explains, at a safe level, what that base covers and how it is used. I
 
 The methodology base brings together several established bodies of work. Publicly describable areas include:
 
-- **Jobs To Be Done and buyer psychology.** The progress a buyer is trying to make, and the four forces that move them: what pushes them from the present, what pulls them toward a better way, the anxiety that change creates, and the habit that holds them in place.
+- **Jobs To Be Done and buyer psychology.** The progress a buyer is trying to make, and the four forces that move them: what pushes them from the present, what pulls them toward a better way, the anxiety that change creates, and the habit that holds them in place. Buyer readiness to act is read through the COM-B lens - capability, opportunity, and motivation.
 - **Neuromarketing and emotion.** Buyers act on feeling and justify with reason. Creative Engines reasons about the emotion a piece of content is likely to evoke, working from a model of 13 emotional states rather than a single "tone" label.
-- **Attention and the customer journey.** Jobs To Be Done, which frames the progress a buyer is trying to make, and Google's research on Micro-Moments and the Messy Middle, which studies where attention and intent actually form, inform the [Attention Journey](./attention-journey.md): a graph of where attention forms and travels.
+- **Attention and the customer journey.** The AIDAL funnel (Awareness, Interest, Desire, Action, Loyalty) and a five-rung awareness ladder (from unaware to most-aware) place each piece of content at the buyer's real stage of readiness. Google's research on Micro-Moments and the Messy Middle informs the [Attention Journey](./attention-journey.md): the approach of mapping where attention forms and travels.
 - **Creative effectiveness and brand science.** Influences that can be named publicly include Byron Sharp's work on distinctive assets, Orlando Wood's work on creative effectiveness, Arthur Koestler's bisociation, and structured creative problem solving in the spirit of TRIZ.
 - **Creative and styling tactics.** A catalog of 238 creative and styling tactics, and a working map of 74 media channels, used to push content away from generic category language and toward a recognizable brand signature.
 
@@ -43,6 +43,10 @@ These references are not reading material that sits next to the product. They ar
 - Channel and journey logic that informs the [Attention Journey](./attention-journey.md).
 
 The public point is simple. Creative Engines does not ask AI to "be creative" in a vague way. It holds creative and strategic work to a structured quality bar drawn from marketing science.
+
+## Quality judged at more than one layer
+
+Generic AI review checks grammar and tone. Creative Engines assesses content at several altitudes at once: the surface styling and wording, the phrase-level creative tactics, the structure of the argument, the underlying concept, and the strategic fit with the brand's go-to-market plan. A piece can be word-perfect and still fail the concept or strategy layer. Judging all of them is how the system separates content that merely reads well from content that actually does a job.
 
 ## Why this is hard to copy
 

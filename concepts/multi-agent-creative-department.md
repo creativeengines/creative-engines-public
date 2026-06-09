@@ -50,6 +50,22 @@ A real creative department rarely ships its first idea. It works in rounds:
 
 Creative Engines runs content production as that kind of process. A user keeps brand context, buyer Mindsets, strategic narratives, source material, and review comments visible throughout, instead of relying on a single response to be right on the first try.
 
+## The production pipeline
+
+Inside Creative Studio, a piece of content moves through a defined seven-stage pipeline, each stage with its own state and review expectations:
+
+1. **Research** - gather the brand context, buyer Mindset, and source material the piece needs.
+2. **Skeleton** - structure the argument before any prose is written.
+3. **Writing** - generate the draft, producing several parallel variants rather than one.
+4. **Styling** - run the anti-slop polishing pass that steers wording away from generic AI phrasing.
+5. **Packaging** - shape the piece into its final format.
+6. **Scheduling** - place it into the content calendar.
+7. **Publishing** - ship it to the channel.
+
+The writing stage produces multiple scored variants in a single run. A person can approve one or several, or send targeted feedback for a redo, without restarting the whole pipeline - a live writer's room rather than a one-shot generator.
+
+The pipeline produces more than social posts. It can output long-form articles, social threads, multi-slide carousels, newsletters, landing-page copy, case studies, and video-format content, in the brand's default language with per-channel overrides.
+
 ## Why structure beats "be creative"
 
 Asking an AI to "be creative" produces fluent but familiar output, because every team using the same tools with the same shallow instructions converges on the same structures, claims, and rhythm. That convergence is what AI slop actually is.
@@ -68,7 +84,7 @@ This is why the same underlying models can produce generic output in one product
 
 ## Public boundary
 
-This page explains the creative-department pattern at a client-facing level. It does not publish the agent roles, prompts, round counts, selection rules, orchestration, scoring, model choices, or any protected production mechanics.
+This page explains the creative-department pattern at a client-facing level. It does not publish the agents' prompts, round counts, selection rules, the contents of the tactics catalog, scoring, orchestration, model choices, or any protected production mechanics.
 
 ## See also
 
