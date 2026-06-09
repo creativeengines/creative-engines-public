@@ -19,7 +19,7 @@ A [Mindset](./mindset-intelligence.md) explains who a buyer is and why they woul
 For a given Mindset, the journey describes:
 
 - Which touchpoints the buyer encounters, and in what sequence.
-- Which media channels carry attention at each step, across dozens of possible surfaces such as search, social feeds, peer communities, video, email, review sites, events, and word of mouth.
+- Which media channels carry attention at each step, drawn from a working map of 74 channels across owned, earned, paid, and partnership media, such as search, social feeds, peer communities, video, email, review sites, events, and word of mouth.
 - What the buyer is paying attention to at that moment, and what they are filtering out.
 - What they currently believe when they arrive at that touchpoint.
 - What emotion is in play, and what tension needs to resolve before they move forward.
@@ -29,9 +29,9 @@ The result is a map. It shows attention as a path with branches and drop-off poi
 
 ## Methods behind the map
 
-The Attention Journey draws on established ways of thinking about buyer behavior rather than inventing a private vocabulary. Publicly describable influences include Jobs To Be Done, which frames the progress a buyer is trying to make, and Google's "Moments That Matter" research and the later micro-moments and messy-middle thinking, which study the specific points where attention and intent actually form.
+The Attention Journey draws on established ways of thinking about buyer behavior rather than inventing a private vocabulary. Publicly describable influences include Jobs To Be Done, which frames the progress a buyer is trying to make, and Google's research on Micro-Moments and the Messy Middle, which studies the specific points where attention and intent actually form.
 
-Creative Engines treats these as inputs to a structured map, not as reading material. The buyer's jobs, moments, beliefs, and emotions become nodes and edges in a graph of attention, so a team can reason about the whole route instead of guessing channel by channel.
+Creative Engines treats these as inputs to a structured map, not as reading material. The buyer's jobs, moments, beliefs, and emotions become nodes and edges in a graph of attention, sequenced through a five-stage attention-to-loyalty funnel, so a team can reason about the whole route instead of guessing channel by channel.
 
 ## Routing attention like a navigation system
 

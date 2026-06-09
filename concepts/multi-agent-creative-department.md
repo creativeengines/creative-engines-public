@@ -54,7 +54,7 @@ Creative Engines runs content production as that kind of process. A user keeps b
 
 Asking an AI to "be creative" produces fluent but familiar output, because every team using the same tools with the same shallow instructions converges on the same structures, claims, and rhythm. That convergence is what AI slop actually is.
 
-Creative Engines replaces the vague instruction with creative discipline. The department's behavior is informed by a curated, multi-source methodology base drawn from advertising, creativity research, brand science, and audience psychology, and by a catalog of hundreds of creative and styling tactics. The point is not to publish those sources or tactics. The point is that creative work is held to a structured quality bar rather than left to a single generation step.
+Creative Engines replaces the vague instruction with creative discipline. The department's behavior is informed by a curated, multi-source methodology base drawn from advertising, creativity research, brand science, and audience psychology, and by a catalog of 238 creative and styling tactics organized into 10 categories. The point is not to publish those sources or tactics. The point is that creative work is held to a structured quality bar rather than left to a single generation step.
 
 ## The contested-process advantage
 

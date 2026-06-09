@@ -17,10 +17,21 @@ This page explains, at a safe level, what that base covers and how it is used. I
 The methodology base brings together several established bodies of work. Publicly describable areas include:
 
 - **Jobs To Be Done and buyer psychology.** The progress a buyer is trying to make, and the four forces that move them: what pushes them from the present, what pulls them toward a better way, the anxiety that change creates, and the habit that holds them in place.
-- **Neuromarketing and emotion.** Buyers act on feeling and justify with reason. Creative Engines reasons about the emotion a piece of content is likely to evoke, using a structured set of emotional states rather than a single "tone" label.
-- **Attention and the customer journey.** Jobs To Be Done, Google's "Moments That Matter" research, and the later micro-moments and messy-middle thinking inform the [Attention Journey](./attention-journey.md): a graph of where attention forms and travels.
+- **Neuromarketing and emotion.** Buyers act on feeling and justify with reason. Creative Engines reasons about the emotion a piece of content is likely to evoke, working from a model of 13 emotional states rather than a single "tone" label.
+- **Attention and the customer journey.** Jobs To Be Done, which frames the progress a buyer is trying to make, and Google's research on Micro-Moments and the Messy Middle, which studies where attention and intent actually form, inform the [Attention Journey](./attention-journey.md): a graph of where attention forms and travels.
 - **Creative effectiveness and brand science.** Influences that can be named publicly include Byron Sharp's work on distinctive assets, Orlando Wood's work on creative effectiveness, Arthur Koestler's bisociation, and structured creative problem solving in the spirit of TRIZ.
-- **Creative and styling tactics.** A catalog of hundreds of creative and styling moves, and a working map of dozens of media channels, used to push content away from generic category language and toward a recognizable brand signature.
+- **Creative and styling tactics.** A catalog of 238 creative and styling tactics, and a working map of 74 media channels, used to push content away from generic category language and toward a recognizable brand signature.
+
+## The depth in concrete terms
+
+The methodology base is not abstract. As live working dictionaries, it currently includes:
+
+- **13 emotional states** the system reasons about when shaping and testing content.
+- **238 creative and styling tactics**, organized into 10 categories and 14 types.
+- **74 media channels**, classified across 4 media types - owned, earned, paid, and partnership - and 7 categories.
+- **A five-stage attention-to-loyalty funnel** that sequences work from first attention through to retention.
+
+These are cross-mapped, not separate lists. Tactics are linked to the emotions they evoke and the funnel stages they serve, and channels are linked to the same funnel, so a go-to-market plan can be built as a connected graph rather than a flat checklist. The specific contents of these dictionaries stay private; the structure and scale are shared here as evidence of depth.
 
 ## How the base is used, not just cited
 

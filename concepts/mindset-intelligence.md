@@ -42,7 +42,7 @@ A Mindset is a deep rational-emotional portrait, not a one-line persona. It is i
 - The **job** the buyer is trying to get done, and the progress they want.
 - The **push** away from their current situation, and the **pull** toward a better way.
 - The **anxiety** that change creates, and the **habit** that keeps the present in place.
-- The **emotions** in play, drawn from a structured set of emotional states rather than a single tone label.
+- The **emotions** in play, drawn from a working model of 13 emotional states rather than a single tone label.
 - The **beliefs, objections, and workarounds** the buyer currently holds.
 
 Because Creative Engines reasons about emotion and not only logic, content can be built for how a buyer feels about a problem, which is closer to how buying decisions are actually made. The methods behind this are described at a safe level in [The Methodology Base](./methodology-base.md).

@@ -39,7 +39,7 @@ This is why Mindsets are connected to strategy, narratives, and content producti
 
 ## What a Mindset contains
 
-A Mindset is a deep rational-emotional portrait, not a decorative persona. Informed by Jobs To Be Done and emotion research, it captures the buyer's core job, the push and pull forces acting on the decision, the anxiety and habit that resist change, the emotional states in play, and the beliefs, objections, and workarounds the buyer currently holds. The methods behind this are described at a safe level in [The Methodology Base](../../concepts/methodology-base.md).
+A Mindset is a deep rational-emotional portrait, not a decorative persona. Informed by Jobs To Be Done and emotion research, it captures the buyer's core job, the push and pull forces acting on the decision, the anxiety and habit that resist change, the emotional states in play (from a model of 13), and the beliefs, objections, and workarounds the buyer currently holds. The methods behind this are described at a safe level in [The Methodology Base](../../concepts/methodology-base.md).
 
 ## What the module produces
 
