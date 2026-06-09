@@ -31,6 +31,13 @@ The public website positions Creative Engines as strategic content powered by Mi
 - Attention Journey (customer journey as a map of attention): ./concepts/attention-journey.md
 - Multi-Agent Creative Department (production plus audience focus group): ./concepts/multi-agent-creative-department.md
 - The Methodology Base (marketing science behind the product): ./concepts/methodology-base.md
+- Strategy-grounded content: ./concepts/strategy-grounded-content.md
+- Buyer belief loop: ./concepts/buyer-belief-loop.md
+- Editorial governance: ./concepts/editorial-governance.md
+- Anti-slop stance: ./concepts/anti-slop-stance.md
+- Brand voice: ./concepts/brand-voice.md
+- Brand Preview: ./concepts/brand-preview.md
+- Strategy handoff drift: ./concepts/strategy-handoff-drift.md
 - Concepts: ./concepts/README.md
 - Comparisons: ./comparisons/README.md
 - Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
