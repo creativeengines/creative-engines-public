@@ -56,6 +56,8 @@ The point is not to force every asset to be unusual. The point is to prevent AI-
 ## See also
 
 - [Concepts](./README.md)
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md)
+- [The Methodology Base](./methodology-base.md)
 - [Editorial governance](./editorial-governance.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
 - [Brand voice](./brand-voice.md)

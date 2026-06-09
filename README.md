@@ -69,6 +69,15 @@ Creative Engines is built around a simple position:
 
 The website expresses this as strategic content powered by Mindset Intelligence. In this repository, that positioning is expanded into product modules, segment pages, solution pages, concept pages, comparisons, and public materials.
 
+## What makes Creative Engines different
+
+For readers comparing Creative Engines to generic AI tools, four concept pages explain the depth behind the product:
+
+- [Strategy-to-Content Pipeline](./concepts/strategy-to-content-pipeline.md) - how market understanding, buyer Mindsets, attention mapping, strategy, production, and learning stay connected in one route.
+- [Mindset Intelligence](./concepts/mindset-intelligence.md) and the [Attention Journey](./concepts/attention-journey.md) - deep rational-emotional buyer portraits, and a map of where their attention travels across touchpoints and media channels.
+- [Multi-Agent Creative Department](./concepts/multi-agent-creative-department.md) - content produced by a team of specialized agents and tested on an audience focus group of buyer Mindsets before release.
+- [The Methodology Base](./concepts/methodology-base.md) - the marketing science and creative methodology the product applies as working rules.
+
 ## See also
 
 - [Product](./product/README.md)

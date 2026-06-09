@@ -54,6 +54,8 @@ From there, Creative Engines helps the team answer a practical sequence of quest
 
 The product value is in keeping these questions connected. If content production starts without the earlier context, the output becomes generic. If strategy is created but not carried into tasks and review, the work drifts. If learning is not captured, content does not compound.
 
+For a connected, end-to-end view of how the modules relate, see the [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md). The depth behind specific steps is explained in [Mindset Intelligence](../concepts/mindset-intelligence.md), the [Attention Journey](../concepts/attention-journey.md), the [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md), and [The Methodology Base](../concepts/methodology-base.md).
+
 ## Public technical boundary
 
 These public docs may mention high-level implementation ideas when they help a buyer understand the product, including hybrid search, Python, LLM calls, source grounding, human review, RLS, accounts, brands, and users.

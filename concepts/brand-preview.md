@@ -33,6 +33,8 @@ A Brand Preview may summarize public-facing themes such as:
 
 High-fit buyers often need to trust the thinking before they trust the platform. Brand Preview is a product-led education surface: it helps a reader understand the shape of Creative Engines without forcing them to inspect internal systems.
 
+A Brand Preview is the visible output of real analysis, not a template. It reflects how Creative Engines reads a brand through buyer [Mindsets](./mindset-intelligence.md) and the [Attention Journey](./attention-journey.md), which is why it can show specific strategic directions rather than generic observations.
+
 ## Public boundary
 
 This page describes the public concept. It does not publish qualification logic, automation details, private source handling, internal templates, or delivery operations.
@@ -40,6 +42,8 @@ This page describes the public concept. It does not publish qualification logic,
 ## See also
 
 - [Concepts](./README.md)
+- [Mindset Intelligence](./mindset-intelligence.md)
+- [Attention Journey](./attention-journey.md)
 - [Lead Generation](../product/lead-generation/README.md)
 - [Mid-tier independent agency solution](../solutions/mid-tier-indie-agency/README.md)
 - [Media](../media/README.md)

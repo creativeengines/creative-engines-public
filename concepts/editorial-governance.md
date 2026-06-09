@@ -59,5 +59,7 @@ This page explains the public concept. It does not describe private review syste
 - [Anti-slop stance](./anti-slop-stance.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
 - [Brand voice](./brand-voice.md)
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md)
+- [The Methodology Base](./methodology-base.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Materials](../materials/README.md)

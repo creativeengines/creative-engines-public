@@ -52,6 +52,14 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **AI slop** - Low-effort AI-assisted content that sounds fluent but lacks strategy, specificity, originality, buyer relevance, or editorial accountability.
 
+**Attention Journey** - A map of where a buyer's attention travels across touchpoints and media channels before they act, and what they think and feel at each point. Creative Engines treats the customer journey as a route through attention rather than a generic funnel.
+
+**Audience focus group** - A focus group built from a brand's own buyer Mindsets, used inside production to check what real audience members understood, felt, and found unclear before content is published.
+
+**Methodology base** - The curated body of marketing science and creative methodology Creative Engines applies as working rules across audience understanding, strategy, attention planning, and production.
+
+**Multi-Agent Creative Department** - The set of specialized agents that produce content in Creative Studio, modeled on an agency creative department: a Creative Director, Lead Copywriters, a Brand Guardian, and an audience focus group.
+
 **Mindset** - A narrow rational-emotional portrait of a person inside a Segment: what they are trying to do, what they believe, what they fear, what holds them back, and what progress would feel like.
 
 **Mindset Intelligence** - The product area that helps teams reason about buyer states and use those states to guide strategy and content.

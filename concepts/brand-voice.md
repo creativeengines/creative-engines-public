@@ -43,5 +43,7 @@ This page describes brand voice as a public product concept. It does not publish
 - [Concepts](./README.md)
 - [Editorial governance](./editorial-governance.md)
 - [Anti-slop stance](./anti-slop-stance.md)
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md)
+- [The Methodology Base](./methodology-base.md)
 - [Brand Knowledge](../product/brand-knowledge/README.md)
 - [Brand voice commenting checklist](../materials/brand-voice-commenting-checklist.md)

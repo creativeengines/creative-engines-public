@@ -10,6 +10,8 @@ tags: [comparisons, agencies, internal-teams, creative-engines]
 
 Creative Engines is not a replacement for strategic or editorial professionals. It is a system those professionals can use to preserve context, reduce repeated handoff loss, and make content operations more consistent.
 
+Instead of depending on one person to hold strategy, brand voice, buyer psychology, and creative judgment in their head, Creative Engines encodes that knowledge into the system: buyer [Mindsets](../concepts/mindset-intelligence.md), [a methodology base](../concepts/methodology-base.md) of marketing science and creative tactics, and a [multi-agent creative department](../concepts/multi-agent-creative-department.md) that produces and reviews work against it.
+
 ## Agencies
 
 Agencies bring judgment, client knowledge, and strategic taste. Creative Engines can support agencies that need a more structured way to turn strategy into repeatable content operations across clients.
@@ -34,4 +36,6 @@ Internal teams understand their brand and market. Creative Engines can support t
 - [Mid-tier independent agency solution](../solutions/mid-tier-indie-agency/README.md)
 - [Mid-market B2B SaaS solution](../solutions/mid-market-b2b-saas/README.md)
 - [Strategy handoff drift](../concepts/strategy-handoff-drift.md)
+- [The Methodology Base](../concepts/methodology-base.md)
+- [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md)
 - [Product](../product/README.md)

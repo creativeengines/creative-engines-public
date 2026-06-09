@@ -27,6 +27,8 @@ Creative Engines helps teams ask:
 
 Content systems often break because each step is handled in isolation. Creative Engines connects the steps so that content is not just produced, but governed by a clear strategic logic.
 
+Each step is also grounded in established buyer psychology rather than intuition. The understanding steps draw on Jobs To Be Done, emotion, and attention research described in [The Methodology Base](./methodology-base.md), and the work is mapped across touchpoints in the [Attention Journey](./attention-journey.md). The connected view of all of this is the [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md).
+
 ## Public boundary
 
 This page is a simplified public explanation. It is not a private methodology or an implementation guide.
@@ -35,5 +37,8 @@ This page is a simplified public explanation. It is not a private methodology or
 
 - [Concepts](./README.md)
 - [Mindset Intelligence](./mindset-intelligence.md)
+- [Attention Journey](./attention-journey.md)
+- [The Methodology Base](./methodology-base.md)
+- [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
 - [Product](../product/README.md)
 - [Glossary](../glossary/README.md)

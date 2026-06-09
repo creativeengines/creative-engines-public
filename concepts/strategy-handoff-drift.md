@@ -34,5 +34,7 @@ This page describes a public buyer problem and product concept. It does not publ
 
 - [Concepts](./README.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
+- [Multi-Agent Creative Department](./multi-agent-creative-department.md)
+- [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
 - [Mid-tier independent agency solution](../solutions/mid-tier-indie-agency/README.md)
 - [Strategy handoff drift checklist](../materials/strategy-handoff-drift-checklist.md)
