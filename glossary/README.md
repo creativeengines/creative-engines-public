@@ -1,7 +1,7 @@
 ---
 title: "Glossary"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-06-12
 audience: [buyers, users, contractors, ai-assistants]
 tags: [glossary, definitions, creative-engines]
 ---
@@ -69,6 +69,14 @@ This glossary defines recurring public terms used across Creative Engines materi
 **Mindset** - A narrow rational-emotional portrait of a person inside a Segment: what they are trying to do, what they believe, what they fear, what holds them back, and what progress would feel like.
 
 **Mindset Intelligence** - The product area that helps teams reason about buyer states and use those states to guide strategy and content.
+
+**Narrative** - A brand's core story for its content: the problem or status quo it pushes against, the better state it offers, and the single idea it leads with. Creative Engines treats each narrative as a first-class object, so every piece of content stays true to one clear story instead of drifting across briefs, drafts, and channels.
+
+**Single-Minded Proposition (SMP)** - The one sharp idea a narrative reduces to: the single thing a piece of content is really saying, before taglines or formats.
+
+**UVP (Unique Value Proposition)** - A narrative aimed at one specific audience Mindset or Segment and delivered through one specific offering: the promise that moves this buyer from their problem to their better state. A UVP is a validated match between a story and an audience, not a generic slogan.
+
+**Proof Anchor** - The concrete, checkable evidence behind a claim: a number, a before-and-after comparison, or a result that can be demonstrated. The approach is to treat a strategic claim without a proof anchor as unfinished, so a buyer gets evidence they can verify rather than an assertion they have to trust.
 
 **Portfolio control** - The need to keep multiple brands, clients, voices, contexts, and content systems distinct while operating across a portfolio.
 
