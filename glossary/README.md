@@ -1,7 +1,7 @@
 ---
 title: "Glossary"
 status: Current
-last_updated: 2026-06-12
+last_updated: 2026-06-19
 audience: [buyers, users, contractors, ai-assistants]
 tags: [glossary, definitions, creative-engines]
 ---
@@ -70,11 +70,19 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Mindset Intelligence** - The product area that helps teams reason about buyer states and use those states to guide strategy and content.
 
-**Narrative** - A brand's core story for its content: the problem or status quo it pushes against, the better state it offers, and the single idea it leads with. Creative Engines treats each narrative as a first-class object, so every piece of content stays true to one clear story instead of drifting across briefs, drafts, and channels.
+**Narrative** - A brand's core story for its content: the problem or status quo it pushes against, the better state it offers, and the single idea it leads with. Creative Engines treats each narrative as a first-class object, so every piece of content stays true to one clear story instead of drifting across briefs, drafts, and channels. *(In plain terms: your brand story.)*
 
-**Single-Minded Proposition (SMP)** - The one sharp idea a narrative reduces to: the single thing a piece of content is really saying, before taglines or formats.
+**Single-Minded Proposition (SMP)** - The one sharp idea a narrative reduces to: the single thing a piece of content is really saying, before taglines or formats. It is the seed a tagline is written from. *(In plain terms: your main message — the one thing you want people to remember.)*
 
-**UVP (Unique Value Proposition)** - A narrative aimed at one specific audience Mindset or Segment and delivered through one specific offering: the promise that moves this buyer from their problem to their better state. A UVP is a validated match between a story and an audience, not a generic slogan.
+**Tagline** - The short, memorable public line that expresses a narrative's single idea (its SMP). *(In plain terms: your slogan.)*
+
+**UVP (Unique Value Proposition)** - A narrative aimed at one or more audience Mindsets or Segments and delivered through one or more offerings: the promise that moves a buyer from their problem to their better state. The offering is part of the UVP, not separate from it. The short line a customer actually reads is the tagline that expresses the UVP — one expression of it, not the UVP itself. *(In plain terms: why customers choose you.)*
+
+**Value Proposition** - The promise of value behind a UVP (see UVP): who it is for, what they get, and the offering that delivers it. The short line a customer reads is the tagline, not the value proposition itself. *(In plain terms: why customers choose you.)*
+
+**Positioning** - Where a brand chooses to stand in its market: what it leads on (for example price, speed, quality, or range), in which category, and against which alternatives.
+
+**Offering** - What a brand provides to a buyer — a product, service, feature, module, or lead magnet — through which a value proposition is delivered. *(In plain terms: what you sell / your package.)*
 
 **Proof Anchor** - The concrete, checkable evidence behind a claim: a number, a before-and-after comparison, or a result that can be demonstrated. The approach is to treat a strategic claim without a proof anchor as unfinished, so a buyer gets evidence they can verify rather than an assertion they have to trust.
 
