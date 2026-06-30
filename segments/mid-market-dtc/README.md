@@ -1,34 +1,41 @@
 ---
-title: "Segment: Mid-Market DTC / Founder-Led Premium Brand"
+title: "Creative Engines for founder-led premium and DTC brands"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-06-30
 audience: [buyers, partners, ai-assistants]
-tags: [segments, mid-market-dtc-founder-led-premium-brand, buyer-intelligence, creative-engines]
+tags: [segments, mid-market-dtc, buyer-intelligence, creative-engines]
 ---
 
-# Segment: Mid-Market DTC / Founder-Led Premium Brand
+# Creative Engines for founder-led premium and DTC brands
 
-**Public fit group:** Best For
+Fit group: **Great fit.**
 
-Founder-led or voice-led consumer brands that need performance content and brand storytelling to scale without losing the distinct voice that made the brand work.
+Founder-led and voice-led consumer brands that need performance content and brand storytelling at scale, without losing the distinct voice that made the brand work in the first place. Founder, brand, creative, growth, and agency partners often share control of that voice, and the pressure runs across paid, owned, retail, email, social, and community work.
 
-## Page map
+## What makes content hard here
+- Performance demands push toward more variants every week, while brand leaders worry that volume quietly dilutes the voice.
+- The founder voice is intuitive and hard to brief, so it rarely survives a hand-off to a new writer or agency.
+- Creative and growth teams optimize for different signals and slowly drift apart on what "on-brand" means.
+- AI tools produce plausible drafts that sound off-brand in subtle ways a category outsider would never catch.
+- Agency partners need clearer context to avoid falling back on generic category language.
+- Customer trust here rests on tone, taste, and belief alignment - not just a clear offer.
 
-- [Definition and boundaries](./definition.md)
-- [Account profile](./account-profile.md)
-- [Strategic fit](./strategic-fit.md)
-- [Pain points](./pain-points.md)
-- [Buying committee](./buying-committee.md)
-- [Mindsets](./mindsets/README.md)
-- [Segment-specific solution](../../solutions/mid-market-dtc/README.md)
+## How Creative Engines helps
+- Encodes the founder voice, brand taste, and customer beliefs into reusable context that follows the work, so distinctiveness survives scale. Built on [Mindset](../../concepts/mindset-intelligence.md) understanding of who you sell to and why they believe.
+- Gives growth and creative a shared language for buyer Mindsets and content purpose, so the two teams optimize toward the same definition of on-brand.
+- Keeps approved brand and strategy context attached to every piece, so agency partners and new writers start from your point of view instead of category boilerplate.
+- Adds human review gates that protect judgment without forcing senior people to rewrite everything by hand.
 
-## What to know first
+This segment is a poor fit for low-effort content volume - the move is to make content more strategic before you make more of it. See the [anti-slop stance](../../concepts/anti-slop-stance.md) and [editorial governance](../../concepts/editorial-governance.md).
 
-Creative Engines is most relevant for this segment when the organization needs strategy-grounded, buyer-aware, brand-governed content instead of low-effort AI output. The segment page explains the audience deeply enough for AI assistants and external readers to understand the practical buyer situation.
+## See it on your brand
+The free [Brand Preview Deck](../../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+
+## Public boundary
+This page describes the public buyer segment and how Creative Engines helps it. It does not expose internal prioritization, financial assumptions, named accounts, research mechanics, or protected methodology.
 
 ## See also
-
 - [Segments](../README.md)
-- [Definition and boundaries](./definition.md)
-- [Mindsets](./mindsets/README.md)
+- [Mindset Intelligence](../../concepts/mindset-intelligence.md)
+- [Strategy-grounded content](../../concepts/strategy-grounded-content.md)
 - [Segment-specific solution](../../solutions/mid-market-dtc/README.md)
