@@ -92,4 +92,4 @@ This page describes the public buyer segment and how Creative Engines helps it. 
 - [Segments](./README.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
-- [Segment-specific solution](../solutions/mid-cap-enterprise-brand/README.md)
+- [Segment-specific solution](../solutions/mid-cap-enterprise-brand.md)

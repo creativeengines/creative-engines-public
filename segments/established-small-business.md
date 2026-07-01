@@ -74,7 +74,7 @@ The owner or operating leader usually decides, often influenced by a fractional 
 
 ## Strategic interpretation
 
-The fit is strongest where an established small business needs to make strategic thinking reusable without hiring a large marketing function - turning buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where an established small business needs to make strategic thinking reusable so a small team gets the clarity of a much larger one - turning buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 
@@ -89,4 +89,4 @@ This page describes the public buyer segment and how Creative Engines helps it. 
 - [Segments](./README.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
-- [Segment-specific solution](../solutions/established-small-business/README.md)
+- [Segment-specific solution](../solutions/established-small-business.md)

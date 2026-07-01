@@ -50,7 +50,7 @@ In practical terms, this means a tactic can be useful and still carry AI-slop ri
 
 A strong creative team does not usually publish the first idea that appears. It explores multiple directions, reviews them, rejects weak work, sharpens the strongest candidates, and stress-tests the output before public use.
 
-Creative Engines is designed around that kind of creative-department logic. A useful mental model is an agency creative department: three copywriters, three rounds, 15-27 concepts, creative-director selection, stress testing, and audience review before public use.
+Creative Engines is designed around that kind of creative-department logic. A useful mental model is an agency creative department: several copywriters exploring competing directions, a creative director selecting and sharpening the strongest, then stress testing and audience review before public use.
 
 A user can work from brand context, buyer Mindsets, strategic narratives, source material, draft variants, review comments, and approval gates instead of relying on a single open-ended AI response.
 
@@ -103,6 +103,16 @@ That is the DIY path.
 Creative Engines is the buy path. It is for teams that want to do strategic work while relying on a productized method that combines hybrid AI calls, multi-agent workflows, deterministic checks, brand context, and human review.
 
 The choice is not whether to use AI. The choice is whether the team wants to maintain the method itself or use a product built around the method.
+
+## Where the DIY path tends to break
+
+Building the method in-house is a real option, and some skilled operators run excellent systems this way. The catch is the same unpredictability an open chat has: an agent ranges across a large space of possible meanings and lands somewhere different each session, so a stable, repeatable instruction is very hard to pin down. In practice the operator ends up checking intermediate results and supervising each step, guiding a capable but inexperienced hand. Three patterns tend to appear as a DIY system grows:
+
+- **It drifts between runs.** However carefully the instructions are written, an open-ended agent attends to something on one run and something else on the next. Time meant for strategy goes to catching the system deviating from its own rules and steering it back.
+- **It fragments across formats.** A setup tuned for one format – say short social posts – starts to strain when the next format is added, then the next channel, then long-form, then newsletters. Keeping one coherent method across all of them, instead of a pile of separate recipes, becomes the real job.
+- **Cost and control come apart.** An open-ended agent can range across a large space of possibilities to reach an answer, with limited visibility into why it cost what it cost or chose what it chose. As usage scales, spend and accountability get harder to hold together.
+
+Creative Engines packages the method so these do not fall on the operator: context is assembled for each task within deterministic guardrails, the same review discipline applies across every format, and the work stays inspectable. That is the difference between maintaining a method and using one.
 
 ## Public boundary
 

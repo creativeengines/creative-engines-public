@@ -81,6 +81,7 @@ Several concept pages explain the depth behind the product:
 - Editorial control matters.
 - Buyer beliefs matter more than demographic labels.
 - AI should be piloted by professionals, not treated as a magic button.
+- The product amplifies people; it does not replace them. Creative Engines exists to make the professionals who use it sharper – better creative strategists, not sidelined operators. The mechanisms are only as good as the expert pilot directing them, and without that human they have no point.
 - Content should become a reusable business asset, not disposable feed filler.
 
 ## See also

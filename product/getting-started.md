@@ -45,7 +45,7 @@ For a buyer, this may look like a first read on brand context, audience Mindsets
 
 ## What not to expect
 
-Creative Engines is not a magic-button replacement for strategic judgment, brand leadership, or editorial review. The product is designed for teams that want AI piloted with context, constraints, review, and quality control. Human judgment remains part of the system.
+Creative Engines is not a magic-button replacement for strategic judgment, brand leadership, or editorial review. The product is designed for teams that want AI piloted with context, constraints, review, and quality control. Human judgment remains the pilot: Creative Engines is built to make the people who use it sharper creative strategists, not to replace them, and the mechanisms only matter with an expert directing them.
 
 ## Public boundary
 

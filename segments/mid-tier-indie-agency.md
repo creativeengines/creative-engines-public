@@ -30,7 +30,7 @@ Independent agencies large enough to manage serious clients and complex strategy
 
 Titles commonly involved, and what each one weighs:
 
-- **Founder / CEO / Managing Partner** - owns the margin and the agency's future as a transferable asset; looks for a system that scales output quality without re-hiring cut headcount and keeps the shop distinct rather than interchangeable.
+- **Founder / CEO / Managing Partner** - owns the margin and the agency's future as a transferable asset; looks for a system that scales output quality without proportional cost and keeps the shop distinct rather than interchangeable.
 - **Chief Creative Officer** - the aesthetic conscience whose taste is the product; protects craft and brand voice, and weighs whether a tool raises the distinctiveness floor rather than flattening it toward sameness.
 - **Head of Innovation / Head of AI Practice** - owns how AI enters the agency; favors a thin governance and orchestration layer embedded in existing tools over another standalone suite, and values a system that removes recurring maintenance.
 - **Chief Financial Officer** - the financial conscience under retainer compression; weighs return, brand-safety, and consolidation, and favors a governed workflow over scattered subscriptions and ungoverned tool sprawl.
@@ -89,4 +89,4 @@ This page describes the public buyer segment and how Creative Engines helps it. 
 - [Segments](./README.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
-- [Segment-specific solution](../solutions/mid-tier-indie-agency/README.md)
+- [Segment-specific solution](../solutions/mid-tier-indie-agency.md)

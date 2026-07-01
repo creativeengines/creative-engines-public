@@ -16,11 +16,26 @@ This folder explains how Creative Engines differs from adjacent tools and workfl
 - [Generic LLM chat](./generic-llm-chat.md)
 - [AI writing tools](./ai-writing-tools.md)
 - [Content factories](./content-factories.md)
-- [Agencies and internal teams](./agencies-and-internal-teams.md)
 
 ## Summary
 
-Creative Engines is different because it starts from strategy, buyer belief, brand context, and editorial governance. The product is designed for teams that need quality at scale, not output volume for its own sake.
+Creative Engines is different because it starts from strategy, buyer belief, brand context, and editorial governance. Everything in it ladders into one outcome – a [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words, proven before spend, and installed across everything the brand ships. The product is designed for teams that need quality at scale, not output volume for its own sake.
+
+## At a glance
+
+A category-position sketch, not a competitor scorecard. It contrasts the general shape of each approach; individual tools vary.
+
+| Approach | Starts from | Buyer model | Grounded in | Review | Who owns the method |
+|---|---|---|---|---|---|
+| Generic LLM chat | The instruction in front of it | None | General web knowledge | None built in | n/a – one-off help |
+| AI writing tools | A draft or variation request | Flat personas, if any | Mostly general knowledge | Tone and grammar | n/a – a writing surface |
+| Content factories | A throughput target | Thin or none | Varies, often shallow | Secondary to volume | n/a – an output pipeline |
+| Claude Code and AI agents *(DIY)* | Whatever the operator designs | Whatever the operator builds | Whatever the operator wires up | Whatever the operator codes | The operator builds and maintains it |
+| **Creative Engines** | Strategy and a proven reason to buy | Rational-emotional buyer Mindsets | The brand's own approved knowledge | A governed human gate | Productized – the method is built in |
+
+The table contrasts Creative Engines with tools and workflows. It is not a comparison with agencies or in-house teams: Creative Engines is built for those professionals to use, not to replace them – it exists to make them sharper creative strategists, and the mechanisms only matter with an expert directing them.
+
+Most tools describe a buyer with a flat persona or none at all. Creative Engines works from buyer [Mindsets](../concepts/mindset-intelligence.md) – rational-emotional portraits of what a buyer is trying to do, fears, resists, and wants – which is what lets its content speak to real motivation rather than generic category language.
 
 ## Where the difference actually comes from
 
@@ -36,6 +51,7 @@ The connective view of how these fit together is the [Strategy-to-Content Pipeli
 ## See also
 
 - [Root README](../README.md)
+- [Reason to Buy](../concepts/reason-to-buy.md)
 - [Concepts](../concepts/README.md)
 - [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md)
 - [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md)
