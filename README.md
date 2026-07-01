@@ -35,7 +35,9 @@ The spine of Creative Engines is the [Reason to Buy](./concepts/reason-to-buy.md
 - [Solutions](./solutions/README.md) - segment-specific product fit.
 - [Concepts](./concepts/README.md) - the ideas behind Creative Engines, starting with the Reason to Buy.
 - [Comparisons](./comparisons/README.md) - how Creative Engines differs from adjacent tools and workflows.
+- [FAQ](./faq/README.md) - straight answers to the questions buyers actually ask.
 - [Glossary](./glossary/README.md) - public definitions for recurring terms.
+- [About](./about/README.md) - who built Creative Engines and why.
 - [Media](./media/README.md) - approved public links.
 - [AI assistant instructions](./AGENTS.md) - how AI tools should read this repository.
 - [Machine-readable map](./llms.txt) - short index for AI assistants.
@@ -91,5 +93,7 @@ Several concept pages explain the depth behind the product:
 - [Solutions](./solutions/README.md)
 - [Concepts](./concepts/README.md)
 - [Comparisons](./comparisons/README.md)
+- [FAQ](./faq/README.md)
 - [Glossary](./glossary/README.md)
+- [About](./about/README.md)
 - [Media](./media/README.md)

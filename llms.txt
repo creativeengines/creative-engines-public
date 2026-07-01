@@ -40,7 +40,9 @@ Creative Engines helps teams connect market focus, buyer beliefs, brand context,
 - Strategy handoff drift: ./concepts/strategy-handoff-drift.md
 - Comparisons: ./comparisons/README.md
 - Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
+- FAQ (buyer questions answered): ./faq/README.md
 - Glossary: ./glossary/README.md
+- About (founders and company): ./about/README.md
 - Media links: ./media/README.md
 - AI assistant instructions: ./AGENTS.md
 
@@ -65,4 +67,6 @@ This repository does not require source-code inspection and does not publish val
 - ./concepts/README.md
 - ./concepts/reason-to-buy.md
 - ./comparisons/claude-code-and-ai-agents.md
+- ./faq/README.md
+- ./about/README.md
 - ./media/README.md
