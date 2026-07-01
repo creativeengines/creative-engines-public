@@ -12,6 +12,8 @@ Creative Engines is not a content factory.
 
 A content factory optimizes for throughput. Creative Engines is designed around governance: strategy, buyer understanding, brand context, editorial control, and learning.
 
+The deeper difference is what a content factory does not do. It does not decide who a piece is for, why it should exist, which stage of the buyer's journey it serves, or the reason a buyer would choose the brand. A team has to hold all of that in its own head and hand it to a machine that produces text but carries none of the strategy. Creative Engines is built to hold the who, the why, and the reason to buy, so production answers to strategy instead of the team supplying the strategy by hand every time.
+
 The website is explicit about this stance: Creative Engines votes for quality, not quantity. It is built for teams that do not want to win by flooding feeds with low-context material.
 
 ## Content factory logic
@@ -36,7 +38,7 @@ A content factory judges a piece mainly by whether it shipped. Creative Engines 
 
 AI makes content volume easier. That raises the value of editorial discipline. Teams need systems that help them publish better, not merely more.
 
-Creative Engines is positioned as a governance layer above content factories, agencies, internal teams, and AI-assisted production systems. The point is not to remove production. The point is to make production answer to strategy.
+Creative Engines is positioned as a governance layer above content factories and AI-assisted production systems. The point is not to remove production, and not to replace the professionals who direct it. The point is to make production answer to strategy.
 
 ## See also
 

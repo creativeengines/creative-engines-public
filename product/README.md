@@ -43,6 +43,10 @@ The value is in keeping these questions connected. Content produced without the 
 
 For a connected, end-to-end view of how the modules relate, see the [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md). The depth behind specific steps is explained in [Mindset Intelligence](../concepts/mindset-intelligence.md), the [Attention Journey](../concepts/attention-journey.md), the [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md), and [The Methodology Base](../concepts/methodology-base.md).
 
+## Data ownership and isolation
+
+Each brand's material lives in its own isolated workspace, separate from every other brand's. A brand's own knowledge, strategy, and content belong to the brand, and are not used to train external models. Client data is deleted on request.
+
 ## Public technical boundary
 
 These public docs may mention high-level implementation ideas when they help a buyer understand the product, including hybrid search, source grounding, LLM calls, and human review.

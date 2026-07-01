@@ -80,21 +80,21 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Mindset Intelligence** - The product area that helps teams reason about buyer states and use those states to guide strategy and content.
 
-**Narrative** - A brand's core story for its content: the problem or status quo it pushes against, the better state it offers, and the single idea it leads with. Creative Engines treats each narrative as a first-class object, so every piece of content stays true to one clear story instead of drifting across briefs, drafts, and channels. *(In plain terms: your brand story.)*
+**Narrative** - A brand's core story for its content: the problem or status quo it pushes against, the better state it offers, and the single idea it leads with. Creative Engines treats each narrative as a first-class object, so every piece of content stays true to one clear story instead of drifting across briefs, drafts, and channels. *(In plain terms: the brand's story.)*
 
-**Single-Minded Proposition (SMP)** - The one sharp idea a narrative reduces to: the single thing a piece of content is really saying, before taglines or formats. It is the seed a tagline is written from. *(In plain terms: your main message – the one thing you want people to remember.)*
+**Single-Minded Proposition (SMP)** - The one sharp idea a narrative reduces to: the single thing a piece of content is really saying, before taglines or formats. It is the seed a tagline is written from. *(In plain terms: the brand's main message – the one thing it wants people to remember.)*
 
-**Tagline** - The short, memorable public line that expresses a narrative's single idea (its SMP). *(In plain terms: your slogan.)*
+**Tagline** - The short, memorable public line that expresses a narrative's single idea (its SMP). *(In plain terms: the brand's slogan.)*
 
-**UVP (Unique Value Proposition)** - A narrative aimed at one or more audience Mindsets or Segments and delivered through one or more offerings: the promise that moves a buyer from their problem to their better state. The offering is part of the UVP, not separate from it. The short line a customer actually reads is the tagline that expresses the UVP – one expression of it, not the UVP itself. *(In plain terms: why customers choose you.)*
+**UVP (Unique Value Proposition)** - A narrative aimed at one or more audience Mindsets or Segments and delivered through one or more offerings: the promise that moves a buyer from their problem to their better state. The offering is part of the UVP, not separate from it. The short line a customer actually reads is the tagline that expresses the UVP – one expression of it, not the UVP itself. *(In plain terms: why customers choose the brand.)*
 
-**Value Proposition** - The promise of value behind a UVP (see UVP): who it is for, what they get, and the offering that delivers it. The short line a customer reads is the tagline, not the value proposition itself. *(In plain terms: why customers choose you.)*
+**Value Proposition** - The promise of value behind a UVP (see UVP): who it is for, what they get, and the offering that delivers it. The short line a customer reads is the tagline, not the value proposition itself. *(In plain terms: why customers choose the brand.)*
 
 **Reason to Buy** - The customer-facing name for the value proposition: the reason a brand's buyers choose it over the alternatives – found in the buyers' own words, proven before spend, and installed across everything the brand ships. *(Never abbreviated to "RTB", which means Reason-to-Believe – a different idea. See also Proof Anchor.)*
 
 **Positioning** - Where a brand chooses to stand in its market: what it leads on (for example price, time, quality, or variety), in which category, and against which alternatives. Part of a brand's Brand DNA.
 
-**Offering** - What a brand provides to a buyer – a product, service, feature, module, or lead magnet – through which a value proposition is delivered. *(In plain terms: what you sell / your package.)*
+**Offering** - What a brand provides to a buyer – a product, service, feature, module, or lead magnet – through which a value proposition is delivered. *(In plain terms: what the brand sells / its package.)*
 
 **Proof Anchor** - The concrete, checkable evidence behind a claim: a number, a before-and-after comparison, or a result that can be demonstrated. The approach is to treat a strategic claim without a proof anchor as unfinished, so a buyer gets evidence they can verify rather than an assertion they have to trust.
 
