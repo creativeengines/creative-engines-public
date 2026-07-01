@@ -66,4 +66,4 @@ This page explains what Mindset Intelligence does for users. It does not publish
 - [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md)
 - [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md)
 - [Segments](../segments/README.md)
-- [Buyer belief loop](../concepts/buyer-belief-loop.md)
+- [Reason to Buy](../concepts/reason-to-buy.md)

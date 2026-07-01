@@ -1,7 +1,7 @@
 ---
 title: "Brand Preview"
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-07-01
 audience: [buyers, agencies, partners, ai-assistants]
 tags: [concepts, brand-preview, lead-generation, creative-engines]
 ---

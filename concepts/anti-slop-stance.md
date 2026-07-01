@@ -1,7 +1,7 @@
 ---
 title: "Anti-Slop Stance"
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]
 tags: [concepts, anti-slop, editorial-quality, creative-engines]
 ---
@@ -49,7 +49,7 @@ The website frames the enemy plainly: generic AI output that sounds like everyon
 
 Creative Engines treats AI slop as more than weak prose. Generic content often comes from generic creative moves: familiar hooks, predictable structures, overused metaphors, vague claims, and safe category language.
 
-The product uses a catalog of 238 creative tactics, organized into 10 categories, along with review habits to push work toward more specific, brand-owned ideas. Publicly describable influences include bisociation, distinctive assets, creative effectiveness research, and structured creative problem solving.
+The product uses a catalog of 268 creative tactics, organized into 12 categories, along with review habits to push work toward more specific, brand-owned ideas. Publicly describable influences include bisociation, distinctive assets, creative effectiveness research, and structured creative problem solving.
 
 The point is not to force every asset to be unusual. The point is to prevent AI-assisted work from defaulting to the easiest pattern.
 

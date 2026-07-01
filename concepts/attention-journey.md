@@ -1,7 +1,7 @@
 ---
 title: "Attention Journey"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [buyers, users, strategists, partners, ai-assistants]
 tags: [concepts, attention-journey, customer-journey-map, media-channels, creative-engines]
 ---
@@ -12,7 +12,7 @@ The Attention Journey is the Creative Engines concept for mapping where a buyer'
 
 Most teams describe the buyer path as a generic funnel: awareness, consideration, decision. That model is easy to draw but hard to use, because it does not say where a specific buyer is paying attention, in what order, or in what state of mind. Creative Engines treats the customer journey as a map of attention, not a row of funnel stages.
 
-This page describes the approach Creative Engines takes to the customer journey, and the direction the product is building toward. It is a core part of the methodology, and an actively developing capability.
+This page describes the approach Creative Engines takes to the customer journey: treating it as a route through attention rather than a generic funnel.
 
 ## From Mindset to journey
 
@@ -83,7 +83,7 @@ This page explains the Attention Journey as a product concept. It does not publi
 ## See also
 
 - [Mindset Intelligence](./mindset-intelligence.md)
-- [Buyer belief loop](./buyer-belief-loop.md)
+- [Reason to Buy](./reason-to-buy.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
 - [Go-To-Market Strategy Planning](../product/brand-strategy.md)
 - [Creative Studio](../product/creative-studio.md)

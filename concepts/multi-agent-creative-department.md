@@ -1,7 +1,7 @@
 ---
 title: "Multi-Agent Creative Department"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [buyers, users, agencies, partners, ai-assistants]
 tags: [concepts, creative-studio, multi-agent, creative-department, anti-slop, creative-engines]
 ---
@@ -70,7 +70,7 @@ The pipeline produces more than social posts. It can output long-form articles, 
 
 Asking an AI to "be creative" produces fluent but familiar output, because every team using the same tools with the same shallow instructions converges on the same structures, claims, and rhythm. That convergence is what AI slop actually is.
 
-Creative Engines replaces the vague instruction with creative discipline. The department's behavior is informed by a curated, multi-source methodology base drawn from advertising, creativity research, brand science, and audience psychology, and by a catalog of 238 creative and styling tactics organized into 10 categories. The point is not to publish those sources or tactics. The point is that creative work is held to a structured quality bar rather than left to a single generation step.
+Creative Engines replaces the vague instruction with creative discipline. The department's behavior is informed by a curated, multi-source methodology base drawn from advertising, creativity research, brand science, and audience psychology, and by a catalog of 268 creative and styling tactics organized into 12 categories. The point is not to publish those sources or tactics. The point is that creative work is held to a structured quality bar rather than left to a single generation step.
 
 ## The contested-process advantage
 
@@ -89,7 +89,6 @@ This page explains the creative-department pattern at a client-facing level. It 
 ## See also
 
 - [Creative Studio](../product/creative-studio.md)
-- [Strategy-Grounded Content Production](../product/creative-studio.md)
 - [Anti-slop stance](./anti-slop-stance.md)
 - [Editorial governance](./editorial-governance.md)
 - [Brand voice](./brand-voice.md)

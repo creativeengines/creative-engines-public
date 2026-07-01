@@ -1,7 +1,7 @@
 ---
 title: "The Methodology Base"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [buyers, partners, investors, strategists, ai-assistants]
 tags: [concepts, methodology, neuromarketing, jobs-to-be-done, creative-tactics, creative-engines]
 ---
@@ -20,14 +20,14 @@ The methodology base brings together several established bodies of work. Publicl
 - **Neuromarketing and emotion.** Buyers act on feeling and justify with reason. Creative Engines reasons about the emotion a piece of content is likely to evoke, working from a model of 13 emotional states rather than a single "tone" label.
 - **Attention and the customer journey.** The AIDAL funnel (Awareness, Interest, Desire, Action, Loyalty) and a five-rung awareness ladder (from unaware to most-aware) place each piece of content at the buyer's real stage of readiness. Google's research on Micro-Moments and the Messy Middle informs the [Attention Journey](./attention-journey.md): the approach of mapping where attention forms and travels.
 - **Creative effectiveness and brand science.** Influences that can be named publicly include Byron Sharp's work on distinctive assets, Orlando Wood's work on creative effectiveness, Arthur Koestler's bisociation, and structured creative problem solving in the spirit of TRIZ.
-- **Creative and styling tactics.** A catalog of 238 creative and styling tactics, and a working map of 74 media channels, used to push content away from generic category language and toward a recognizable brand signature.
+- **Creative and styling tactics.** A catalog of 268 creative and styling tactics, and a working map of 74 media channels, used to push content away from generic category language and toward a recognizable brand signature.
 
 ## The depth in concrete terms
 
 The methodology base is not abstract. As live working dictionaries, it currently includes:
 
 - **13 emotional states** the system reasons about when shaping and testing content.
-- **238 creative and styling tactics**, organized into 10 categories and 14 types.
+- **268 creative and styling tactics**, organized into 12 categories and 14 types.
 - **74 media channels**, classified across 4 media types - owned, earned, paid, and partnership - and 7 categories.
 - **A five-stage attention-to-loyalty funnel** that sequences work from first attention through to retention.
 

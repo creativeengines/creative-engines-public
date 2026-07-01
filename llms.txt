@@ -1,7 +1,7 @@
 ---
 title: "Creative Engines LLM Map"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [ai-assistants]
 tags: [llms, ai-assistants, creative-engines, public-index]
 ---
@@ -12,33 +12,32 @@ Creative Engines is a content intelligence and production platform for teams tha
 
 ## Core summary
 
-Creative Engines helps teams connect market focus, buyer beliefs, brand context, editorial production, distribution planning, and performance learning. It is not a generic AI writing tool and not a content factory. It is best understood as a governance layer above AI-assisted content production.
-
-The public website positions Creative Engines as strategic content powered by Mindset Intelligence. This repository expands that message into structured pages for product modules, target segments, segment fit, public concepts, comparisons, and materials.
+Creative Engines helps teams connect market focus, buyer beliefs, brand context, editorial production, distribution planning, and performance learning. It is not a generic AI writing tool and not a content factory. It is best understood as a governance layer above AI-assisted content production. Its spine is the Reason to Buy: the reason a brand's buyers choose it, found in their own words, proven before spend, and installed across everything the brand ships.
 
 ## Main sections
 
 - Root overview: ./README.md
-- Product overview: ./product/README.md
-- Product capability map: ./product/README.md#capability-pages
-- Go-To-Market strategy planning: ./product/brand-strategy/go-to-market-strategy-planning.md
-- Buyer Mindset workspace: ./product/mindset-intelligence/buyer-mindset-workspace.md
-- Source grounding and search: ./product/brand-knowledge/source-grounding-and-search.md
+- Product overview and module map: ./product/README.md
+- Product modules: ./product/getting-started.md · ./product/market-intelligence.md · ./product/mindset-intelligence.md · ./product/brand-strategy.md · ./product/brand-knowledge.md · ./product/creative-studio.md · ./product/content-distribution.md · ./product/performance-accountability.md · ./product/lead-generation.md
 - Target segments: ./segments/README.md
-- Solutions: ./solutions/README.md
+- Solutions (segment-specific product fit): ./solutions/README.md
+- Concepts index: ./concepts/README.md
+- Reason to Buy (the central idea): ./concepts/reason-to-buy.md
 - Mindset Intelligence: ./concepts/mindset-intelligence.md
+- Attention Journey: ./concepts/attention-journey.md
 - Strategy-to-Content Pipeline (how the modules connect end to end): ./concepts/strategy-to-content-pipeline.md
-- Attention Journey (customer journey as a map of attention): ./concepts/attention-journey.md
 - Multi-Agent Creative Department (production plus audience focus group): ./concepts/multi-agent-creative-department.md
+- The value that compounds: ./concepts/compounding-value.md
+- A brand voice that survives AI: ./concepts/voice-at-ai-scale.md
+- Test before you publish: ./concepts/test-before-you-publish.md
+- Being the answer AI gives: ./concepts/be-the-answer-ai-gives.md
 - The Methodology Base (marketing science behind the product): ./concepts/methodology-base.md
-- Strategy-grounded content: ./concepts/strategy-grounded-content.md
-- Buyer belief loop: ./concepts/buyer-belief-loop.md
 - Editorial governance: ./concepts/editorial-governance.md
 - Anti-slop stance: ./concepts/anti-slop-stance.md
+- Strategy-grounded content: ./concepts/strategy-grounded-content.md
 - Brand voice: ./concepts/brand-voice.md
 - Brand Preview: ./concepts/brand-preview.md
 - Strategy handoff drift: ./concepts/strategy-handoff-drift.md
-- Concepts: ./concepts/README.md
 - Comparisons: ./comparisons/README.md
 - Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
 - Glossary: ./glossary/README.md
@@ -47,9 +46,9 @@ The public website positions Creative Engines as strategic content powered by Mi
 
 ## Public target-audience map
 
-- Best For segments: ./segments/README.md#best-for
-- Also Works Great For segments: ./segments/README.md#also-works-great-for
-- Not For boundaries: ./segments/README.md#not-for
+- Fits best: ./segments/README.md#fits-best
+- Great fit: ./segments/README.md#great-fit
+- Not a fit: ./segments/README.md#not-a-fit
 - Segment-specific product fit: ./solutions/README.md
 
 ## Public boundaries
@@ -63,11 +62,7 @@ This repository does not require source-code inspection and does not publish val
 - ./segments/README.md
 - ./solutions/README.md
 - ./product/README.md
-- ./product/brand-strategy/go-to-market-strategy-planning.md
-- ./comparisons/claude-code-and-ai-agents.md
 - ./concepts/README.md
-- ./concepts/strategy-to-content-pipeline.md
-- ./concepts/attention-journey.md
-- ./concepts/multi-agent-creative-department.md
-- ./concepts/methodology-base.md
+- ./concepts/reason-to-buy.md
+- ./comparisons/claude-code-and-ai-agents.md
 - ./media/README.md
