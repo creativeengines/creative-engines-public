@@ -34,7 +34,7 @@ For example, bisociation is useful because strong creative ideas often connect d
 
 ## Creative tactics and anti-slop discipline
 
-Creative Engines uses a catalog of 238 creative tactics, organized into 10 categories, to help content move beyond the patterns that generic AI systems tend to repeat. The catalog supports three public ideas:
+Creative Engines uses a catalog of 268 creative tactics, organized into 12 categories, to help content move beyond the patterns that generic AI systems tend to repeat. The catalog supports three public ideas:
 
 - Some tactics tend to produce familiar, bot-like marketing language.
 - Other tactics help skilled teams create more specific, brand-owned, and memorable work.

@@ -1,7 +1,7 @@
 ---
 title: "Strategy-to-Content Pipeline"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [buyers, users, partners, investors, ai-assistants]
 tags: [concepts, pipeline, end-to-end, customer-journey, creative-engines]
 ---
@@ -19,7 +19,7 @@ The individual steps exist in other tools. The difference in Creative Engines is
 3. **Attention Journey.** The approach of mapping where each Mindset's attention travels across touchpoints and 74 media channels, and planning the route the way a navigation system plans a drive. See [Attention Journey](./attention-journey.md).
 4. **Go-To-Market Strategy.** Decide what the brand should say, to which Mindset, at each point on the journey. See [Go-To-Market Strategy Planning](../product/brand-strategy.md).
 5. **Creative Studio.** A [multi-agent creative department](./multi-agent-creative-department.md) produces the asset each touchpoint needs, tests it against a focus group of buyer Mindsets, and passes it through a human gate. See [Creative Studio](../product/creative-studio.md).
-6. **Content Distribution.** The approved asset becomes planned, scheduled work across campaigns, calendars, and channels. See [Content Distribution](../product/content-distribution.md).
+6. **Content Distribution.** The approved asset becomes planned, scheduled work across pillars, campaigns, calendars, and channels. See [Content Distribution](../product/content-distribution.md).
 7. **Performance & Accountability.** What earned or lost attention feeds back and updates the Mindsets, the Attention Journey, and the strategy, so the next cycle is better informed. See [Performance & Accountability](../product/performance-accountability.md).
 
 ## Why the connection is the product
@@ -51,4 +51,4 @@ This page describes how the product modules connect at a client-facing level. It
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [The Methodology Base](./methodology-base.md)
 - [Product](../product/README.md)
-- [Buyer belief loop](./buyer-belief-loop.md)
+- [Reason to Buy](./reason-to-buy.md)

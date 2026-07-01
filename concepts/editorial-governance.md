@@ -1,7 +1,7 @@
 ---
 title: "Editorial Governance"
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]
 tags: [concepts, editorial-governance, anti-slop, creative-engines]
 ---

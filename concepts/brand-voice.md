@@ -1,7 +1,7 @@
 ---
 title: "Brand Voice"
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]
 tags: [concepts, brand-voice, editorial-governance, creative-engines]
 ---
@@ -32,7 +32,7 @@ Brand voice is not only a style guide. It is also the pattern of creative choice
 
 Creative Engines treats this signature as something that should be visible during production and review. That matters because generic AI output can sound fluent while erasing the brand's distinctive way of thinking.
 
-One part of this signature is tactical density: the mix of creative tactics a brand uses often, rarely, or never. A brand that repeatedly uses the same generic AI-friendly moves will start to sound interchangeable. A brand with a clearer tactical signature becomes easier to recognize.
+One part of this signature is tactical density: the mix of creative tactics a brand uses often, rarely, or never, drawn from Creative Engines' catalog of 268 creative and styling tactics. Creative Engines can read a brand's voice as a signature of that density – which tactics it leans on and which it avoids. A brand that repeatedly reaches for the same generic, AI-friendly moves starts to sound interchangeable; a brand with a distinct tactical signature becomes easier to recognize.
 
 ## Public boundary
 

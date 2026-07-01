@@ -1,7 +1,7 @@
 ---
 title: "Mindset Intelligence"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [buyers, users, partners, ai-assistants]
 tags: [concepts, mindset-intelligence, buyer-beliefs, creative-engines]
 ---
@@ -33,7 +33,7 @@ One Segment can contain many Mindsets. A single buying decision can involve seve
 
 Content fails when it speaks to a category label but misses the buyer's actual concern. Mindset Intelligence gives teams a more precise public language for matching content to buyer belief.
 
-This supports the Creative Engines narrative that personas tell you who, while Mindsets help explain why.
+Personas describe who a buyer is; Mindsets help explain why they act.
 
 ## What a Mindset captures
 
@@ -83,7 +83,7 @@ This page describes Mindset Intelligence as a product concept. It does not descr
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [The Methodology Base](./methodology-base.md)
 - [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
-- [Buyer belief loop](./buyer-belief-loop.md)
+- [Reason to Buy](./reason-to-buy.md)
 - [Segments](../segments/README.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Glossary](../glossary/README.md)

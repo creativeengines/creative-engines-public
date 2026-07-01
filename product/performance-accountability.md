@@ -43,6 +43,6 @@ This page explains the accountability layer at a client level. It does not publi
 
 - [Product](./README.md)
 - [Content Distribution](./content-distribution.md)
-- [Buyer belief loop](../concepts/buyer-belief-loop.md)
+- [Reason to Buy](../concepts/reason-to-buy.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
 - [Brand Strategy](./brand-strategy.md)

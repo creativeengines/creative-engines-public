@@ -1,7 +1,7 @@
 ---
 title: "Strategy-Grounded Content"
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]
 tags: [concepts, strategy-grounded-content, editorial-quality, creative-engines]
 ---
@@ -24,16 +24,14 @@ A strategy-grounded content system should be able to answer:
 
 ## Why it matters
 
-Teams often have strong strategy in one place and content production in another. The handoff weakens the work. Creative Engines is designed to keep strategy, context, production, and review closer together.
-
-This is one of the main messages of the Creative Engines agency page. Strategy often lives in decks, calls, and senior judgment, while execution happens through short tickets, rushed briefs, and repeated explanations. The problem is not that teams lack documents. The problem is that the content system often loses the why behind the work.
-
-Strategy-grounded content keeps the why visible:
+Generic generation produces content with no particular reason to exist: fluent, on-format, and disconnected from any strategic purpose. Strategy-grounded content is the opposite — every asset carries the reason it was made, and keeps that reason visible in the work itself:
 
 - The brand position is not separated from the draft.
 - Buyer belief is not reduced to a persona label.
 - Review is not only a tone check.
 - Production work stays connected to the strategic reason the asset exists.
+
+Keeping strategy attached to the work — rather than losing it between the plan and the draft — is the problem [strategy handoff drift](./strategy-handoff-drift.md) describes in full.
 
 ## Public boundary
 

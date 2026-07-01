@@ -90,6 +90,8 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Value Proposition** - The promise of value behind a UVP (see UVP): who it is for, what they get, and the offering that delivers it. The short line a customer reads is the tagline, not the value proposition itself. *(In plain terms: why customers choose you.)*
 
+**Reason to Buy** - The customer-facing name for the value proposition: the reason a brand's buyers choose it over the alternatives – found in the buyers' own words, proven before spend, and installed across everything the brand ships. *(Never abbreviated to "RTB", which means Reason-to-Believe – a different idea. See also Proof Anchor.)*
+
 **Positioning** - Where a brand chooses to stand in its market: what it leads on (for example price, time, quality, or variety), in which category, and against which alternatives. Part of a brand's Brand DNA.
 
 **Offering** - What a brand provides to a buyer – a product, service, feature, module, or lead magnet – through which a value proposition is delivered. *(In plain terms: what you sell / your package.)*

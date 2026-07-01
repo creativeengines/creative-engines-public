@@ -1,34 +1,38 @@
 ---
 title: "Strategy Handoff Drift"
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-07-01
 audience: [agencies, buyers, users, ai-assistants]
-tags: [concepts, strategy-handoff-drift, agencies, creative-engines]
+tags: [concepts, strategy-handoff-drift, narrative-consistency, agencies, creative-engines]
 ---
 
 # Strategy Handoff Drift
 
-Strategy handoff drift is the gap between what the strategy team knows and what the production workflow actually carries into briefs, drafts, reviews, and published content.
+Strategy handoff drift is the loss of strategic context as thinking moves from the people who hold it into briefs, drafts, reviews, and published content — and across every channel, tool, and contractor that touches the brand. The strategy is clear somewhere; it just does not survive the trip to the work.
 
-The Creative Engines agency page describes this as a common agency problem: strategy lives in decks, calls, client history, and senior judgment, while execution often lives in short tasks and repeated explanations. The brief carries the what. The team still needs the why.
+Strategy lives in decks, calls, client history, and senior judgment, while execution lives in short tasks and repeated explanations. The brief carries the *what*. The team still needs the *why* — and every handoff is a chance to lose it.
 
-## Where drift appears
+## Two ways strategy drains out
 
-- A senior strategist repeatedly explains the same client context.
+**Down the chain.** As work moves from strategist to brief to draft to review, the reasoning thins:
+
+- A senior strategist repeatedly re-explains the same client context.
 - A draft is technically on brief but misses the strategic reason behind the work.
-- Client voice becomes weaker as work moves across roles.
-- Review cycles focus on rescuing tone instead of improving the idea.
+- Brand voice weakens as work passes across roles.
+- Review cycles rescue tone instead of improving the idea.
 - Strategy documents exist, but the production layer does not use them at the moment of creation.
 
-## Why it matters
+**Across the channels.** The same drift happens sideways. Every channel, freelancer, and AI tool tells the brand's story a little differently — the awareness post says one thing, the landing page another, an outside agency runs its own angle. Each piece looks fine on its own; put in front of the same buyer over a few weeks, they pull against each other, so nothing accumulates and the spend never compounds. A stack of tools is not a strategy.
 
-Strategy handoff drift turns strong agency thinking into average content. It also creates a bottleneck around the people who remember the client, the market, the audience, and the reason the work exists.
+## The fix: set the story once, keep the why attached
 
-Creative Engines is designed to make strategy more operational. The goal is not to add more documents. The goal is to keep brand context, buyer understanding, narrative direction, and review criteria close to the work.
+The answer to both is the same. Set the story once — the problem it fights, the promise it makes, the buyer it is for — and keep it attached to the work everywhere: the reasoning travels with the brief instead of staying in a senior person's memory, and every asset points back to one governed narrative. When it does, work stops fighting the last piece and starts stacking — the market keeps hearing the same true thing, said a little louder each time, and the budget compounds instead of resetting.
+
+Creative Engines is designed to make strategy operational this way: brand context, buyer understanding, narrative direction, and review criteria stay close to the work, and a narrative is a first-class object every output is checked against.
 
 ## Questions a clean handoff should answer
 
-A handoff has survived if the production work can still answer:
+The reasoning has survived if the production work can still answer:
 
 - What should the reader believe after this?
 - What buyer hesitation is this asset meant to reduce?
@@ -36,16 +40,15 @@ A handoff has survived if the production work can still answer:
 - What would make this content feel interchangeable with another brand?
 - What should a human editor check before publication?
 
-Creative Engines keeps these answers attached to the work rather than leaving them in a senior person's memory.
-
 ## Public boundary
 
 This page describes a public buyer problem and product concept. It does not publish internal workflow design, scoring, source handling, or protected methodology.
 
 ## See also
 
-- [Concepts](./README.md)
+- [The value that compounds](./compounding-value.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
+- [Reason to Buy](./reason-to-buy.md)
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
-- [Mid-tier independent agency solution](../solutions/mid-tier-indie-agency/README.md)
+- [Concepts](./README.md)
