@@ -70,9 +70,9 @@ The Attention Journey is the bridge between understanding a buyer and producing 
 
 1. [Mindset Intelligence](./mindset-intelligence.md) establishes who the buyer is and why they act.
 2. The Attention Journey maps where that buyer's attention travels and what each touchpoint must accomplish.
-3. [Go-To-Market Strategy Planning](../product/brand-strategy/go-to-market-strategy-planning.md) decides what the brand should say at each point of the journey.
-4. [Creative Studio](../product/creative-studio/README.md) produces the specific asset each touchpoint needs.
-5. [Performance & Accountability](../product/performance-accountability/README.md) feeds back what actually earned or lost attention, and the map updates.
+3. [Go-To-Market Strategy Planning](../product/brand-strategy.md) decides what the brand should say at each point of the journey.
+4. [Creative Studio](../product/creative-studio.md) produces the specific asset each touchpoint needs.
+5. [Performance & Accountability](../product/performance-accountability.md) feeds back what actually earned or lost attention, and the map updates.
 
 Because the same attention map feeds both strategy and production, a content asset can be made for a precise point in the journey rather than for a vague audience.
 
@@ -85,6 +85,6 @@ This page explains the Attention Journey as a product concept. It does not publi
 - [Mindset Intelligence](./mindset-intelligence.md)
 - [Buyer belief loop](./buyer-belief-loop.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
-- [Go-To-Market Strategy Planning](../product/brand-strategy/go-to-market-strategy-planning.md)
-- [Creative Studio](../product/creative-studio/README.md)
+- [Go-To-Market Strategy Planning](../product/brand-strategy.md)
+- [Creative Studio](../product/creative-studio.md)
 - [Glossary](../glossary/README.md)

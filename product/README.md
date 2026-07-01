@@ -1,7 +1,7 @@
 ---
 title: "Product"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [buyers, users, partners, ai-assistants]
 tags: [product, modules, product-map, creative-engines]
 ---
@@ -10,55 +10,42 @@ tags: [product, modules, product-map, creative-engines]
 
 Creative Engines is a content intelligence and production platform for teams that want AI-assisted content to stay connected to strategy, buyer understanding, brand knowledge, editorial control, and learning.
 
-The product is easiest to understand as a connected operating surface. A team defines the brand, organizes source knowledge, clarifies buyer Mindsets, plans the go-to-market strategy, produces content, manages distribution, and learns from what happens next.
+The product is a connected operating surface. A team defines the brand, organizes source knowledge, clarifies buyer segments and Mindsets, plans the go-to-market strategy, produces content, manages distribution, and learns from what happens next.
 
 ## Product map
 
 | Product area | What it explains |
 |---|---|
-| [Getting Started](./getting-started/README.md) | How a buyer or user should understand the first product journey. |
-| [Market Intelligence](./market-intelligence/README.md) | How market and category context inform strategy. |
-| [Mindset Intelligence](./mindset-intelligence/README.md) | How Creative Engines reasons about buyer beliefs, anxieties, motivations, and decision states. |
-| [Brand Strategy](./brand-strategy/README.md) | How brand context becomes positioning, narratives, offerings, and go-to-market planning. |
-| [Brand Knowledge](./brand-knowledge/README.md) | How approved source material becomes reusable, searchable context for content work. |
-| [Creative Studio](./creative-studio/README.md) | How strategy and knowledge become reviewable editorial assets. |
-| [Content Distribution](./content-distribution/README.md) | How content becomes managed work across campaigns, calendars, channels, and tasks. |
-| [Performance & Accountability](./performance-accountability/README.md) | How outcomes and usage should feed back into better strategy and production. |
-| [Lead Generation](./lead-generation/README.md) | How public entry points and preview artifacts help buyers understand fit. |
-| [Platform](./platform/README.md) | How accounts, brands, users, permissions, and secure workspaces support the product. |
+| [Getting Started](./getting-started.md) | The first product journey, from strategy to governed content. |
+| [Market Intelligence](./market-intelligence.md) | How market and category context inform strategy. |
+| [Mindset Intelligence](./mindset-intelligence.md) | How Creative Engines reasons about buyer segments, beliefs, motivations, and decision states. |
+| [Brand Strategy](./brand-strategy.md) | How brand context becomes positioning, narratives, offerings, and go-to-market planning. |
+| [Brand Knowledge](./brand-knowledge.md) | How approved source material becomes reusable, searchable context for content work. |
+| [Creative Studio](./creative-studio.md) | How strategy and knowledge become reviewable editorial assets. |
+| [Content Distribution](./content-distribution.md) | How content becomes managed work across pillars, campaigns, calendars, channels, and tasks. |
+| [Performance & Accountability](./performance-accountability.md) | How outcomes and results feed back into better strategy and production. |
+| [Lead Generation](./lead-generation.md) | How public entry points and preview artifacts help buyers understand fit. |
 
-## Capability pages
+## How the product fits together
 
-- [Go-To-Market Strategy Planning](./brand-strategy/go-to-market-strategy-planning.md)
-- [Buyer Mindset Workspace](./mindset-intelligence/buyer-mindset-workspace.md)
-- [Source Grounding and Search](./brand-knowledge/source-grounding-and-search.md)
-- [Strategy-Grounded Content Production](./creative-studio/strategy-grounded-content-production.md)
-- [Content Campaigns and Tasks](./content-distribution/content-campaigns-and-tasks.md)
-- [Learning Loop](./performance-accountability/learning-loop.md)
-- [Accounts, Brands, Users, and Security](./platform/accounts-brands-users-and-security.md)
+Creative Engines is a structured system for moving from strategy to governed output, not a blank writing box. Work lives inside a Brand: approved context, source material, offerings, strategic notes, buyer segments, Mindsets, narratives, content, and learning. Each brand's work stays in its own workspace, so client context, internal work, and audience assumptions never mix across brands.
 
-## Demo narrative
-
-On a product demo, Creative Engines should not be presented as a blank writing box. It should be presented as a structured system for moving from strategy to governed output.
-
-A typical explanation starts with a Brand. The Brand contains approved context, source material, offerings, strategic notes, buyer Mindsets, narratives, content work, and learning. Users operate inside the right account and brand so the product does not mix client context, internal work, or audience assumptions across workspaces.
-
-From there, Creative Engines helps the team answer a practical sequence of questions:
+The product connects a practical sequence of questions:
 
 1. What do we know about the brand, its market, and its source material?
-2. Which buyer Mindsets are we trying to reach?
+2. Which buyer segments and Mindsets is the work trying to reach?
 3. What should those buyers understand, believe, trust, or reconsider?
 4. Which narratives, offerings, and go-to-market moves should guide the work?
 5. What content should be produced, reviewed, scheduled, reused, or improved?
-6. What did the work teach us that should change future strategy?
+6. What did the work teach that should change future strategy?
 
-The product value is in keeping these questions connected. If content production starts without the earlier context, the output becomes generic. If strategy is created but not carried into tasks and review, the work drifts. If learning is not captured, content does not compound.
+The value is in keeping these questions connected. Content produced without the earlier context drifts generic; strategy that never reaches the work drifts unused; results that are never captured never compound.
 
 For a connected, end-to-end view of how the modules relate, see the [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md). The depth behind specific steps is explained in [Mindset Intelligence](../concepts/mindset-intelligence.md), the [Attention Journey](../concepts/attention-journey.md), the [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md), and [The Methodology Base](../concepts/methodology-base.md).
 
 ## Public technical boundary
 
-These public docs may mention high-level implementation ideas when they help a buyer understand the product, including hybrid search, Python, LLM calls, source grounding, human review, RLS, accounts, brands, and users.
+These public docs may mention high-level implementation ideas when they help a buyer understand the product, including hybrid search, source grounding, LLM calls, and human review.
 
 These public docs do not publish internal product shorthand, private engineering labels, exact vendor choices, protected evaluation rules, generation instructions, private method details, sale terms, or private business logic.
 

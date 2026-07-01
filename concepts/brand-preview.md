@@ -44,6 +44,6 @@ This page describes the public concept. It does not publish qualification logic,
 - [Concepts](./README.md)
 - [Mindset Intelligence](./mindset-intelligence.md)
 - [Attention Journey](./attention-journey.md)
-- [Lead Generation](../product/lead-generation/README.md)
+- [Lead Generation](../product/lead-generation.md)
 - [Mid-tier independent agency solution](../solutions/mid-tier-indie-agency/README.md)
 - [Media](../media/README.md)

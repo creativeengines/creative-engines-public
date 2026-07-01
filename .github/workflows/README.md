@@ -14,6 +14,6 @@ Workflow files are operational safeguards, not product documentation.
 
 ## See also
 
-- [Repository governance](../README.md)
+- [Repository governance](../../README.md)
 - [Root README](../../README.md)
 - [AI assistant instructions](../../AGENTS.md)

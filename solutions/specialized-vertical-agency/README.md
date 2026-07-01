@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/specialized-vertical-agency/README.md)
-- [Segment pain points](../../segments/specialized-vertical-agency/pain-points.md)
-- [Segment Mindsets](../../segments/specialized-vertical-agency/mindsets/README.md)
+- [Segment overview](../../segments/specialized-vertical-agency.md)
 - [Product](../../product/README.md)

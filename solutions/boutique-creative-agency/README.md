@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/boutique-creative-agency/README.md)
-- [Segment pain points](../../segments/boutique-creative-agency/pain-points.md)
-- [Segment Mindsets](../../segments/boutique-creative-agency/mindsets/README.md)
+- [Segment overview](../../segments/boutique-creative-agency.md)
 - [Product](../../product/README.md)

@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/venture-studio-platform/README.md)
-- [Segment pain points](../../segments/venture-studio-platform/pain-points.md)
-- [Segment Mindsets](../../segments/venture-studio-platform/mindsets/README.md)
+- [Segment overview](../../segments/venture-studio-platform.md)
 - [Product](../../product/README.md)

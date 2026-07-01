@@ -8,7 +8,7 @@ tags: [concepts, creative-studio, multi-agent, creative-department, anti-slop, c
 
 # Multi-Agent Creative Department
 
-The Multi-Agent Creative Department is the Creative Engines concept for how content is produced inside [Creative Studio](../product/creative-studio/README.md). Strong creative work does not come from a single writer answering a single prompt. It comes from a department: several specialists generating in parallel, critiquing each other, discarding weak ideas, and sharpening the few that survive.
+The Multi-Agent Creative Department is the Creative Engines concept for how content is produced inside [Creative Studio](../product/creative-studio.md). Strong creative work does not come from a single writer answering a single prompt. It comes from a department: several specialists generating in parallel, critiquing each other, discarding weak ideas, and sharpening the few that survive.
 
 Creative Engines is built around that pattern. Instead of one open-ended AI call, content moves through a coordinated set of specialized agents with distinct roles, separated by review gates. The published asset is the survivor of a contested process, not the first thing the model produced.
 
@@ -88,8 +88,8 @@ This page explains the creative-department pattern at a client-facing level. It 
 
 ## See also
 
-- [Creative Studio](../product/creative-studio/README.md)
-- [Strategy-Grounded Content Production](../product/creative-studio/strategy-grounded-content-production.md)
+- [Creative Studio](../product/creative-studio.md)
+- [Strategy-Grounded Content Production](../product/creative-studio.md)
 - [Anti-slop stance](./anti-slop-stance.md)
 - [Editorial governance](./editorial-governance.md)
 - [Brand voice](./brand-voice.md)

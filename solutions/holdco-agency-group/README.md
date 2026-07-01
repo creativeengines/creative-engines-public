@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/holdco-agency-group/README.md)
-- [Segment pain points](../../segments/holdco-agency-group/pain-points.md)
-- [Segment Mindsets](../../segments/holdco-agency-group/mindsets/README.md)
+- [Segment overview](../../segments/holdco-agency-group.md)
 - [Product](../../product/README.md)

@@ -14,13 +14,13 @@ The individual steps exist in other tools. The difference in Creative Engines is
 
 ## The route
 
-1. **Market Intelligence.** Understand the market, category, and competitive context the brand operates in. See [Market Intelligence](../product/market-intelligence/README.md).
-2. **Mindset Intelligence.** Build the rational-emotional portraits of the brand's buyers: what they believe, the job they are trying to get done, what they fear, and what they feel. See [Mindset Intelligence](../product/mindset-intelligence/README.md).
+1. **Market Intelligence.** Understand the market, category, and competitive context the brand operates in. See [Market Intelligence](../product/market-intelligence.md).
+2. **Mindset Intelligence.** Build the rational-emotional portraits of the brand's buyers: what they believe, the job they are trying to get done, what they fear, and what they feel. See [Mindset Intelligence](../product/mindset-intelligence.md).
 3. **Attention Journey.** The approach of mapping where each Mindset's attention travels across touchpoints and 74 media channels, and planning the route the way a navigation system plans a drive. See [Attention Journey](./attention-journey.md).
-4. **Go-To-Market Strategy.** Decide what the brand should say, to which Mindset, at each point on the journey. See [Go-To-Market Strategy Planning](../product/brand-strategy/go-to-market-strategy-planning.md).
-5. **Creative Studio.** A [multi-agent creative department](./multi-agent-creative-department.md) produces the asset each touchpoint needs, tests it against a focus group of buyer Mindsets, and passes it through a human gate. See [Creative Studio](../product/creative-studio/README.md).
-6. **Content Distribution.** The approved asset becomes planned, scheduled work across campaigns, calendars, and channels. See [Content Distribution](../product/content-distribution/README.md).
-7. **Performance & Accountability.** What earned or lost attention feeds back and updates the Mindsets, the Attention Journey, and the strategy, so the next cycle is better informed. See [Performance & Accountability](../product/performance-accountability/README.md).
+4. **Go-To-Market Strategy.** Decide what the brand should say, to which Mindset, at each point on the journey. See [Go-To-Market Strategy Planning](../product/brand-strategy.md).
+5. **Creative Studio.** A [multi-agent creative department](./multi-agent-creative-department.md) produces the asset each touchpoint needs, tests it against a focus group of buyer Mindsets, and passes it through a human gate. See [Creative Studio](../product/creative-studio.md).
+6. **Content Distribution.** The approved asset becomes planned, scheduled work across campaigns, calendars, and channels. See [Content Distribution](../product/content-distribution.md).
+7. **Performance & Accountability.** What earned or lost attention feeds back and updates the Mindsets, the Attention Journey, and the strategy, so the next cycle is better informed. See [Performance & Accountability](../product/performance-accountability.md).
 
 ## Why the connection is the product
 

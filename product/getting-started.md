@@ -1,7 +1,7 @@
 ---
 title: "Getting Started"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-01
 audience: [users, buyers, ai-assistants]
 tags: [product, getting-started, orientation, creative-engines]
 ---
@@ -10,21 +10,21 @@ tags: [product, getting-started, orientation, creative-engines]
 
 Creative Engines is easiest to understand as a guided product journey from strategic context to governed content work.
 
-The first product conversation should not start with "what do you want the AI to write?" It should start with the brand, the buyer, the strategy, and the standard of quality the team wants to protect.
+The first product conversation should not start with a blank "what should the AI write?" prompt. It should start with the brand, the buyer, the strategy, and the standard of quality the team wants to protect.
 
-## What a first walkthrough covers
+## What the first product journey covers
 
-A first walkthrough usually explains five connected surfaces:
+The first product journey covers five connected surfaces:
 
 - The account and brand workspace where the team keeps work separated by organization, client, or brand.
 - The brand context area where positioning, voice, offerings, narratives, and approved source material can be organized.
 - The buyer Mindset area where audience understanding becomes more specific than static personas.
 - The strategy planning area where the team connects Mindsets, offerings, narratives, buying stages, and content direction.
-- The content production and distribution areas where work becomes drafts, reviewable assets, campaign tasks, and learning.
+- The content production and distribution areas where work becomes drafts, reviewable assets, pillar and campaign tasks, and learning.
 
 The important point is the continuity. Creative Engines is not trying to make one isolated draft faster. It is trying to keep the reasoning behind the work available as the team moves from planning to production.
 
-## What users should prepare
+## What to prepare
 
 Useful starting material includes:
 
@@ -37,7 +37,7 @@ Useful starting material includes:
 
 The product can help structure incomplete context, but the best results come when the team is explicit about what it already knows and what it wants to protect.
 
-## What the first useful outcome should be
+## What the first useful outcome is
 
 A useful first outcome is not a pile of generic content. It is a structured view of the brand and its buyers, plus a clearer path from strategy to content work.
 
@@ -45,14 +45,16 @@ For a buyer, this may look like a first read on brand context, audience Mindsets
 
 ## What not to expect
 
-Creative Engines is not a magic-button replacement for strategic judgment, brand leadership, or editorial review.
+Creative Engines is not a magic-button replacement for strategic judgment, brand leadership, or editorial review. The product is designed for teams that want AI piloted with context, constraints, review, and quality control. Human judgment remains part of the system.
 
-The product is designed for teams that want AI to be piloted with context, constraints, review, and quality control. Human judgment remains part of the system.
+## Public boundary
+
+This page orients a new buyer or user at a client level. It does not publish private onboarding logic, internal configuration steps, or protected methodology.
 
 ## See also
 
-- [Product](../README.md)
-- [Brand Strategy](../brand-strategy/README.md)
-- [Brand Knowledge](../brand-knowledge/README.md)
-- [Mindset Intelligence](../mindset-intelligence/README.md)
-- [Creative Studio](../creative-studio/README.md)
+- [Product](./README.md)
+- [Brand Strategy](./brand-strategy.md)
+- [Brand Knowledge](./brand-knowledge.md)
+- [Mindset Intelligence](./mindset-intelligence.md)
+- [Creative Studio](./creative-studio.md)

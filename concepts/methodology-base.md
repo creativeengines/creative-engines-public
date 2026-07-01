@@ -37,7 +37,7 @@ These are cross-mapped, not separate lists. Tactics are linked to the emotions t
 
 These references are not reading material that sits next to the product. They are turned into working machinery:
 
-- Review rubrics that separate distinctive ideas from obvious category language.
+- Review criteria that separate distinctive ideas from obvious category language.
 - Creative checks that the [multi-agent creative department](./multi-agent-creative-department.md) applies during production.
 - Emotional and comprehension tests run by the audience focus group.
 - Channel and journey logic that informs the [Attention Journey](./attention-journey.md).
@@ -50,11 +50,11 @@ Generic AI review checks grammar and tone. Creative Engines assesses content at 
 
 ## Why this is hard to copy
 
-Any team can prompt a model. The methodology base is the difference between a prompt and a discipline. It is the accumulated set of rules, rubrics, tactics, channels, and emotional and creative checks that decide whether a piece of work is good, on-strategy, and safe to publish. That accumulated judgment, applied consistently by a coordinated set of agents, is the part that is hard to reproduce.
+Any team can prompt a model. The methodology base is the difference between a prompt and a discipline. It is the accumulated set of rules, criteria, tactics, channels, and emotional and creative checks that decide whether a piece of work is good, on-strategy, and safe to publish. That accumulated judgment, applied consistently by a coordinated set of agents, is the part that is hard to reproduce.
 
 ## Public boundary
 
-This page names the areas the methodology base draws on. It does not publish the full source list, the contents of the tactic catalog, the channel map, the emotion model, the scoring or rubrics, or any reproducible internal method.
+This page names the areas the methodology base draws on. It does not publish the full source list, the contents of the tactic catalog, the channel map, the emotion model, the scoring or review criteria, or any reproducible internal method.
 
 ## See also
 
