@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/startup/README.md)
-- [Segment pain points](../../segments/startup/pain-points.md)
-- [Segment Mindsets](../../segments/startup/mindsets/README.md)
+- [Segment overview](../../segments/startup.md)
 - [Product](../../product/README.md)

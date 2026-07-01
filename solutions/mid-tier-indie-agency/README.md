@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/mid-tier-indie-agency/README.md)
-- [Segment pain points](../../segments/mid-tier-indie-agency/pain-points.md)
-- [Segment Mindsets](../../segments/mid-tier-indie-agency/mindsets/README.md)
+- [Segment overview](../../segments/mid-tier-indie-agency.md)
 - [Product](../../product/README.md)

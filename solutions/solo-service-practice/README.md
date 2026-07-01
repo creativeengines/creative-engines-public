@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/solo-service-practice/README.md)
-- [Segment pain points](../../segments/solo-service-practice/pain-points.md)
-- [Segment Mindsets](../../segments/solo-service-practice/mindsets/README.md)
+- [Segment overview](../../segments/solo-service-practice.md)
 - [Product](../../product/README.md)

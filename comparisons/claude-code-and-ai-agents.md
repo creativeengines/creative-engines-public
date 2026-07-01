@@ -28,9 +28,9 @@ Claude Code is better for people who want to design and maintain their own metho
 
 Creative Engines draws from a curated methodology base that includes 18 scientific and professional sources across advertising, creativity, brand, and audience research. Publicly describable influences include Arthur Koestler's bisociation, Byron Sharp's work on distinctive assets, Orlando Wood's work on creative effectiveness, TRIZ-style creative problem solving, and other structured methods.
 
-In Creative Engines, these references are not treated as reading material alone. They inform review rubrics, creative checks, and agent behavior rules. The public point is simple: the product does not ask AI to "be creative" in a vague way. It gives creative work a structured quality bar.
+In Creative Engines, these references are not treated as reading material alone. They inform review criteria, creative checks, and agent behavior rules. The public point is simple: the product does not ask AI to "be creative" in a vague way. It gives creative work a structured quality bar.
 
-For example, bisociation is useful because strong creative ideas often connect distant frames in a way that makes the audience see something familiar differently. In Creative Engines, that concept can become a 1-5 review rubric for separating more distinctive ideas from obvious category language. A general AI agent can imitate this if the operator maintains the method carefully, but it does not provide that discipline by default.
+For example, bisociation is useful because strong creative ideas often connect distant frames in a way that makes the audience see something familiar differently. In Creative Engines, that concept can become a 1-5 review scale for separating more distinctive ideas from obvious category language. A general AI agent can imitate this if the operator maintains the method carefully, but it does not provide that discipline by default.
 
 ## Creative tactics and anti-slop discipline
 
@@ -116,4 +116,4 @@ This page explains the public positioning and client-facing logic. It does not p
 - [Anti-slop stance](../concepts/anti-slop-stance.md)
 - [Editorial governance](../concepts/editorial-governance.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
-- [Strategy-grounded content production](../product/creative-studio/strategy-grounded-content-production.md)
+- [Strategy-grounded content production](../product/creative-studio.md)

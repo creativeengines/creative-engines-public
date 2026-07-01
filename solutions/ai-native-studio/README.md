@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/ai-native-studio/README.md)
-- [Segment pain points](../../segments/ai-native-studio/pain-points.md)
-- [Segment Mindsets](../../segments/ai-native-studio/mindsets/README.md)
+- [Segment overview](../../segments/ai-native-studio.md)
 - [Product](../../product/README.md)

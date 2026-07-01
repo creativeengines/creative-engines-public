@@ -48,7 +48,5 @@ For this segment, the goal is not content volume. The goal is to make the work m
 ## See also
 
 - [Solutions](../README.md)
-- [Segment overview](../../segments/mid-market-dtc/README.md)
-- [Segment pain points](../../segments/mid-market-dtc/pain-points.md)
-- [Segment Mindsets](../../segments/mid-market-dtc/mindsets/README.md)
+- [Segment overview](../../segments/mid-market-dtc.md)
 - [Product](../../product/README.md)
