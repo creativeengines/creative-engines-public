@@ -27,10 +27,10 @@ These roles mirror how a strong agency creative department is staffed. Creative 
 
 The most distinctive step is the one most tools skip entirely. Before a piece of content is approved, Creative Engines can test it against a focus group built from the audience's own buyer [Mindsets](./mindset-intelligence.md), and ask the questions a real focus group would ask:
 
-- What did you understand from this?
-- What did you feel?
+- What was understood from this?
+- What did it make them feel?
 - What was clear, and what was confusing?
-- What would make you trust it, or scroll past it?
+- What would earn their trust, or get it scrolled past?
 
 Because the focus group is composed of the same Mindsets the content is meant to reach, the feedback is specific to the actual audience rather than a generic readability score. Weak comprehension, a flat emotional response, or a confusing passage can be caught and corrected before anything is published, instead of after it underperforms in the market.
 
