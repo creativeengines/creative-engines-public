@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for boutique creative and strategy agencies"
+description: "Explains how Creative Engines fits boutique creative and strategy agencies, using mindset intelligence, isolated brand workspaces, and anti-slop review to protect taste-led craft while scaling founder judgment."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

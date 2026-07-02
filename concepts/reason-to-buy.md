@@ -1,5 +1,6 @@
 ---
 title: "Reason to Buy – why a brand's buyers choose it"
+description: "Explains Reason to Buy, the Creative Engines concept for the specific reason a brand's buyers choose it - surfaced from buyer language, tested with psychographic segmentation before spend, then installed consistently across every touchpoint."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for fractional CMOs and solo marketing practices"
+description: "Explains how Creative Engines fits fractional CMOs, solo agency founders, and independent consultants who need buyer intelligence and voice-consistent content across multiple clients without diluting their expert judgment."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -39,7 +40,7 @@ Titles commonly involved, and what each one weighs:
 
 The operator decides directly, usually after seeing whether the system preserves their judgment and reduces repetitive rewriting. The pattern is consistent across structures: one person feels the pain, needs confidence that the work will sound like their own expertise, and adopts the system as strategy and governance support rather than as a shortcut around professional judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The expert is the bottleneck for every brief, draft, and client-facing explanation, which caps how many clients the practice can hold.
 - Client context gets scattered across calls, documents, notes, and memory, so each piece starts from a partial picture.
@@ -57,7 +58,7 @@ The operator decides directly, usually after seeing whether the system preserves
 - The practice needs reusable intelligence that follows the work, not one more disconnected writing surface.
 - A crowded market of fractional operators and AI seats raises the bar for output that reads as senior and specific.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so each client's content speaks to real motivation instead of generic category language.
 - Grounds drafts in approved client brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up in a client room.

@@ -1,5 +1,6 @@
 ---
 title: "Strategy Handoff Drift"
+description: "Strategy handoff drift is the loss of strategic reasoning as work passes from strategists to briefs, drafts, and channels, which Creative Engines addresses through strategy-grounded content that keeps brand context attached at generation time."
 status: Current
 last_updated: 2026-07-01
 audience: [agencies, buyers, users, ai-assistants]

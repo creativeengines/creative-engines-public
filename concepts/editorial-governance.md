@@ -1,5 +1,6 @@
 ---
 title: "Editorial Governance"
+description: "Explains editorial governance, the review layer in Creative Engines that checks AI-assisted content for brand voice, audience relevance, and claim quality before publication, embodied in the Brand Guardian review posture."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "The value that compounds – why the work gets stronger over time"
+description: "Explains how Creative Engines' value compounds over time as a brand's accumulated context, editorial governance, and campaign feedback make each content cycle stronger and cheaper than the last."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

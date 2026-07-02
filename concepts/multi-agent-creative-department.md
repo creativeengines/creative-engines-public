@@ -1,5 +1,6 @@
 ---
 title: "Multi-Agent Creative Department"
+description: "Explains Creative Engines' Multi-Agent Creative Department, a seven-stage pipeline of specialized agents that draft, critique, and test content against buyer Mindsets before a human approves it for publishing."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, agencies, partners, ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "Performance & Accountability"
+description: "Describes Performance & Accountability, the planned Creative Engines product area for closing the learning loop by tracing content lineage and connecting published-content performance and attribution back into future brand strategy."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, partners, ai-assistants]

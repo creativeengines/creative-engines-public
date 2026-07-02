@@ -1,5 +1,6 @@
 ---
 title: "Content Distribution"
+description: "Explains how Creative Engines organizes content pillars and ad campaigns into a content grid, calendar, and auditable task lifecycle with scheduling, publishing, and review approval gates."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, agencies, ai-assistants]

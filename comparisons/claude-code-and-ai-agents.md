@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines Compared With Claude Code and AI Agent Workflows"
+description: "Compares Creative Engines, a governed content intelligence platform built on mindset intelligence and brand review discipline, against DIY workflows built with Claude Code or similar AI agents."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, partners, investors, ai-assistants]

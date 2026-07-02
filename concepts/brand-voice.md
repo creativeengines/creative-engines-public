@@ -1,5 +1,6 @@
 ---
 title: "Brand Voice"
+description: "Explains brand voice within Creative Engines as editorial governance: a brand's point of view, vocabulary, and tactical signature, not just tone."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for agency holding groups"
+description: "Explains how Creative Engines fits agency holding groups by governing distinct, on-brand output per network and brand above the group's own tooling, without replacing internal platforms or creative judgment."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

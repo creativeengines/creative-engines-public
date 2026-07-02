@@ -1,5 +1,6 @@
 ---
 title: "Test before you publish"
+description: "Explains why Creative Engines tests content against a focus group built from a brand's own buyer Mindsets before publishing, catching a flat or misread message in rehearsal instead of in the market."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

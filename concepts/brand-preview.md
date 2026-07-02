@@ -1,5 +1,6 @@
 ---
 title: "Brand Preview"
+description: "Brand Preview is Creative Engines' buyer-facing concept for a structured first read on a brand, summarizing audience mindsets, positioning signals, and narrative directions before a deeper strategy conversation."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, agencies, partners, ai-assistants]

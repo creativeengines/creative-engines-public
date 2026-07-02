@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for AI-native creative studios"
+description: "Explains why Creative Engines fits AI-native creative studios, providing a brand intelligence and governance layer built on mindset intelligence that sits above the studio's own generation tools rather than replacing them."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

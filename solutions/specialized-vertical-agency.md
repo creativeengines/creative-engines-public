@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for specialized vertical agencies"
+description: "Explains how Creative Engines fits specialized vertical agencies, using mindset intelligence, traceable brand knowledge, and Brand Guardian screening to produce review-ready content within a vertical's regulatory and craft guardrails."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

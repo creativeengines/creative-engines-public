@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for boutique creative and strategy agencies"
+description: "Explains why Creative Engines fits boutique creative and strategy agencies (roughly 5-30 people), tying buyer intelligence and governed brand voice to founder-led judgment across client work and pitching."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -38,7 +39,7 @@ Titles commonly involved, and what each one weighs:
 
 The founder or senior strategic leader usually makes the call, but the creative director, operations lead, and the juniors who run the day-to-day pipeline shape whether the system is trusted enough to enter real client work. One role feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - Founder or senior-strategist context gets lost when work moves from the brief into tasks and drafts.
 - Generic AI output adds speed but weakens the differentiation the agency is working to protect, so the team spends time reworking drafts to match the real client situation.
@@ -56,7 +57,7 @@ The founder or senior strategic leader usually makes the call, but the creative 
 - A sprawling, ungoverned set of AI tools across a lean team makes a single, governed surface more valuable than another point tool.
 - The team needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real client and buyer motivation instead of generic category language.
 - Keeps client context, brand voice, buyer Mindsets, and approved strategic choices visible through briefs, drafts, and review, so the founder's and strategist's reasoning follows the work instead of getting lost at handoff.

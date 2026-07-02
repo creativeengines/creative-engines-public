@@ -1,5 +1,6 @@
 ---
 title: "Glossary"
+description: "A public glossary defining Creative Engines' recurring terms - from Brand DNA and Mindset to Narrative, UVP, and AIDAL - covering audience, strategy, and content production concepts."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, contractors, ai-assistants]

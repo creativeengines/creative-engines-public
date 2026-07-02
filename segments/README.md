@@ -1,5 +1,6 @@
 ---
 title: "Segments"
+description: "Outlines which marketing teams Creative Engines fits best - from mid-market B2B SaaS to boutique agencies - grouped by client type rather than pricing tier or buyer intelligence targeting."
 status: Current
 last_updated: 2026-06-30
 audience: [buyers, partners, ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "Brand Knowledge"
+description: "Explains how Creative Engines' Brand Knowledge ingests a brand's uploaded documents into searchable, quality-scored pieces and grounds content drafts in that approved material via hybrid search."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, agencies, ai-assistants]

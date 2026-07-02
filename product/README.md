@@ -1,5 +1,6 @@
 ---
 title: "Product"
+description: "Overview of Creative Engines' product map, explaining how mindset intelligence, brand knowledge, content production, distribution, and performance modules connect into one governed content workflow."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, partners, ai-assistants]

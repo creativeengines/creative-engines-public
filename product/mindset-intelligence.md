@@ -1,5 +1,6 @@
 ---
 title: "Mindset Intelligence"
+description: "Explains Creative Engines' Mindset Intelligence: buyer segments and detailed Mindset profiles built on psychographic segmentation across beliefs, fears, and jobs to be done, so content addresses a real buyer state, not a label."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, partners, ai-assistants]

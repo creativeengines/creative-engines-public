@@ -1,5 +1,6 @@
 ---
 title: "Anti-Slop Stance"
+description: "Explains Creative Engines' anti-slop stance, an editorial philosophy rejecting generic, low-effort AI marketing output in favor of strategy-grounded, human-reviewed content and brand-specific creative judgment."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]

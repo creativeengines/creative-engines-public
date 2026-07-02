@@ -1,5 +1,6 @@
 ---
 title: "Solutions"
+description: "Explains how Creative Engines fits distinct market segments, from B2B software companies to agencies, by reordering the same core differentiators around psychographic segmentation and mindset intelligence for each buyer type."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, partners, ai-assistants]

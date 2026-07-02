@@ -1,5 +1,6 @@
 ---
 title: "Getting Started"
+description: "Explains how a new user or buyer should approach Creative Engines: starting from brand context and buyer Mindsets before content production, plus what to prepare and what results to expect first."
 status: Current
 last_updated: 2026-07-01
 audience: [users, buyers, ai-assistants]

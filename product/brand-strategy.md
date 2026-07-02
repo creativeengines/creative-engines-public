@@ -1,5 +1,6 @@
 ---
 title: "Brand Strategy"
+description: "Explains how Creative Engines' Brand Strategy area turns a brand's website or documents into an approved brand profile, per-Mindset narratives, and a go-to-market blueprint that guides content production."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]

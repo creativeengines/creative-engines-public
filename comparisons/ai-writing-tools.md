@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines Compared With AI Writing Tools"
+description: "Explains how Creative Engines differs from AI writing tools by positioning itself as a brand-governed, audience-aware content system focused on strategy and editorial governance rather than drafting text alone."
 status: Current
 last_updated: 2026-06-08
 audience: [buyers, users, agencies, ai-assistants]

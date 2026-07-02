@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for established mid-sized and enterprise brands"
+description: "Explains how Creative Engines fits established mid-sized and enterprise brands, using mindset intelligence and a governed brand strategy to keep messaging consistent across teams and markets."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

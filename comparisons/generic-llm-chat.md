@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines Compared With Generic LLM Chat"
+description: "Compares Creative Engines to generic LLM chat, arguing that brand-grounded, strategy-linked, repeatable content workflows serve teams better than one-off, instruction-driven chat answers."
 status: Current
 last_updated: 2026-06-08
 audience: [buyers, users, ai-assistants]

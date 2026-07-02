@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for tech-enabled service companies at scale"
+description: "Describes why Creative Engines fits tech-enabled mid-cap service companies ($30M-$300M revenue), covering their buyer intelligence needs, decision-makers, pain points, and content governance challenges."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -41,7 +42,7 @@ Titles commonly involved, and what each one weighs:
 
 The practical center is usually operations plus technology, with marketing or growth translating the need into market-facing work, and the CEO approving when the system supports clearer positioning, stronger trust, and operational efficiency. The path depends on company structure, but the pattern holds: one team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The company holds deep operational knowledge, yet public content often understates how sophisticated the service really is.
 - Sales, customer success, and marketing each hear different buyer questions, and turning them into a shared content system takes deliberate coordination.
@@ -58,7 +59,7 @@ The practical center is usually operations plus technology, with marketing or gr
 - Senior context often stays in meetings, comments, and private documents rather than in the work itself.
 - The team needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so content speaks to real motivation instead of generic category language.
 - Turns operational expertise into trusted market language, packaging internal knowledge so the market understands the difference between this company and a simpler service provider.

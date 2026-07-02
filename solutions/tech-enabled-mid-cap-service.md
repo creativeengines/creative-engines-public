@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for tech-enabled service companies at scale"
+description: "Explains why Creative Engines fits tech-enabled mid-cap service companies best, using mindset intelligence and brand knowledge to turn operational expertise into credible, grounded market positioning."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

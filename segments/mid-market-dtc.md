@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for founder-led premium and DTC brands"
+description: "Defines founder-led premium and DTC consumer brands ($40M-$1B revenue) as a strong-fit buyer segment for Creative Engines, explaining why encoding founder voice and buyer intelligence into governed content protects brand distinctiveness at scale."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -41,7 +42,7 @@ Titles commonly involved, and what each one weighs:
 
 The founder or brand leader often holds final voice authority, while growth and creative stakeholders evaluate whether the system can protect distinctiveness while supporting performance work. The exact path depends on company structure, but the pattern is consistent: one team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - Performance demands push toward more variants, while brand leaders work to hold the voice consistent across that volume.
 - Founder voice is often instinctive and hard to brief, so it needs a way to be documented and shared.
@@ -58,7 +59,7 @@ The founder or brand leader often holds final voice authority, while growth and 
 - Senior context often lives in meetings, comments, and private documents rather than in the work itself.
 - The team needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Encodes founder voice, buyer [Mindsets](../concepts/mindset-intelligence.md), objections, and brand taste into reusable assets, so the brand's point of view stays recognizable across high output.
 - Grounds drafts in the brand's own approved context and customer evidence, with a traceable link back to the source, so performance content converts without drifting off-brand.

@@ -1,5 +1,6 @@
 ---
 title: "Lead Generation"
+description: "Explains how Creative Engines turns a website URL into a personalized Brand Preview Deck, plus a lead-capture widget, agency white-labeling, and a lead inbox that qualify prospects before a sales call."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, partners, agencies, ai-assistants]

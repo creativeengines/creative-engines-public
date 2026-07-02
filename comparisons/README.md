@@ -1,5 +1,6 @@
 ---
 title: "Comparisons"
+description: "Compares Creative Engines with generic LLM chat, AI writing tools, content factories, and DIY AI agent workflows, showing what its buyer Mindsets, governed review, and built-in methodology add."
 status: Current
 last_updated: 2026-06-08
 audience: [buyers, partners, investors, ai-assistants]

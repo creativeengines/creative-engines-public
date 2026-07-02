@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for established small businesses"
+description: "Explains why Creative Engines is a strong fit for established small businesses, using mindset intelligence, brand knowledge, and owner-gated content distribution to keep positioning consistent without heavy agency overhead."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

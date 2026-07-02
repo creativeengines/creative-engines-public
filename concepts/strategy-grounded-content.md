@@ -1,5 +1,6 @@
 ---
 title: "Strategy-Grounded Content"
+description: "Defines strategy-grounded content as material shaped by market focus, buyer belief, brand context, and distribution purpose, and explains how Creative Engines uses this standard to separate purposeful content from generic AI generation."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, agencies, ai-assistants]

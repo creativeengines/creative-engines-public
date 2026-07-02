@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for founder-led premium and DTC brands"
+description: "Explains how Creative Engines fits founder-led premium and DTC brands, using mindset intelligence to keep the founder's voice authentic across high-cadence content and channels."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

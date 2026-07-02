@@ -1,5 +1,6 @@
 ---
 title: "Attention Journey"
+description: "Explains Creative Engines' Attention Journey concept, which maps where a buyer's attention travels across touchpoints and media channels for a given Mindset, replacing the generic awareness-consideration-decision funnel."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, strategists, partners, ai-assistants]

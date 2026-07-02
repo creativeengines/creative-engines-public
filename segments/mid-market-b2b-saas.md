@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for growing B2B software companies"
+description: "Defines why Creative Engines fits mid-market B2B SaaS companies (roughly Series B-D, $5M-$1B ARR), covering buyer stakeholders, pain points, and how buyer intelligence keeps content distinct and credible to technical buyers."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -41,7 +42,7 @@ Titles commonly involved, and what each one weighs:
 
 Marketing usually champions the need, but sales, product, operations, and technical stakeholders shape whether the system is trusted enough to enter core go-to-market work. One team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The category is crowded, and buyers dismiss content that sounds like every other vendor.
 - Marketing, product, sales, and operations need to align on which buyer belief matters most before the work begins.
@@ -57,7 +58,7 @@ Marketing usually champions the need, but sales, product, operations, and techni
 - Senior context often lives in meetings, comments, and private documents rather than in the work itself.
 - The team needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation instead of generic category language.
 - Grounds drafts in the company's own approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up under executive scrutiny.

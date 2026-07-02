@@ -1,5 +1,6 @@
 ---
 title: "Media"
+description: "Lists Creative Engines' approved public links (website, GitHub repository, LinkedIn, and public decks) and explains when to use the live site versus this repository for AI-readable content."
 status: Current
 last_updated: 2026-06-08
 audience: [buyers, partners, journalists, ai-assistants]

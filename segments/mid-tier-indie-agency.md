@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for independent agencies"
+description: "This page describes why Creative Engines fits mid-tier independent agencies, framing it as a buyer intelligence and governance layer that preserves strategic distinctiveness and brand voice across pitch, creative, and account teams."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -40,7 +41,7 @@ Titles commonly involved, and what each one weighs:
 
 The decision is founder-led or strategy-led, but creative authority and finance discipline shape whether the system is trusted enough to enter core client work. One team feels the pain first, several stakeholders need confidence, and the system has to be understood as a craft-and-strategy amplifier and a governance layer rather than a volume tool or a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - Senior strategists become bottlenecks because client teams need the why behind the work, not only the what.
 - Clients expect AI-enabled speed while still requiring high-quality strategic work at the same standard.
@@ -58,7 +59,7 @@ The decision is founder-led or strategy-led, but creative authority and finance 
 - Self-built weekend automations tend to break on model and schema drift, leaving senior people maintaining tooling they did not set out to own.
 - The team needs reusable intelligence, not one more disconnected writing surface or another ungoverned login.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Acts as a strategy-preservation and client-intelligence layer for agencies that do not want to become content factories, turning senior judgment into reusable briefs, client-specific [Mindsets](../concepts/mindset-intelligence.md), and reviewable content operations.
 - Grounds drafts in approved brand and client context with a traceable link back to the source, so claims hold up in the pitch room and in front of a client.

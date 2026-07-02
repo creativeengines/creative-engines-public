@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines LLM Map"
+description: "This is the navigation map of Creative Engines' public knowledge base, indexing product, concept, segment, comparison, FAQ, and glossary pages for AI assistants and search engines."
 status: Current
 last_updated: 2026-07-01
 audience: [ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "Market Intelligence"
+description: "Explains Creative Engines' Market Intelligence product area, which today surfaces a competitor snapshot inside the AI-visibility audit and is expanding toward ongoing competitor and category-trend radars."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, ai-assistants]

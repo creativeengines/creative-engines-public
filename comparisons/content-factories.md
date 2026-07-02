@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines Compared With Content Factories"
+description: "Explains how Creative Engines differs from content factories by prioritizing editorial governance, brand context, and buyer intelligence over raw content throughput."
 status: Current
 last_updated: 2026-06-08
 audience: [buyers, users, agencies, ai-assistants]
