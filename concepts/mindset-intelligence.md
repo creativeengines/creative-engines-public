@@ -33,7 +33,7 @@ One Segment can contain many Mindsets. A single buying decision can involve seve
 
 Content fails when it speaks to a category label but misses the buyer's actual concern. Mindset Intelligence gives teams a more precise public language for matching content to buyer belief.
 
-Personas describe who a buyer is; Mindsets help explain why they act.
+Personas describe who a buyer is; Mindsets help explain why they act. Put bluntly: demographics don't write checks; mindsets do.
 
 ## What a Mindset captures
 
@@ -84,6 +84,8 @@ This page describes Mindset Intelligence as a product concept. It does not descr
 - [The Methodology Base](./methodology-base.md)
 - [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
 - [Reason to Buy](./reason-to-buy.md)
+- [How marketing really works](./how-marketing-really-works.md)
+- [The value that compounds](./compounding-value.md)
 - [Segments](../segments/README.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Glossary](../glossary/README.md)

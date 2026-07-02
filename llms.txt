@@ -34,6 +34,7 @@ Creative Engines helps teams connect market focus, buyer beliefs, brand context,
 - The Methodology Base (marketing science behind the product): ./concepts/methodology-base.md
 - Editorial governance: ./concepts/editorial-governance.md
 - Anti-slop stance: ./concepts/anti-slop-stance.md
+- How marketing really works (Creative Engines' point of view): ./concepts/how-marketing-really-works.md
 - Strategy-grounded content: ./concepts/strategy-grounded-content.md
 - Brand voice: ./concepts/brand-voice.md
 - Brand Preview: ./concepts/brand-preview.md

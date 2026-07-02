@@ -39,6 +39,9 @@ A few plain assertions hold the idea up:
 - A reason said differently on the site, the deck, and the ads does not compound; a reason said consistently does.
 - The truest reasons live in the buyer's own words, not in a boardroom.
 - A reason proven before spend beats one discovered after a campaign underperforms.
+- Every brand already has a real reason its buyers choose it – rarely the one it assumes – and most never surface it, which is why whole categories look interchangeable.
+- Buyers act on the change a product makes for them, not on the features it lists: a reason to buy is a transformation in the buyer's mind, not a spec.
+- A reason to buy lands by joining two things a buyer already believes into one they have not – the connection that moves them to act.
 
 ## Why it matters
 
@@ -54,4 +57,5 @@ This page explains the buyer-facing idea. It does not publish how reasons are sy
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [The value that compounds](./compounding-value.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
+- [How marketing really works](./how-marketing-really-works.md)
 - [Concepts](./README.md)

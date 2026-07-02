@@ -63,4 +63,5 @@ This page names the areas the methodology base draws on. It does not publish the
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [Anti-slop stance](./anti-slop-stance.md)
 - [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
+- [Strategy handoff drift](./strategy-handoff-drift.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
