@@ -24,6 +24,13 @@ The immediate reason to adopt is the painkiller. The reason to stay is that none
 
 That compounding is why the best relationships here are long ones – which suits the brand, and, plainly, suits the platform too. The incentive on both sides points the same way: toward work that gets more valuable the longer it runs.
 
+## A moat, not a feature of the quarter
+
+Compounding is what turns a product from a feature into a position:
+
+- **The moment a differentiator becomes a checkbox every competitor offers, it stops differentiating.** Features get copied within a quarter; an accumulated body of brand truth, governance, and learning does not. A brand should bet its position on what is hard to copy, not on the capability of the moment – and what compounds inside the platform is exactly the hard-to-copy part.
+- **A growth engine that lives outside the founder's head is an asset; one that needs constant heroic effort is a liability.** If a business only grows when a few people pour themselves into every campaign, the system is broken. Value compounds precisely when the reasoning, the voice, and the standards no longer have to be re-supplied by hand each cycle.
+
 ## Public boundary
 
 This page explains, at a client level, how value accumulates over time. It does not publish internal business analysis, contract mechanics, data-rights design, or any protected method.

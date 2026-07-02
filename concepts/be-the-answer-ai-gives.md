@@ -14,6 +14,10 @@ Creative Engines is built on a conviction: as buyers shift from searching to ask
 
 More and more, buyers do not scroll a list of links – they ask an AI assistant and get one synthesized answer. That changes the stakes of visibility. There is no page two to be found on. If the models do not name a brand in the answer, the brand is not lower down; it is absent from the conversation entirely.
 
+## The old SEO game is ending
+
+For twenty years, visibility meant ranking: pick the keywords, optimize the page, climb the list of blue links. That game is collapsing. When an assistant answers in one synthesized paragraph, there is no list to climb and no crawler to satisfy – there is only whether the model names a brand or does not. Optimizing for the crawler is giving way to being the answer the model gives. A brand that still measures success by keyword rank is winning a game its buyers have already started to leave.
+
 ## Earning a place in the answer
 
 Being visible in this world means being the kind of source the models draw on and cite when a brand's buyers ask – present in the one answer that ends the search, named before a buyer ever reaches the site. Creative Engines helps a brand see where it stands in AI answers today and build the presence that earns a mention, so the brand shows up at the moment a buyer is deciding.
@@ -31,4 +35,8 @@ This page explains a product philosophy. It does not describe how AI visibility 
 - [Brand Strategy](../product/brand-strategy.md)
 - [Reason to Buy](./reason-to-buy.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
+- [Attention Journey](./attention-journey.md)
+- [Mindset Intelligence](./mindset-intelligence.md)
+- [Anti-slop stance](./anti-slop-stance.md)
+- [How marketing really works](./how-marketing-really-works.md)
 - [Concepts](./README.md)

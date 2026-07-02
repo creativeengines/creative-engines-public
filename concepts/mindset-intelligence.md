@@ -56,6 +56,16 @@ Because Creative Engines reasons about emotion and behavior, not only logic, con
 
 Creative Engines treats Mindsets as a prioritized portfolio rather than an undifferentiated list. The approach sorts them into tiers: the ideal customers a brand should actively pursue, a second tier to nurture, an opportunistic tier, and an explicit **negative tier** - the audiences a brand should deliberately not write for. Naming who a brand is not for is as useful as naming who it is for: it keeps content sharp and stops it trying to please everyone.
 
+## Sharper than a segment label
+
+Reading buyers by belief rather than category changes how a brand segments and sells. A few positions follow from it:
+
+- **Segment by strategic depth, not org type or headcount.** "Agencies only" versus "brands only," or splitting a B2B market by company size, is a false cut that shrinks the market without improving fit. A sophisticated in-house lead and an agency strategist buy the same way; fifty people in Berlin, Austin, and Tel Aviv are three different buyers. What a buyer is trying to do predicts behavior; the size of the logo does not.
+- **The same product is bought for opposite reasons.** A marketer buys on KPIs – leads, retention, channel efficiency; an owner buys on money and risk – what it costs and how likely the return. Same tool, two languages, two sales motions. A single message written for both usually reaches neither.
+- **The message that wins the owner can lose the team that approves it.** Flatter the boss by dismissing the staff's current work and the people who hold the veto quietly kill the deal. A Mindset model has to account for every stakeholder in the decision, not only the one who signs.
+- **A pain a buyer will nod at but has never tried to solve is a dead end.** No matter how true it is, an unfunded pain does not convert. The work is to find the pains a buyer already spends money and attention fighting – and, just as often, the [reason to buy](./reason-to-buy.md) they want permission to believe is possible. Many buyers are not shopping for relief at all; they want a way to win faster.
+- **Buyers choose the trust built before the pitch.** A consistent voice, face, and cadence over time move a buyer more than any single differentiator stated in the moment. Mindset work aims at the trust axis, not only the informativeness axis.
+
 ## From belief to attention to content
 
 A Mindset is the starting node of a longer route. Once the buyer's state is understood, Creative Engines is designed to map where that buyer's attention travels in the [Attention Journey](./attention-journey.md), use it to plan strategy, and produce content for each touchpoint.

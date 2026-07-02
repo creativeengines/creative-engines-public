@@ -64,6 +64,17 @@ Mapping attention this way lets a team see:
 - Which channels deserve a content asset, and which are noise for this Mindset.
 - Where a single weak step quietly breaks an otherwise strong journey.
 
+## How attention actually behaves
+
+A map is only as good as its read on how attention moves. A few principles shape every Attention Journey Creative Engines builds:
+
+- **Attention moves in cognitive steps, not funnel stages.** The real measure of a message is how many reframes it takes to move a buyer from where they stand to ready to act. Every extra step is a place attention leaks out, so the work is to remove steps, not to add clever ones.
+- **Proof belongs to closers, not openers.** A buyer at the top of the journey is still recognizing a problem, not comparing options; leading with numbers there answers a question no one has asked yet. The emotional hook earns the first step of attention, and the evidence earns the last.
+- **The medium governs the move.** Algorithmic channels – paid, social feeds – reward borrowing a proven structure and pouring a fresh idea into it. Non-algorithmic ones – email, a landing page – give a borrowed trend no lift at all. The same idea has to travel differently depending on the surface carrying it.
+- **The hero message sets the category, and the category picks the competitors.** A single loud claim about one slice of a product quietly files the whole brand under a category, and that category decides who the buyer compares it against. Choosing the message is choosing the competitive set, whether a team means to or not.
+- **A diagnosis only sells after the buyer has named the symptom.** An unsolicited "here is what is wrong with you" triggers a defense before it earns a hearing; the same insight lands the moment the buyer says it first. Attention has to be met at the belief the buyer already holds, described in a [Mindset](./mindset-intelligence.md), not the belief a brand wishes they held.
+- **Positioning that needs three lines has already lost the window.** If a buyer cannot hold the point in one breath, the positioning work is not finished. The journey is won by the message a buyer can repeat, not the one a brand can defend.
+
 ## Where the Attention Journey sits in the system
 
 The Attention Journey is the bridge between understanding a buyer and producing content for them. It connects the early and later parts of the Creative Engines flow:
@@ -88,5 +99,6 @@ This page explains the Attention Journey as a product concept. It does not publi
 - [Go-To-Market Strategy Planning](../product/brand-strategy.md)
 - [Creative Studio](../product/creative-studio.md)
 - [The value that compounds](./compounding-value.md)
+- [Being the answer AI gives](./be-the-answer-ai-gives.md)
 - [How marketing really works](./how-marketing-really-works.md)
 - [Glossary](../glossary/README.md)
