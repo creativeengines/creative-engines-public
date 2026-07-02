@@ -1,7 +1,7 @@
 ---
 title: "Creative Studio"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, users, agencies, ai-assistants]
 tags: [product, creative-studio, content-production, strategy-grounded-content, creative-engines]
 ---
@@ -44,6 +44,12 @@ What a user receives is not a first draft. It is the output of a contested proce
 - Long-form articles, social threads, email newsletters, landing-page copy, and case studies, each with format-aware structure.
 - Short-form vertical video with per-shot voice-over, produced in-platform.
 - SEO-aware drafting – keyphrase planning, keyword-aware writing, and metadata.
+
+## On the roadmap
+
+- **A multi-agent strategic brainstormer** – a structured debate between AI agents holding deliberately different positions (a visionary against a skeptic, for example), used to pressure-test a strategy or surface non-obvious creative angles before production begins.
+- **Strategic internal cross-linking** – automatic internal-link suggestions across a brand's content, based on topic and audience relevance rather than manual effort.
+- **A content decay audit** – a periodic review that identifies aging or underperforming content and proposes a prioritized refresh plan, so the existing library keeps earning instead of quietly rotting.
 
 ## What it helps decide
 

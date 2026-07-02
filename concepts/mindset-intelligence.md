@@ -1,7 +1,7 @@
 ---
 title: "Mindset Intelligence"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, users, partners, ai-assistants]
 tags: [concepts, mindset-intelligence, buyer-beliefs, creative-engines]
 ---
@@ -37,7 +37,7 @@ Personas describe who a buyer is; Mindsets help explain why they act. Put bluntl
 
 ## What a Mindset captures
 
-A Mindset is a deep rational-emotional portrait, not a one-line persona. For each one, Creative Engines works with a structured profile that includes:
+A Mindset is a deep rational-emotional portrait, not a one-line persona. Each profile spans more than forty dimensions and carries readable score values (for example, Pain 8.0/10), so the depth is something a team can inspect rather than take on faith. For each one, Creative Engines works with a structured profile that includes:
 
 - The **job** the buyer is trying to get done, and the **desired outcome** they want.
 - The **four forces** that move a decision: the **push** away from the present, the **pull** toward a better way, the **anxiety** that change creates, and the **habit** that holds the present in place.

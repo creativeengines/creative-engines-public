@@ -23,6 +23,12 @@ Promising to make marketing cheaper is the wrong move. It concedes that the work
 
 **How Creative Engines answers it.** The product competes on strategic value and end-to-end integration, never on being the cheapest tool – and the value [compounds](./compounding-value.md) the longer a brand works in one governed place, which a cheaper point tool cannot claim.
 
+## "Right or fast" is a dead trade-off
+
+For years teams were told to pick one: do marketing right – grounded in real audience understanding, held to a senior bar – and accept that it is slow and locked behind scarce expertise; or do it fast with AI and accept work that looks fine and moves nothing. The trade-off felt permanent because judgment lived in a few senior heads while speed lived in shallow tools that carried no context. Most of what ships today is one side of that bargain or the other: careful work that arrives late, or fast work that changes nothing.
+
+**How Creative Engines answers it.** The product is built to end the trade-off rather than pick a side: every move grounded in what the market actually wants (through buyer [Mindsets](./mindset-intelligence.md)), held to a structured quality bar (through the [multi-agent creative department](./multi-agent-creative-department.md) and [editorial governance](./editorial-governance.md)), at the speed AI makes possible. Speed without judgment is only faster noise; judgment without speed loses the market. The system exists to deliver both at once.
+
 ## Virality is not a strategy
 
 Reach and revenue often point in opposite directions. A post can travel far and sell nothing, because attention without a reason to buy converts no one, and virality with no operational readiness underneath it converts even less. Chasing reach for its own sake is a way to feel successful while the pipeline stays empty.

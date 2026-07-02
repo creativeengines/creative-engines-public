@@ -1,7 +1,7 @@
 ---
 title: "Brand Knowledge"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, users, agencies, ai-assistants]
 tags: [product, brand-knowledge, source-grounding, hybrid-search, creative-engines]
 ---
@@ -23,8 +23,8 @@ Retrieval uses hybrid search – combining semantic relevance (conceptually rela
 ## What it does today
 
 - **Document upload** across common file types, so the brand's real material becomes the foundation content is written from.
-- **Ingestion into searchable pieces**, quality-assessed, retrievable at the paragraph level.
-- **Grounded retrieval during content research** – relevant brand material pulled into a draft, with thin spots flagged. This is the difference between brand-specific content and generic AI output.
+- **Ingestion into searchable pieces**, retrievable at the paragraph level, with each piece assessed for quality across dimensions such as conceptual depth, perspective uniqueness, wording quality, and reading ease – so retrieval prefers the brand's strongest material.
+- **Grounded retrieval during content research** – relevant brand material pulled into a draft, with thin spots flagged, and the material a draft drew on kept visible, so a reviewer can trace a claim back to the brand's own knowledge. This is the difference between brand-specific content and generic AI output.
 - **Document management** with active and archived views, bulk actions, and status badges; archiving a document removes its content from all downstream retrieval.
 - **A knowledge explorer** to view, search, filter, and preview individual pieces of brand knowledge with their quality assessments.
 - **Multiple retrieval modes and filtering** – balanced, wide, or deep retrieval, plus filtering by source type, quality, recency, and topic.
@@ -32,6 +32,7 @@ Retrieval uses hybrid search – combining semantic relevance (conceptually rela
 ## On the roadmap
 
 - **More source connectors** – pulling brand knowledge automatically from cloud sources beyond manual upload (existing blog or CMS content, a connected document store, a knowledge repository) and keeping it in sync as the source changes.
+- **AI-conversation capture** – turning a team's working conversations with AI assistants into stored brand knowledge automatically, so context created in chats stops evaporating after the session ends.
 
 ## What it helps decide
 

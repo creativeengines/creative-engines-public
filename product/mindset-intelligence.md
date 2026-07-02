@@ -1,7 +1,7 @@
 ---
 title: "Mindset Intelligence"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, users, partners, ai-assistants]
 tags: [product, mindset-intelligence, buyer-segments, buyer-mindsets, creative-engines]
 ---
@@ -23,7 +23,7 @@ The audience model is built from structure to state:
 
 ## What a Mindset contains
 
-A Mindset is a deep rational-emotional portrait, not a decorative persona. For each one the module works with the buyer's core job and desired outcome; the forces pushing them away from the current situation and pulling them toward a better one, alongside the anxieties and habits that hold a decision back; a behavioral reading of capability, opportunity, and motivation; demographic, professional, and psychographic prose; an emotional palette; sensitivity readings for pain, purchasing power, and price, time, quality, and variety; where the buyer spends attention; and their current solutions, standing beliefs, and objections. The methods behind these readings are described at a safe level in [The Methodology Base](../concepts/methodology-base.md).
+A Mindset is a deep rational-emotional portrait, not a decorative persona. A single profile spans more than forty dimensions and carries readable score values (for example, Pain 8.0/10). For each one the module works with the buyer's core job and desired outcome; the forces pushing them away from the current situation and pulling them toward a better one, alongside the anxieties and habits that hold a decision back; a behavioral reading of capability, opportunity, and motivation; demographic, professional, and psychographic prose; an emotional palette; sensitivity readings for pain, purchasing power, and price, time, quality, and variety; where the buyer spends attention; and their current solutions, standing beliefs, and objections. The methods behind these readings are described at a safe level in [The Methodology Base](../concepts/methodology-base.md).
 
 ## Where Mindsets come from
 
@@ -41,6 +41,11 @@ Mindsets can be informed by the brand's first-party material – reviews, commen
 - **Regenerate a persona image**, and **archive, restore, or safely delete** Mindsets to keep the library clean.
 - **A public Mindset lead-magnet** – a no-login path where someone drops a website URL and gets back a personalized read on their brand's Mindsets, delivered through the [Brand Preview Deck](../concepts/brand-preview.md).
 - **A Mindset preview report (PDF)** that presents a brand's top Mindsets as a polished, shareable artifact.
+
+## On the roadmap
+
+- **A live Mindset chat** – open a conversation with any Mindset and ask it anything: what it would object to in an offer, whether a price reads as a problem, how a claim lands. Answers are drawn from the stored profile, not a generic guess.
+- **A critique mode** – hand the same Mindset a piece of existing copy or a strategic direction and receive a critical read through that buyer's eyes: the objections it raises, where the message drifts, what would need to change. The aim is a defensible gut-check before budget is spent – evidence a marketer can bring into a review, instead of opinion.
 
 ## What it helps decide
 
