@@ -42,6 +42,7 @@ A few plain assertions hold the idea up:
 - Every brand already has a real reason its buyers choose it – rarely the one it assumes – and most never surface it, which is why whole categories look interchangeable.
 - Buyers act on the change a product makes for them, not on the features it lists: a reason to buy is a transformation in the buyer's mind, not a spec.
 - A reason to buy lands by joining two things a buyer already believes into one they have not – the connection that moves them to act.
+- A narrative with no offer behind it is a slogan – a promise about an undefined future; a real reason to buy is anchored to something the brand actually sells, which is also what defines what it does and does not do.
 
 ## Why it matters
 

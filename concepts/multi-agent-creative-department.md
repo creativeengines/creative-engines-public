@@ -82,6 +82,14 @@ The difference between Creative Engines and a single-pass tool is the difference
 
 This is why the same underlying models can produce generic output in one product and distinctive, governed output in Creative Engines. The difference is the process around the generation, not the generation itself.
 
+## The human stays the author
+
+Every gate in the department points at the same principle: the tools amplify a person, they do not stand in for one. Creative Engines is built to make a marketer a sharper strategist, not to automate the marketer away.
+
+- **A point of view plus AI beats AI alone, every time.** A person with a clear intent and AI produces work the model could never reach on its own; AI without a point of view produces structurally correct nonsense – fluent, on-format, and about nothing. Vision is the input the model cannot supply.
+- **The department is decision-support, not decision-replacement.** The painful final call – what the brand says and what ships – stays with the person who owns the outcome. Keeping the human on the decision is what preserves both accountability and the sense that the work is genuinely theirs.
+- **As machines do more of the making, everyone becomes a strategist.** When generation is cheap, the scarce skill moves up: business context, talking to customers, and deciding what is worth saying. The department is designed to put a person in exactly those seats and hand the mechanical load to the agents.
+
 ## Public boundary
 
 This page explains the creative-department pattern at a client-facing level. It does not publish the agents' prompts, round counts, selection rules, the contents of the tactics catalog, scoring, orchestration, model choices, or any protected production mechanics.

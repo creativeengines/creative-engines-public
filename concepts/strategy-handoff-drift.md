@@ -30,6 +30,10 @@ The answer to both is the same. Set the story once — the problem it fights, th
 
 Creative Engines is designed to make strategy operational this way: brand context, buyer understanding, narrative direction, and review criteria stay close to the work, and a narrative is a first-class object every output is checked against.
 
+## Why the fix has to live at generation time
+
+Most teams try to fix drift at review – catch the off-brand draft before it ships. That does not scale. Under deadline pressure, review collapses into rescuing tone, and the volume wins anyway. Drift is a generation-time problem: the only constraints that hold at scale are the ones applied while the work is being made, not the ones checked afterward. A brief that lands in a folder nobody reopens is not a strategy; a plan a marketer forgets within weeks and improvises around is not a plan. The reasoning has to be present at the moment of creation, or it is not really operating.
+
 ## Questions a clean handoff should answer
 
 The reasoning has survived if the production work can still answer:

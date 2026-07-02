@@ -44,6 +44,7 @@ The website frames the enemy plainly: generic AI output that sounds like everyon
 - The draft follows the immediate instruction but ignores the strategic situation.
 - The content has no clear buyer belief, proof need, or editorial reason to exist.
 - Review focuses only on polish, not on whether the piece should be published.
+- A smart-sounding phrase carries no operational implication – an analogy or maxim that cannot be acted on is decoration, a reliable tell that no one asked what it meant.
 
 ## Creative tactics and genericity
 
@@ -52,6 +53,10 @@ Creative Engines treats AI slop as more than weak prose. Generic content often c
 The product uses a catalog of 268 creative tactics, organized into 12 categories, along with review habits to push work toward more specific, brand-owned ideas. Publicly describable influences include bisociation, distinctive assets, creative effectiveness research, and structured creative problem solving.
 
 The point is not to force every asset to be unusual. The point is to prevent AI-assisted work from defaulting to the easiest pattern.
+
+## Where generic output actually comes from
+
+Generic AI content is usually a missing-context problem, not a model problem. Skip the step that works out what makes this brand, this buyer, and this moment specific, and the model fills the gap with the average of its training data – which is generic by definition. Asking a model to "be more creative" does not fix that; feeding it the specifics only the brand holds does. The order matters too: give a model a finished sentence and it returns a remix, but give it a strategic intent with the wording left open, and it can find angles a team had not.
 
 ## The bar is moving from tools to taste
 
