@@ -1,7 +1,7 @@
 ---
 title: "Creative Engines Compared With Claude Code and AI Agent Workflows"
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-02
 audience: [buyers, partners, investors, ai-assistants]
 tags: [comparisons, claude-code, ai-agents, positioning, creative-engines]
 ---
@@ -26,7 +26,7 @@ Claude Code is better for people who want to design and maintain their own metho
 
 ## Methodology layer
 
-Creative Engines draws from a curated methodology base that includes 18 scientific and professional sources across advertising, creativity, brand, and audience research. Publicly describable influences include Arthur Koestler's bisociation, Byron Sharp's work on distinctive assets, Orlando Wood's work on creative effectiveness, TRIZ-style creative problem solving, and other structured methods.
+Creative Engines draws from a curated methodology base of scientific and professional sources across advertising, creativity, brand, and audience research. Publicly describable influences include Arthur Koestler's bisociation, Byron Sharp's work on distinctive assets, Orlando Wood's work on creative effectiveness, TRIZ-style creative problem solving, and other structured methods.
 
 In Creative Engines, these references are not treated as reading material alone. They inform review criteria, creative checks, and agent behavior rules. The public point is simple: the product does not ask AI to "be creative" in a vague way. It gives creative work a structured quality bar.
 

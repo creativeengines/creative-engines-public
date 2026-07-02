@@ -1,7 +1,7 @@
 ---
 title: "Creative Engines Public Knowledge Base"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, users, partners, investors, contractors, ai-assistants]
 tags: [creative-engines, public-knowledge-base, product-overview, documentation]
 ---
@@ -10,7 +10,7 @@ tags: [creative-engines, public-knowledge-base, product-overview, documentation]
 
 **Creative Engines finds the reason buyers choose a brand, proves it before spend, and installs it everywhere.**
 
-Creative Engines is a content intelligence and production platform for marketing teams, agencies, and founders. It understands a brand's buyers deeply, decides what to say, produces content through a multi-agent creative process, and keeps every asset connected to strategy – so content teaches, persuades, and compounds instead of adding to the noise.
+Creative Engines is a content intelligence and production platform for marketing teams, agencies, and founders. It understands a brand's buyers deeply, decides what to say, produces content through a multi-agent creative process, and keeps every asset connected to strategy – so content teaches, persuades, and compounds instead of adding to the noise. In one line: Creative Engines delivers Strategic Content powered by Mindset Intelligence.
 
 Most tools start from a prompt. Creative Engines starts from the buyer: who they are, what they believe, where their attention travels, and what would actually move them. Only then does it write – and it reviews the work the way a serious creative department would before anything is published.
 
@@ -57,6 +57,7 @@ Several concept pages explain the depth behind the product:
 - [Multi-Agent Creative Department](./concepts/multi-agent-creative-department.md) - content produced by specialized agents and tested on an audience focus group before release.
 - [The value that compounds](./concepts/compounding-value.md) - why the work gets stronger the longer a brand works in one governed place.
 - [The Methodology Base](./concepts/methodology-base.md) - the marketing science the product applies as working rules.
+- [How marketing really works](./concepts/how-marketing-really-works.md) - the opinionated view behind the product, including why "right or fast" is a dead trade-off.
 
 ## What this repository is
 
@@ -84,6 +85,7 @@ Several concept pages explain the depth behind the product:
 - Buyer beliefs matter more than demographic labels.
 - AI should be piloted by professionals, not treated as a magic button.
 - The product amplifies people; it does not replace them. Creative Engines exists to make the professionals who use it sharper – better creative strategists, not sidelined operators. The mechanisms are only as good as the expert pilot directing them, and without that human they have no point.
+- Creative Engines scales a marketing team's capacity without losing context or quality – it is not an agency replacement.
 - Content should become a reusable business asset, not disposable feed filler.
 
 ## See also

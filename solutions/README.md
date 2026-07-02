@@ -1,7 +1,7 @@
 ---
 title: "Solutions"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, segment-solutions, product-fit, creative-engines]
 ---
@@ -54,6 +54,20 @@ Across every segment, the product fit follows a consistent shape:
 Creative Engines helps teams answer:
 
 > What market are we targeting, what do buyers believe, what should we say, how do we package it, and how do we prove it safely with AI?
+
+## The through-line
+
+Read down the solution pages and the same few differentiators recur – but in a different order per segment, and that ordering is the whole point. Each segment buys the same platform for a different first reason:
+
+- **Encode the method / auditable strategy** leads for agencies, fractional operators, enterprise brands, and holding groups.
+- **Voice fidelity from verbatim audience language** leads for founder-led, DTC, and boutique-agency work.
+- **Isolation, IP protection, and traceability** lead for enterprise, B2B software, boutique, and regulated-vertical buyers.
+- **Narrative divergence and [pre-flight audience testing](../concepts/test-before-you-publish.md)** lead for startups, and color founder-led brands.
+- **Multi-client, multi-brand governance** leads for agencies, fractional practices, studios, venture groups, and holdcos.
+- **SEO and authority long-form** leads for software, tech-enabled service, and premium small-business brands.
+- **Owner sign-off and one governed place** lead for established small businesses.
+
+A solution page that lists every module shows no difference; the ordering above is what makes each segment's story distinct.
 
 ## See also
 

@@ -1,7 +1,7 @@
 ---
 title: "Content Distribution"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, users, agencies, ai-assistants]
 tags: [product, content-distribution, content-pillars, ad-campaigns, content-tasks, creative-engines]
 ---
@@ -27,7 +27,7 @@ Both draw on the same approved brand context and produce content assets the team
 - **Content Pillars and Ad Campaigns** organize content into recurring and time-bound motions tied to the grid.
 - **A content calendar** with a production view (grouped by theme, dated by deadline) and a publishing view (grouped by channel, dated by scheduled time), with status for planned, drafted, approved, and published work.
 - **Channel setup** defines the channels a brand publishes to.
-- **Scheduling and publishing** – attach an approved draft to a dated slot, and push approved content to channels automatically, with publish status tracked back.
+- **Scheduling and publishing** – attach an approved draft to a dated slot, and push approved content to channels automatically through native CMS connectors (Webflow, WordPress, Ghost) and a social aggregator, with publish status tracked back.
 - **A pre-publication review and approval gate** that halts before anything ships and waits for an explicit human approval, or a no-go with notes.
 - **The content task lifecycle** – every task moving through named, auditable stages with an explicit state, so work can be tracked and sent back a stage with notes.
 - **Per-stage execution modes** – choosing how much of each stage runs automatically versus needs a human.

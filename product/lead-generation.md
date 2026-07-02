@@ -1,7 +1,7 @@
 ---
 title: "Lead Generation"
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-02
 audience: [buyers, partners, agencies, ai-assistants]
 tags: [product, lead-generation, buyer-handoff, creative-engines]
 ---
@@ -21,7 +21,7 @@ This area is not only about capturing contact information. It gives a prospect a
 - **Initial content directions in the preview deck** – a few starting content ideas inferred from the brand's profile and Mindsets, so the deck demonstrates tactical next steps, not just frameworks.
 - **A lead inbox** where authenticated users see every lead with live status, a source tag, any extra form fields, and a link to the finished deck.
 - **A brand-audit add-on** in the funnel – trigger the AI-visibility audit from a brand page and download its branded PDF, for an extra credible artifact in the conversion flow.
-- **The Chrome Brand-Voice-Comments extension** – a side-panel where a user pastes a social post, picks a brand, persona, platform, and style, and gets two or three brand-aligned comment variants drawn from the brand's own knowledge. The user copies one and posts it; the extension never reads or writes social platforms directly. It supports consistent, on-brand engagement in seconds.
+- **The Chrome Brand-Voice-Comments extension** – a side-panel where a user pastes a social post (and optionally their own rough take), picks a brand, persona, platform, and style, and gets two or three brand-aligned comment variants drawn from the brand's own knowledge. It tunes length to the platform's norms (LinkedIn, Facebook, X, Threads, Instagram, and other social platforms), offers a broad-reach versus niche-resonance style dial and a quality-versus-speed control, and copies a chosen variant to the clipboard in one click. By design it reads no page content and posts nothing itself – the user stays in control, and the extension stays within platform terms of service. It supports consistent, on-brand engagement in seconds.
 
 ## On the roadmap
 
