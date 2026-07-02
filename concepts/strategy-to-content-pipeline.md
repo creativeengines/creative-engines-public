@@ -52,3 +52,5 @@ This page describes how the product modules connect at a client-facing level. It
 - [The Methodology Base](./methodology-base.md)
 - [Product](../product/README.md)
 - [Reason to Buy](./reason-to-buy.md)
+- [A brand voice that survives AI](./voice-at-ai-scale.md)
+- [How marketing really works](./how-marketing-really-works.md)

@@ -34,4 +34,6 @@ This page explains, at a client level, how value accumulates over time. It does 
 - [Editorial governance](./editorial-governance.md)
 - [Brand voice](./brand-voice.md)
 - [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
+- [Anti-slop stance](./anti-slop-stance.md)
+- [Attention Journey](./attention-journey.md)
 - [Concepts](./README.md)

@@ -42,5 +42,8 @@ This page describes the public content philosophy. It does not publish internal 
 - [Concepts](./README.md)
 - [Editorial governance](./editorial-governance.md)
 - [Strategy handoff drift](./strategy-handoff-drift.md)
+- [How marketing really works](./how-marketing-really-works.md)
+- [Being the answer AI gives](./be-the-answer-ai-gives.md)
+- [The value that compounds](./compounding-value.md)
 - [Product](../product/README.md)
 - [Comparisons](../comparisons/README.md)

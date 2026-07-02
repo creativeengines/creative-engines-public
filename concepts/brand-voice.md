@@ -45,4 +45,5 @@ This page describes brand voice as a public product concept. It does not publish
 - [Anti-slop stance](./anti-slop-stance.md)
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [The Methodology Base](./methodology-base.md)
+- [Strategy handoff drift](./strategy-handoff-drift.md)
 - [Brand Knowledge](../product/brand-knowledge.md)

@@ -91,5 +91,7 @@ This page explains the creative-department pattern at a client-facing level. It 
 - [Creative Studio](../product/creative-studio.md)
 - [Anti-slop stance](./anti-slop-stance.md)
 - [Editorial governance](./editorial-governance.md)
+- [Test before you publish](./test-before-you-publish.md)
+- [Mindset Intelligence](./mindset-intelligence.md)
 - [Brand voice](./brand-voice.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)

@@ -53,6 +53,13 @@ The product uses a catalog of 268 creative tactics, organized into 12 categories
 
 The point is not to force every asset to be unusual. The point is to prevent AI-assisted work from defaulting to the easiest pattern.
 
+## The bar is moving from tools to taste
+
+Everyone now writes with AI, and the models are largely the same, so access to AI is no longer an advantage. Two beliefs follow:
+
+- **The tool war is over; the next one is taste.** When every team has the same models, the edge is the judgment applied around them – whether the same tools ship slop or craft.
+- **The last durable moat is a true, specific human detail.** A fabricated "personal" story reads as plastic; one real, small, concrete detail is the handprint a reader trusts, and the thing a generic model cannot invent. Effort, not the absence of AI, is what readers actually reward.
+
 ## See also
 
 - [Concepts](./README.md)
@@ -61,5 +68,6 @@ The point is not to force every asset to be unusual. The point is to prevent AI-
 - [Editorial governance](./editorial-governance.md)
 - [Strategy-grounded content](./strategy-grounded-content.md)
 - [Brand voice](./brand-voice.md)
+- [How marketing really works](./how-marketing-really-works.md)
 - [Claude Code and AI agent workflows](../comparisons/claude-code-and-ai-agents.md)
 - [Content factories comparison](../comparisons/content-factories.md)

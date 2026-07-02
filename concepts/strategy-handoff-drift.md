@@ -51,4 +51,7 @@ This page describes a public buyer problem and product concept. It does not publ
 - [Reason to Buy](./reason-to-buy.md)
 - [Multi-Agent Creative Department](./multi-agent-creative-department.md)
 - [Strategy-to-Content Pipeline](./strategy-to-content-pipeline.md)
+- [The Methodology Base](./methodology-base.md)
+- [Brand voice](./brand-voice.md)
+- [How marketing really works](./how-marketing-really-works.md)
 - [Concepts](./README.md)

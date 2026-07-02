@@ -87,4 +87,6 @@ This page explains the Attention Journey as a product concept. It does not publi
 - [Strategy-grounded content](./strategy-grounded-content.md)
 - [Go-To-Market Strategy Planning](../product/brand-strategy.md)
 - [Creative Studio](../product/creative-studio.md)
+- [The value that compounds](./compounding-value.md)
+- [How marketing really works](./how-marketing-really-works.md)
 - [Glossary](../glossary/README.md)
