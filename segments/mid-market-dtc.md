@@ -44,7 +44,7 @@ The founder or brand leader often holds final voice authority, while growth and 
 ## Core pain points
 
 - Performance demands push toward more variants, while brand leaders work to hold the voice consistent across that volume.
-- Founder voice is often intuitive and hard to brief, so it needs a way to be documented and shared.
+- Founder voice is often instinctive and hard to brief, so it needs a way to be documented and shared.
 - Creative and growth teams optimize different signals and need a shared definition of the brand to stay aligned.
 - AI tools produce plausible content that can read as off-brand in subtle ways, so on-brand judgment matters more as output grows.
 - Agency partners need clearer context to keep work specific rather than generic category language.

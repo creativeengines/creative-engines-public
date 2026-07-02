@@ -48,6 +48,10 @@ For an advanced reader comparing tools, the difference is not "it also uses AI".
 
 The connective view of how these fit together is the [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md).
 
+## Public boundary
+
+These pages explain category positioning at a client level, not competitor analysis. They do not publish private review rules, evaluation criteria, internal workflow names, or protected methodology.
+
 ## See also
 
 - [Root README](../README.md)

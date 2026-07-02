@@ -37,7 +37,7 @@ Useful starting material includes:
 
 The product can help structure incomplete context, but the best results come when the team is explicit about what it already knows and what it wants to protect.
 
-## What the first useful outcome is
+## What is the first useful outcome?
 
 A useful first outcome is not a pile of generic content. It is a structured view of the brand and its buyers, plus a clearer path from strategy to content work.
 

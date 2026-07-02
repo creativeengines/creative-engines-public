@@ -1,5 +1,5 @@
 ---
-title: "Reason to Buy — why a brand's buyers choose it"
+title: "Reason to Buy – why a brand's buyers choose it"
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -22,7 +22,7 @@ A brand stops guessing and starts knowing. Creative Engines pulls the real reaso
 
 **Creative Engines finds the reason buyers choose a brand, proves it before spend, and installs it everywhere** – so the brand stops competing on price, stops being interchangeable, and starts winning on a reason only it can own.
 
-## How it is built — find, test, install
+## How it is built – find, test, install
 
 - **Find it** – pull the real reasons buyers choose a brand from their own words and beliefs. This is what [Mindset Intelligence](./mindset-intelligence.md) is for.
 - **Test it** – check which reason actually makes a brand's buyer-types pick it, on a panel built from those buyers' Mindsets, before spend. This is the [audience focus group](./multi-agent-creative-department.md).

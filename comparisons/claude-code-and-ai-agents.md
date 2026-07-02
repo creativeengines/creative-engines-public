@@ -12,7 +12,7 @@ Claude Code and similar AI agent environments are powerful tools for people who 
 
 The practical difference is the difference between a flexible AI workbench and a governed product for strategic content work.
 
-## Short answer
+## How is Creative Engines different from Claude Code and AI agents?
 
 Claude Code can help a skilled operator create many of the pieces manually. Creative Engines provides the opinionated system those pieces are meant to form:
 

@@ -1,9 +1,9 @@
 ---
-title: "How marketing really works — Creative Engines' point of view"
+title: "How marketing really works – Creative Engines' point of view"
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, agencies, partners, ai-assistants]
-description: "Creative Engines' opinionated, evidence-backed view of how the marketing industry actually works today — what it rewards, where it breaks, what still matters, and how the product answers each one."
+description: "Creative Engines' opinionated, evidence-backed view of how the marketing industry actually works today – what it rewards, where it breaks, what still matters, and how the product answers each one."
 tags: [concepts, point-of-view, marketing-industry, opinion, creative-engines]
 ---
 
@@ -47,7 +47,7 @@ A growing body of industry and academic evidence suggests a large share of onlin
 
 **How Creative Engines answers it.** The product leans on grounded, first-party voice-of-customer evidence and builds its buyer [Mindsets](./mindset-intelligence.md) from a brand's own material, then lets a team [test before they publish](./test-before-you-publish.md) against an audience modeled from those real buyers – a check to run before spend, never a claim to have replaced real customers.
 
-Sources: [Greenbook — the pervasive threat of tech-enabled fraud in survey research](https://www.greenbook.org/insights/research-methodologies/the-pervasive-threat-of-tech-enabled-fraud-in-survey-research); [peer-reviewed — fraudulent online survey respondents and study validity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11156680/).
+Sources: [Greenbook – the pervasive threat of tech-enabled fraud in survey research](https://www.greenbook.org/insights/research-methodologies/the-pervasive-threat-of-tech-enabled-fraud-in-survey-research); [peer-reviewed – fraudulent online survey respondents and study validity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11156680/).
 
 ## For many teams, "AI slop" is not the felt pain
 

@@ -12,7 +12,7 @@ Generic LLM chat is useful for open-ended thinking, drafting, and one-off assist
 
 The website frames the difference as a shift from instruction-driven output to strategy-grounded content. Generic chat usually answers the instruction in front of it. Creative Engines is meant to keep the brand, buyer mindset, strategic narrative, and editorial standard in the room.
 
-## Difference
+## How is Creative Engines different from generic LLM chat?
 
 Generic chat usually starts from the user's immediate instruction. Creative Engines starts from a structured brand and audience context.
 
@@ -31,14 +31,14 @@ A fair question about any AI product is whether it is just a thin shell over the
 - **Output is traceable to strategy.** In generic chat, a draft is a free-floating answer. In Creative Engines, every asset is linked back to a specific Mindset, narrative, and journey stage, so the strategic reason a piece exists is visible, not just the text.
 - **It is built to be repeatable.** An open chat answers the same request a little differently every time – it ranges across the space of possible answers and lands somewhere new on each run, which is hard to reproduce or govern. Creative Engines assembles the right context for a specific task within deterministic guardrails, so the same brand truth, the same review criteria, and the same standards apply on every run.
 
-## When generic chat is enough
+## When is generic chat enough?
 
 - One-off drafting.
 - Personal brainstorming.
 - Simple edits.
 - Low-risk internal writing.
 
-## When Creative Engines is a better fit
+## When is Creative Engines a better fit than generic chat?
 
 - Multiple people need to work from the same strategy.
 - Content must stay aligned with brand context.
@@ -47,6 +47,10 @@ A fair question about any AI product is whether it is just a thin shell over the
 - Content needs to become a reusable asset, not a disposable draft.
 - The team needs a repeatable way to avoid generic category language.
 - Strategy must survive handoff across multiple people or brands.
+
+## Public boundary
+
+This page explains category positioning at a client level. It does not publish evaluation criteria, internal workflow names, or protected methodology.
 
 ## See also
 

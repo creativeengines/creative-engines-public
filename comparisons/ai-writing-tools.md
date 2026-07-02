@@ -12,7 +12,7 @@ AI writing tools usually focus on producing drafts, variations, or channel-speci
 
 The website expresses this through a simple objection to generic AI: it can produce fluent text while missing the specific buyer, brand, and reason the asset should exist.
 
-## Difference
+## How is Creative Engines different from an AI writing tool?
 
 An AI writing tool can help produce text. Creative Engines is intended to help teams decide what should be said, why it should be said, and how the work should remain aligned with strategy.
 
@@ -34,6 +34,10 @@ Production itself is also more than a single draft. Creative Engines runs conten
 - A brand-governed production environment.
 - A way to keep content decisions connected across a team.
 - A way to protect brand voice and buyer relevance while using AI.
+
+## Public boundary
+
+This page explains category positioning at a client level. It does not publish evaluation criteria, internal workflow names, or protected methodology.
 
 ## See also
 

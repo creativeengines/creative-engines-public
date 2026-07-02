@@ -110,6 +110,10 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Traceable intelligence** - The expectation that content decisions should have a visible strategic reason behind them.
 
+## Public boundary
+
+These are public, customer-facing definitions only. This page does not publish internal codenames, scoring, or the protected methodology behind any term.
+
 ## See also
 
 - [Root README](../README.md)

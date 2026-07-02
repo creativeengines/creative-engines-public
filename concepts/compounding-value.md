@@ -1,5 +1,5 @@
 ---
-title: "The value that compounds — why the work gets stronger over time"
+title: "The value that compounds – why the work gets stronger over time"
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

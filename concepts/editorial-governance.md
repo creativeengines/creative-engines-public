@@ -12,7 +12,7 @@ Editorial governance is the operating layer that keeps AI-assisted content align
 
 Creative Engines is not built around the idea that more output is automatically better. It is built around the idea that content should pass through clear editorial judgment before it becomes public.
 
-## What governance protects
+## What does editorial governance protect?
 
 - Brand voice and category position.
 - Audience relevance.
@@ -35,7 +35,7 @@ The public website expresses this through three recurring ideas:
 
 Those ideas make Creative Engines different from a pure drafting surface. The work is not finished when text is generated. It is finished when the asset is aligned, useful, reviewed, and ready to represent the brand.
 
-## Brand Guardian
+## What is Brand Guardian?
 
 Brand Guardian is the public name for the review posture Creative Engines applies to brand and editorial work. At a client-facing level, it means content should be checked for:
 

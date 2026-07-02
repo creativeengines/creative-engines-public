@@ -37,7 +37,7 @@ Creative Engines is best understood as an editorial system, not a content factor
 
 The website frames the enemy plainly: generic AI output that sounds like everyone else. Creative Engines exists for teams that want AI-assisted speed without surrendering strategy, voice, or buyer relevance.
 
-## Public signals of low-effort AI content
+## What are the public signs of low-effort AI content?
 
 - The asset could belong to almost any brand in the category.
 - The message tries to please every audience at once.
@@ -64,6 +64,10 @@ Everyone now writes with AI, and the models are largely the same, so access to A
 
 - **The tool war is over; the next one is taste.** When every team has the same models, the edge is the judgment applied around them – whether the same tools ship slop or craft.
 - **The last durable moat is a true, specific human detail.** A fabricated "personal" story reads as plastic; one real, small, concrete detail is the handprint a reader trusts, and the thing a generic model cannot invent. Effort, not the absence of AI, is what readers actually reward.
+
+## Public boundary
+
+This page explains the anti-slop stance as a product philosophy. It does not publish the contents of the creative-tactics catalog, scoring, or any protected review method.
 
 ## See also
 

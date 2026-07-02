@@ -40,6 +40,10 @@ AI makes content volume easier. That raises the value of editorial discipline. T
 
 Creative Engines is positioned as a governance layer above content factories and AI-assisted production systems. The point is not to remove production, and not to replace the professionals who direct it. The point is to make production answer to strategy.
 
+## Public boundary
+
+This page explains category positioning at a client level. It does not publish evaluation criteria, internal workflow names, or protected methodology.
+
 ## See also
 
 - [Comparisons](./README.md)

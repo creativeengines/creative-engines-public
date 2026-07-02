@@ -12,7 +12,7 @@ Content Distribution is the product area for turning content from isolated draft
 
 This is where Creative Engines connects production to an operating rhythm.
 
-## The two content motions
+## What is the difference between a Content Pillar and an Ad Campaign?
 
 Creative Engines organizes content into two kinds of motion:
 
