@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for fractional CMOs and solo marketing practices"
+description: "Explains how Creative Engines fits fractional CMOs and solo marketing practices, using per-client Brand workspaces, Mindset Intelligence, and Brand Strategy to deliver senior-looking, on-brand work across multiple clients without the operator becoming a bottleneck."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for established small businesses"
+description: "Defines established small businesses ($1M-$10M revenue, 5-30 employees) as a strong-fit buyer segment for Creative Engines, detailing their decision-makers, pain points, and buyer intelligence needs."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -40,7 +41,7 @@ Titles commonly involved, and what each one weighs:
 
 The owner or operating leader usually decides, often influenced by a fractional marketing advisor or trusted external specialist. The exact path depends on company structure, but the pattern is consistent: one team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The owner or senior operator remains the source of truth for what the brand stands for, which concentrates the work around one person.
 - Marketing output can become tactical and disconnected from the real reasons customers buy.
@@ -58,7 +59,7 @@ The owner or operating leader usually decides, often influenced by a fractional 
 - The cost of producing creative has fallen, so spend is judged more sharply against the outcome it returns.
 - The team needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work reflects local trust, specialization, and the real reasons customers buy rather than generic category language.
 - Turns owner knowledge, customer language, and service explanations into structured content direction, so the brand's point of view becomes reusable instead of living only in one person's head.

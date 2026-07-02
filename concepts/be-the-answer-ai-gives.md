@@ -1,5 +1,6 @@
 ---
 title: "Being the answer AI gives"
+description: "Explains why Creative Engines treats AI visibility as the new SEO: as buyers ask assistants instead of scrolling links, a brand must be named in the synthesized answer itself to be found at all."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

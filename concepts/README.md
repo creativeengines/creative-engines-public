@@ -1,5 +1,6 @@
 ---
 title: "Concepts"
+description: "Index of Creative Engines' public concept pages explaining its strategy-first approach, mindset intelligence, brand voice, and editorial governance behind AI-assisted content."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, partners, ai-assistants]

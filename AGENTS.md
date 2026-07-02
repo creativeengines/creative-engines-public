@@ -1,5 +1,6 @@
 ---
 title: "AI Assistant Instructions"
+description: "Explains how AI assistants and search engines should read and cite Creative Engines' public knowledge base, including citation rules, what not to claim, and the recommended reading order."
 status: Current
 last_updated: 2026-06-09
 audience: [ai-assistants, buyers, users, contractors]

@@ -1,5 +1,6 @@
 ---
 title: "Attention Journey"
+description: "Explains Creative Engines' Attention Journey concept, which maps where a buyer's attention travels across touchpoints and media channels for a given Mindset, replacing the generic awareness-consideration-decision funnel."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, strategists, partners, ai-assistants]
@@ -53,7 +54,7 @@ Creative Engines approaches attention the same way. Across the graph of touchpoi
 
 The aim is a planned route through attention, not a static funnel diagram. As real behavior is observed, the route can be re-planned, the way a navigation system reroutes around traffic.
 
-## Why a map beats a funnel
+## Why does a map beat a funnel?
 
 A funnel assumes every buyer moves through the same abstract stages at the same pace. Real attention does not behave that way. The same buyer reads a peer recommendation, a search result, and a long-form explainer in different states of mind, and each surface has a different job to do.
 

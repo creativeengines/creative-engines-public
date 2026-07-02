@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for post-earliest-stage startups"
+description: "Explains why Creative Engines fits post-earliest-stage startups, pairing brand strategy and narrative divergence with mindset intelligence to test positioning cheaply before spending on paid channels."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

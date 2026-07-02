@@ -1,5 +1,6 @@
 ---
 title: "Glossary"
+description: "A public glossary defining Creative Engines' recurring terms - from Brand DNA and Mindset to Narrative, UVP, and AIDAL - covering audience, strategy, and content production concepts."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, contractors, ai-assistants]
@@ -109,6 +110,10 @@ This glossary defines recurring public terms used across Creative Engines materi
 **Strategy handoff drift** - The loss of strategic context that can happen when approved thinking moves into briefs, tasks, drafts, and reviews.
 
 **Traceable intelligence** - The expectation that content decisions should have a visible strategic reason behind them.
+
+## Public boundary
+
+These are public, customer-facing definitions only. This page does not publish internal codenames, scoring, or the protected methodology behind any term.
 
 ## See also
 

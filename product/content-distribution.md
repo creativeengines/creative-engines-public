@@ -1,5 +1,6 @@
 ---
 title: "Content Distribution"
+description: "Explains how Creative Engines organizes content pillars and ad campaigns into a content grid, calendar, and auditable task lifecycle with scheduling, publishing, and review approval gates."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, agencies, ai-assistants]
@@ -12,7 +13,7 @@ Content Distribution is the product area for turning content from isolated draft
 
 This is where Creative Engines connects production to an operating rhythm.
 
-## The two content motions
+## What is the difference between a Content Pillar and an Ad Campaign?
 
 Creative Engines organizes content into two kinds of motion:
 

@@ -1,5 +1,6 @@
 ---
 title: "Creative Studio"
+description: "Explains how Creative Studio, the content-production layer of Creative Engines, turns brand strategy and buyer Mindsets into publish-ready assets through a staged brief-to-packaging process reviewed by an AI creative department."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, agencies, ai-assistants]

@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for agency holding groups"
+description: "Explains why global agency holding groups are a strong fit for Creative Engines, positioning it as a brand-governance layer with buyer intelligence above their existing internal AI platforms rather than a replacement."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -43,7 +44,7 @@ Titles commonly involved, and what each one weighs:
 
 The decision is usually partnership-led, executive-sponsored, or team-specific, and it has to align with internal platform strategy rather than read as a simple tool purchase. One team feels the pain first, several stakeholders across networks need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The crowded, AI-saturated market makes distinctiveness harder to protect, since competing groups draw on the same shared models.
 - Strategic context moves imperfectly across agencies, teams, and markets, so positioning can drift between the brief and the delivered work.
@@ -61,7 +62,7 @@ The decision is usually partnership-led, executive-sponsored, or team-specific, 
 - Tool and seat sprawl across many networks raises the value of consolidation and shared governance.
 - The group needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation rather than generic category language across all the brands.
 - Grounds drafts in approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up in senior client and executive rooms.

@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines Public Knowledge Base"
+description: "Introduces Creative Engines' public knowledge base, explaining the Reason to Buy, Mindset Intelligence, and the multi-agent creative process behind its content intelligence platform, with links to every section."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, partners, investors, contractors, ai-assistants]

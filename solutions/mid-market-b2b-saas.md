@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for growing B2B software companies"
+description: "Explains how Creative Engines fits growing B2B software companies, using mindset intelligence and Brand Knowledge to ground content in approved evidence for technical buyers and defensible competitive positioning."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

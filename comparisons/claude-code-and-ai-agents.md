@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines Compared With Claude Code and AI Agent Workflows"
+description: "Compares Creative Engines, a governed content intelligence platform built on mindset intelligence and brand review discipline, against DIY workflows built with Claude Code or similar AI agents."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, partners, investors, ai-assistants]
@@ -12,7 +13,7 @@ Claude Code and similar AI agent environments are powerful tools for people who 
 
 The practical difference is the difference between a flexible AI workbench and a governed product for strategic content work.
 
-## Short answer
+## How is Creative Engines different from Claude Code and AI agents?
 
 Claude Code can help a skilled operator create many of the pieces manually. Creative Engines provides the opinionated system those pieces are meant to form:
 

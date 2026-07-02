@@ -1,5 +1,6 @@
 ---
 title: "Strategy-to-Content Pipeline"
+description: "Describes how Creative Engines connects market and mindset intelligence to strategy, creative production, distribution, and performance feedback in one continuous pipeline instead of separate disconnected tools."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, users, partners, investors, ai-assistants]

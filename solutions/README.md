@@ -1,5 +1,6 @@
 ---
 title: "Solutions"
+description: "Explains how Creative Engines fits distinct market segments, from B2B software companies to agencies, by reordering the same core differentiators around psychographic segmentation and mindset intelligence for each buyer type."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, partners, ai-assistants]
@@ -68,6 +69,10 @@ Read down the solution pages and the same few differentiators recur – but in a
 - **Owner sign-off and one governed place** lead for established small businesses.
 
 A solution page that lists every module shows no difference; the ordering above is what makes each segment's story distinct.
+
+## Public boundary
+
+These pages describe segment fit at a client level. They do not publish internal priority markers, scoring, private research mechanics, or financial estimates.
 
 ## See also
 

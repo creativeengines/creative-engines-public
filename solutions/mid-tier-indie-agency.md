@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for independent agencies"
+description: "Explains how Creative Engines fits independent agencies by encoding a founder's methodology into reusable Brand Strategy, enabling contested multi-agent creative review, and governing content across multiple client brands."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

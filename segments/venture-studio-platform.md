@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for venture studios and multi-brand groups"
+description: "Explains how Creative Engines fits venture studios and multi-brand groups, acting as a portfolio-wide buyer-intelligence layer that keeps each portfolio company's voice distinct while sharing one governed operating layer."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -39,7 +40,7 @@ Titles commonly involved, and what each one weighs:
 
 Platform leadership usually sponsors the decision, with portfolio founders validating whether the system respects company-specific context. The exact path depends on the studio's structure, but the pattern is consistent: one team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - Portfolio companies need fast go-to-market support but differ sharply in category, buyer, and maturity, so one template rarely fits more than one company.
 - Shared teams working at speed can produce generic material that misses each company's strategic edge.
@@ -56,7 +57,7 @@ Platform leadership usually sponsors the decision, with portfolio founders valid
 - Senior context often lives in meetings, comments, and private documents rather than in the work itself.
 - The platform team needs reusable intelligence, not one more disconnected writing surface added to the stack.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Acts as a portfolio-wide brand and buyer-intelligence layer, capturing each company's [Mindset](../concepts/mindset-intelligence.md) and strategic purpose so the work speaks to real motivation rather than generic category language.
 - Captures venture-specific context, buyer Mindsets, narrative choices, and reusable launch material without blending companies together, so each company sounds like itself.

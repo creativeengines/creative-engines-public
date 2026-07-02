@@ -1,5 +1,6 @@
 ---
 title: "Solution: Creative Engines for venture studios and multi-brand groups"
+description: "Explains how Creative Engines fits venture studios and multi-brand groups, using per-company Brand workspaces, mindset intelligence, and governed content distribution to compound strategy and content value across a portfolio without blending brand voices."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

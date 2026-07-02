@@ -1,5 +1,6 @@
 ---
 title: "The Methodology Base"
+description: "Describes the methodology base behind Creative Engines - a curated body of marketing science and jobs to be done, neuromarketing, and creative-tactic frameworks applied as working rules, with sources and catalogs kept private."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, investors, strategists, ai-assistants]

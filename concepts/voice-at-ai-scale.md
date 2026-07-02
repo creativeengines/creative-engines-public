@@ -1,5 +1,6 @@
 ---
 title: "A brand voice that survives AI"
+description: "Explains why Creative Engines treats brand voice as a defended signature to measure and protect, so AI-assisted output still sounds like the brand instead of blending into generic AI sameness."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]

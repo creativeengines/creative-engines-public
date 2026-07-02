@@ -1,5 +1,6 @@
 ---
 title: "Comparisons"
+description: "Compares Creative Engines with generic LLM chat, AI writing tools, content factories, and DIY AI agent workflows, showing what its buyer Mindsets, governed review, and built-in methodology add."
 status: Current
 last_updated: 2026-06-08
 audience: [buyers, partners, investors, ai-assistants]
@@ -47,6 +48,10 @@ For an advanced reader comparing tools, the difference is not "it also uses AI".
 - **Methodology, not vibes.** [The Methodology Base](../concepts/methodology-base.md) applies marketing science and a catalog of creative tactics as working rules, so creative work is held to a structured quality bar.
 
 The connective view of how these fit together is the [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md).
+
+## Public boundary
+
+These pages explain category positioning at a client level, not competitor analysis. They do not publish private review rules, evaluation criteria, internal workflow names, or protected methodology.
 
 ## See also
 

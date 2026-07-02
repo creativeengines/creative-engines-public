@@ -1,5 +1,6 @@
 ---
 title: "Mindset Intelligence"
+description: "Explains Creative Engines' Mindset Intelligence: buyer segments and detailed Mindset profiles built on psychographic segmentation across beliefs, fears, and jobs to be done, so content addresses a real buyer state, not a label."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, partners, ai-assistants]
@@ -12,7 +13,7 @@ Mindset Intelligence is the product area for understanding the audience at two l
 
 It is one of the core ideas behind Creative Engines: content should be written for the way a buyer is thinking and feeling about a problem, not only for a job title or a demographic label.
 
-## How the audience model is built
+## How is the audience model built?
 
 The audience model is built from structure to state:
 
@@ -21,11 +22,11 @@ The audience model is built from structure to state:
 3. **Mindsets** – for the segments worth pursuing, generate the Mindsets inside them – the real people, in a specific rational-emotional state.
 4. **Review** – edit and validate any profile, so downstream content only uses approved audiences.
 
-## What a Mindset contains
+## What does a Mindset contain?
 
 A Mindset is a deep rational-emotional portrait, not a decorative persona. A single profile spans more than forty dimensions and carries readable score values (for example, Pain 8.0/10). For each one the module works with the buyer's core job and desired outcome; the forces pushing them away from the current situation and pulling them toward a better one, alongside the anxieties and habits that hold a decision back; a behavioral reading of capability, opportunity, and motivation; demographic, professional, and psychographic prose; an emotional palette; sensitivity readings for pain, purchasing power, and price, time, quality, and variety; where the buyer spends attention; and their current solutions, standing beliefs, and objections. The methods behind these readings are described at a safe level in [The Methodology Base](../concepts/methodology-base.md).
 
-## Where Mindsets come from
+## Where do Mindsets come from?
 
 Mindsets can be informed by the brand's first-party material – reviews, comments, customer conversations, support notes, and other user-generated context – or developed through Creative Engines research when a team needs a structured view of buyer belief before it has enough direct material. The value is not the source material itself; it is a usable buyer lens that shapes strategy, content, review, and learning.
 

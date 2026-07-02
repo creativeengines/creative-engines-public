@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for post-earliest-stage startups"
+description: "Explains why Creative Engines fits founder-led startups from idea stage to about $30M ARR, covering their buyer intelligence needs, decision-makers, and how it grounds early positioning in approved brand context."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -41,7 +42,7 @@ Titles commonly involved, and what each one weighs:
 
 The founder or early marketing leader usually feels the need first, but the technical co-founder and the commercial side shape whether the system is trusted enough to enter core go-to-market work. The pattern is consistent: one person feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - Most of the company's strategic context lives with the founder rather than in the work itself.
 - Early content reads generically because positioning is still being discovered.
@@ -59,7 +60,7 @@ The founder or early marketing leader usually feels the need first, but the tech
 - The team needs reusable intelligence, not one more disconnected writing surface.
 - A self-built AI content stack is quick to stand up and slow to maintain, which pulls scarce founder and operator time toward upkeep.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Turns rough market understanding into clearer buyer [Mindsets](../concepts/mindset-intelligence.md), messaging, and content direction, so early work speaks to real motivation instead of generic startup language.
 - Grounds drafts in the company's own approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up under a technical co-founder's review.

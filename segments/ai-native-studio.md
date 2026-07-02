@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for AI-native creative studios"
+description: "Explains why Creative Engines is a strong fit for AI-native creative studios, acting as a brand intelligence and governance layer that keeps strategy, buyer understanding, and review discipline above fast AI-enabled production."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -38,7 +39,7 @@ Titles commonly involved, and what each one weighs:
 
 The decision is usually led by founders, product, or strategy leaders who want an intelligence layer that strengthens the studio's credibility and differentiation. The exact path depends on company structure, but the pattern is consistent: one team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The studio has to demonstrate it is more than a layer around frontier models.
 - Clients may be enthusiastic about AI while still looking for proof of strategic depth.
@@ -54,7 +55,7 @@ The decision is usually led by founders, product, or strategy leaders who want a
 - Senior context often lives in meetings, comments, and private documents rather than in the work itself.
 - The team needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Acts as the intelligence and governance layer that helps an AI-native studio stay strategic rather than becoming a generic production shop, tying work to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear purpose.
 - Supports richer client context, brand systems, and review logic around AI-enabled workflows, so the studio's sophistication is visible in the output.

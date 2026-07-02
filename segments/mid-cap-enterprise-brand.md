@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for established mid-sized and enterprise brands"
+description: "Defines the mid-cap and enterprise brand segment - multi-market companies with real marketing operations but no bespoke brand-intelligence system - and explains why Creative Engines fits their buyer intelligence and governance needs."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -43,7 +44,7 @@ Titles commonly involved, and what each one weighs:
 
 The decision often begins in marketing but becomes cross-functional when content supports sales, local execution, customer education, or portfolio consistency. The exact path depends on company structure, but the pattern is consistent: one team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The brand has outgrown founder memory and agency memory as the only way to preserve positioning across markets and teams.
 - Local, regional, sales, and product teams often create content from inconsistent assumptions about the brand and the buyer.
@@ -61,7 +62,7 @@ The decision often begins in marketing but becomes cross-functional when content
 - The team needs reusable intelligence, not one more disconnected writing surface.
 - Stack consolidation and clear return on spend are increasingly part of the marketing mandate.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation across markets instead of generic category language.
 - Preserves brand knowledge, buyer understanding, and editorial decisions across teams that otherwise depend on scattered documents, agency memory, and senior review.

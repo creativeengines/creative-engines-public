@@ -1,5 +1,6 @@
 ---
 title: "Mindset Intelligence"
+description: "Mindset Intelligence is Creative Engines' concept for understanding buyers through belief, fear, and jobs to be done rather than demographic or firmographic labels alone."
 status: Current
 last_updated: 2026-07-02
 audience: [buyers, users, partners, ai-assistants]

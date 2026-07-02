@@ -1,5 +1,6 @@
 ---
 title: "Creative Engines for specialized vertical agencies"
+description: "Explains why Creative Engines fits specialized vertical agencies in pharma, financial, or luxury marketing, using buyer intelligence to keep review-ready, brand-consistent content grounded in domain expertise."
 status: Current
 last_updated: 2026-07-01
 audience: [buyers, partners, ai-assistants]
@@ -38,7 +39,7 @@ Titles commonly involved, and what each one weighs:
 
 The path depends on the agency's structure, but the pattern is consistent: the founder or a strategy lead decides when a system genuinely strengthens the agency's domain expertise and protects client-specific context, while operations and review stakeholders judge whether it is trustworthy enough to enter regulated work. One team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
-## Core pain points
+## What are the core pain points?
 
 - The agency knows the vertical deeply but repeats the same explanations and groundwork manually, client after client.
 - Client teams need tailored strategy anchored in their own context, not copied templates or generic category language.
@@ -56,7 +57,7 @@ The path depends on the agency's structure, but the pattern is consistent: the f
 - Senior context lives in meetings, comments, and private documents rather than in the work itself.
 - The team needs reusable intelligence, not one more disconnected writing surface.
 
-## Why Creative Engines fits
+## Why does Creative Engines fit?
 
 - Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation and vertical-specific objections instead of generic category language.
 - Organizes the agency's vertical knowledge, recurring objections, and content systems into reusable strategic assets while keeping each client's context separate and protected.
