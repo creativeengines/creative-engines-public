@@ -25,12 +25,13 @@ For AI agent environments such as Claude Code, the distinction is similar but mo
 
 ## Why it is not just a wrapper
 
-A fair question about any AI product is whether it is just a thin shell over the same models everyone uses. Four things make Creative Engines different from a chat window:
+A fair question about any AI product is whether it is just a thin shell over the same models everyone uses. Five things make Creative Engines different from a chat window:
 
 - **It is a kitchen, not an ingredient.** The underlying generation models are ingredients available to everyone. The value is the recipes: the buyer Mindsets, the narrative frames, the tactic combinations, and the stage-matching that assemble those ingredients into something a blank chat box cannot.
 - **It is grounded in the brand's own knowledge.** Generic chat answers from general web knowledge and can invent details. Creative Engines writes against a brand-specific knowledge layer of ingested, quality-scored source material, so drafts draw on the brand's real evidence instead of plausible-sounding filler.
 - **Output is traceable to strategy.** In generic chat, a draft is a free-floating answer. In Creative Engines, every asset is linked back to a specific Mindset, narrative, and journey stage, so the strategic reason a piece exists is visible, not just the text.
 - **It is built to be repeatable.** An open chat answers the same request a little differently every time – it ranges across the space of possible answers and lands somewhere new on each run, which is hard to reproduce or govern. Creative Engines assembles the right context for a specific task within deterministic guardrails, so the same brand truth, the same review criteria, and the same standards apply on every run.
+- **Plans are solved, not guessed.** Ask generic chat to split a marketing budget across channels and it returns a confident allocation – plausible impressions-to-leads-to-sales figures that read well and do not actually add up, because a language model predicts text rather than solving the underlying math. Creative Engines computes channel allocation with a constrained optimizer: the plan is feasibility-checked, deterministic, and auditable.
 
 ## When is generic chat enough?
 
