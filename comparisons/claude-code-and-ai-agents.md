@@ -107,13 +107,14 @@ The choice is not whether to use AI. The choice is whether the team wants to mai
 
 ## Where the DIY path tends to break
 
-Building the method in-house is a real option, and some skilled operators run excellent systems this way. The catch is the same unpredictability an open chat has: an agent ranges across a large space of possible meanings and lands somewhere different each session, so a stable, repeatable instruction is very hard to pin down. In practice the operator ends up checking intermediate results and supervising each step, guiding a capable but inexperienced hand. Three patterns tend to appear as a DIY system grows:
+Building the method in-house is a real option, and some skilled operators run excellent systems this way. The catch is the same unpredictability an open chat has: an agent ranges across a large space of possible meanings and lands somewhere different each session, so a stable, repeatable instruction is very hard to pin down. In practice the operator ends up checking intermediate results and supervising each step, guiding a capable but inexperienced hand. Four patterns tend to appear as a DIY system grows:
 
 - **It drifts between runs.** However carefully the instructions are written, an open-ended agent attends to something on one run and something else on the next. Time meant for strategy goes to catching the system deviating from its own rules and steering it back.
 - **It fragments across formats.** A setup tuned for one format – say short social posts – starts to strain when the next format is added, then the next channel, then long-form, then newsletters. Keeping one coherent method across all of them, instead of a pile of separate recipes, becomes the real job.
 - **Cost and control come apart.** An open-ended agent can range across a large space of possibilities to reach an answer, with limited visibility into why it cost what it cost or chose what it chose. As usage scales, spend and accountability get harder to hold together.
+- **The plan's numbers are guesses.** Ask an open-ended agent to split a budget across channels and it returns a confident allocation – plausible impressions-to-leads-to-sales figures that do not actually add up. A language model predicts text; it does not solve the allocation math.
 
-Creative Engines packages the method so these do not fall on the operator: context is assembled for each task within deterministic guardrails, the same review discipline applies across every format, and the work stays inspectable. That is the difference between maintaining a method and using one.
+Creative Engines packages the method so these do not fall on the operator: context is assembled for each task within deterministic guardrails, the same review discipline applies across every format, the work stays inspectable – and channel-budget allocation is computed rather than generated, by a constrained optimizer that produces a feasibility-checked, deterministic, auditable plan. That is the difference between maintaining a method and using one.
 
 ## Public boundary
 
