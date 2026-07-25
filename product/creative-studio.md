@@ -28,7 +28,7 @@ Approved work is saved – tied to its Mindset, narrative, and brand context –
 
 ## The creative department and its reviewers
 
-Creative Engines runs production the way a strong agency team is staffed, rather than as a single open-ended generation:
+Creative Engines runs production as a set of coordinated roles with distinct judgment, rather than as a single open-ended generation:
 
 - A **Creative Director** that holds the strategic intent and selects the strongest work.
 - **Lead Copywriters** that generate and refine competing directions through different creative lenses.

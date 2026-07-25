@@ -64,7 +64,7 @@ Generic AI content is usually a missing-context problem, not a model problem. Sk
 Everyone now writes with AI, and the models are largely the same, so access to AI is no longer an advantage. Two beliefs follow:
 
 - **The tool war is over; the next one is taste.** When every team has the same models, the edge is the judgment applied around them – whether the same tools ship slop or craft.
-- **The last durable moat is a true, specific human detail.** A fabricated "personal" story reads as plastic; one real, small, concrete detail is the handprint a reader trusts, and the thing a generic model cannot invent. Effort, not the absence of AI, is what readers actually reward.
+- **A true, specific human detail is the handprint a reader trusts.** A fabricated "personal" story reads as plastic; one real, small, concrete detail is the thing a generic model cannot invent. Effort, not the absence of AI, is what readers actually reward.
 
 ## Public boundary
 

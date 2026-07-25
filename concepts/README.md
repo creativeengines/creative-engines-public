@@ -20,9 +20,9 @@ Creative Engines uses these concepts to explain why the product is different fro
 ## What Creative Engines believes
 
 - [A brand voice that survives AI](./voice-at-ai-scale.md) - adopt AI without losing the voice that makes a brand recognizable.
-- [Test before you publish](./test-before-you-publish.md) - content should be tested on its real audience before it ships, not after.
+- [Test before you publish](./test-before-you-publish.md) - content should be tested against buyer-types that stand in for its real audience before it ships, not after.
 - [Being the answer AI gives](./be-the-answer-ai-gives.md) - as buyers ask AI instead of searching, a brand has to be present in the answer itself.
-- [The value that compounds](./compounding-value.md) - why the work gets stronger the longer a brand works in one governed place.
+- [The value that compounds](./compounding-value.md) - why the work gets stronger the longer a brand works in one place, as its truth, governance, and results-learning compound.
 - [Anti-slop stance](./anti-slop-stance.md) - the fight against low-effort, interchangeable AI content.
 - [How marketing really works](./how-marketing-really-works.md) - Creative Engines' opinionated, evidence-backed view of the industry: what it rewards, where it breaks, and what still matters.
 

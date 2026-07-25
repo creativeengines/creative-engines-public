@@ -22,7 +22,7 @@ At a client-facing level, the department is easiest to understand through a few 
 - A **Brand Guardian** that checks the work for brand safety, voice consistency, narrative discipline, and misinterpretation risk.
 - An **audience focus group**, built from the buyer's own Mindsets, that reacts to the work before it is published.
 
-These roles mirror how a strong agency creative department is staffed. Creative Engines runs them as coordinated agents rather than as a single open-ended response.
+These roles name the distinct kinds of judgment strong creative work needs – direction, competing drafts, brand safety, and audience reaction. Creative Engines runs them as coordinated agents rather than as a single open-ended response.
 
 ## The audience focus group
 
@@ -37,9 +37,9 @@ Because the focus group is composed of the same Mindsets the content is meant to
 
 This closes a loop inside production: the buyer understanding that started the work also reviews the work. Testing creative against the audience before release is standard practice in serious advertising and rare in AI content tools. Creative Engines builds it into the production process.
 
-## How a creative department thinks
+## How strong creative work gets made
 
-A real creative department rarely ships its first idea. It works in rounds:
+Strong creative work rarely ships on its first idea. It comes in rounds:
 
 - **Divergence.** Several specialists generate many directions in parallel, deliberately exploring different angles rather than converging early.
 - **Critique.** Those directions are challenged. Obvious, generic, or off-strategy ideas are rejected before they go any further.
