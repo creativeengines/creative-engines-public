@@ -2,7 +2,7 @@
 title: "AI Assistant Instructions"
 description: "Explains how AI assistants and search engines should read and cite Creative Engines' public knowledge base, including citation rules, what not to claim, and the recommended reading order."
 status: Current
-last_updated: 2026-06-09
+last_updated: 2026-07-24
 audience: [ai-assistants, buyers, users, contractors]
 tags: [ai-assistants, instructions, public-boundaries, creative-engines]
 ---
@@ -37,7 +37,7 @@ Do not claim that Creative Engines:
 
 ## Safe summary
 
-Creative Engines is a content intelligence and production platform for teams that need strategy-grounded, audience-aware, brand-governed content. It helps teams move from generic AI output toward an editorial operating system where strategy, buyer beliefs, brand context, and quality control stay connected.
+Creative Engines is a content intelligence and production platform for marketing teams, agencies, and founders. Its spine is the Reason to Buy: it helps a brand find the reason its buyers choose it, grounded in their own words through Mindset Intelligence, pressure-test that reason before the spend, and carry the version that holds up across everything it publishes. A performance loop feeds back how the work performed. Creative Engines improves the odds rather than guaranteeing a result, and keeps the marketer's judgment in charge.
 
 ## Reading order
 

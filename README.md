@@ -1,17 +1,17 @@
 ---
 title: "Creative Engines Public Knowledge Base"
-description: "Introduces Creative Engines' public knowledge base, explaining the Reason to Buy, Mindset Intelligence, and the multi-agent creative process behind its content intelligence platform, with links to every section."
+description: "Introduces Creative Engines' public knowledge base: the Reason to Buy, how it is grounded in Mindset Intelligence and pressure-tested before the spend, and the multi-agent creative process behind the platform, with links to every section."
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-07-24
 audience: [buyers, users, partners, investors, contractors, ai-assistants]
 tags: [creative-engines, public-knowledge-base, product-overview, documentation]
 ---
 
 # Creative Engines
 
-**Creative Engines finds the reason buyers choose a brand, proves it before spend, and installs it everywhere.**
+**Creative Engines helps a brand find the reason its buyers choose it, pressure-test that reason before the spend, and carry the version that holds up into everything it publishes.**
 
-Creative Engines is a content intelligence and production platform for marketing teams, agencies, and founders. It understands a brand's buyers deeply, decides what to say, produces content through a multi-agent creative process, and keeps every asset connected to strategy – so content teaches, persuades, and compounds instead of adding to the noise. In one line: Creative Engines delivers Strategic Content powered by Mindset Intelligence.
+Creative Engines is a content intelligence and production platform for marketing teams, agencies, and founders. It understands a brand's buyers deeply, decides what to say, produces content through a multi-agent creative process, and keeps every asset connected to strategy – so content teaches, persuades, and compounds instead of adding to the noise. In one line: Creative Engines helps a brand publish content behind a reason to buy that its buyers actually respond to – grounded in Mindset Intelligence, pressure-tested before the spend.
 
 Most tools start from a prompt. Creative Engines starts from the buyer: who they are, what they believe, where their attention travels, and what would actually move them. Only then does it write – and it reviews the work the way a serious creative department would before anything is published.
 
@@ -19,12 +19,12 @@ This repository is the public, structured place to understand how that works. It
 
 ## The core idea: a Reason to Buy
 
-The spine of Creative Engines is the [Reason to Buy](./concepts/reason-to-buy.md) – the reason a brand's buyers choose it, not the interchangeable mass running the same playbook. Everything else serves it: [Mindset Intelligence](./concepts/mindset-intelligence.md) finds the reason in the buyers' own words, the [multi-agent creative department](./concepts/multi-agent-creative-department.md) tests it before spend, and [governance](./concepts/compounding-value.md) installs it across everything the brand ships.
+The spine of Creative Engines is the [Reason to Buy](./concepts/reason-to-buy.md) – the reason a brand's buyers choose it, not the interchangeable mass running the same playbook. Everything else serves it: [Mindset Intelligence](./concepts/mindset-intelligence.md) grounds the reason in the buyers' own words, an [evidence-grounded pre-test](./concepts/test-before-you-publish.md) pressure-tests it before the spend, and a [performance loop](./concepts/compounding-value.md) feeds back how the work actually performed, so each round is better-calibrated than the last.
 
 ## New here? Read this first
 
 - **What it is:** a system that turns deep audience understanding into governed, on-strategy content – not a content factory.
-- **The core idea:** [Reason to Buy](./concepts/reason-to-buy.md) – the reason a brand's buyers choose it, found, proven, and installed.
+- **The core idea:** [Reason to Buy](./concepts/reason-to-buy.md) – the reason a brand's buyers choose it: found, pressure-tested before the spend, and carried through everything it publishes.
 - **How buyers are understood:** [Mindset Intelligence](./concepts/mindset-intelligence.md) – reading buyers by what they believe, fear, and need to resolve, not by demographic labels.
 - **How it all connects:** the [Strategy-to-Content Pipeline](./concepts/strategy-to-content-pipeline.md), from market understanding through production to learning.
 - **Who it is for:** see [Segments](./segments/README.md) and [Solutions](./solutions/README.md).
@@ -45,7 +45,7 @@ The spine of Creative Engines is the [Reason to Buy](./concepts/reason-to-buy.md
 
 ## What Creative Engines helps answer
 
-> What market is the brand in, what do its buyers believe, what is the reason they will choose it, how should that reason be produced and governed, and how is it proven safely with AI?
+> What market is the brand in, what do its buyers believe, what is the reason they will choose it, how should that reason be produced and governed, and how is it pressure-tested safely with AI before the spend?
 
 The repository answers that through product modules, segment pages, solution fit, concept pages, comparisons, and materials.
 
@@ -86,7 +86,7 @@ Several concept pages explain the depth behind the product:
 - Buyer beliefs matter more than demographic labels.
 - AI should be piloted by professionals, not treated as a magic button.
 - The product amplifies people; it does not replace them. Creative Engines exists to make the professionals who use it sharper – better creative strategists, not sidelined operators. The mechanisms are only as good as the expert pilot directing them, and without that human they have no point.
-- Creative Engines scales a marketing team's capacity without losing context or quality – it is not an agency replacement.
+- Creative Engines scales a marketing team's capacity without losing context or quality, and keeps the team's strategy and judgment in charge.
 - Content should become a reusable business asset, not disposable feed filler.
 
 ## See also

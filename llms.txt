@@ -2,7 +2,7 @@
 title: "Creative Engines LLM Map"
 description: "This is the navigation map of Creative Engines' public knowledge base, indexing product, concept, segment, comparison, FAQ, and glossary pages for AI assistants and search engines."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-07-24
 audience: [ai-assistants]
 tags: [llms, ai-assistants, creative-engines, public-index]
 ---
@@ -13,7 +13,7 @@ Creative Engines is a content intelligence and production platform for teams tha
 
 ## Core summary
 
-Creative Engines helps teams connect market focus, buyer beliefs, brand context, editorial production, distribution planning, and performance learning. It is not a generic AI writing tool and not a content factory. It is best understood as a governance layer above AI-assisted content production. Its spine is the Reason to Buy: the reason a brand's buyers choose it, found in their own words, proven before spend, and installed across everything the brand ships.
+Creative Engines helps teams connect market focus, buyer beliefs, brand context, editorial production, distribution planning, and performance learning. It is not a generic AI writing tool and not a content factory. Its spine is the Reason to Buy: the reason a brand's buyers choose it, grounded in their own words through Mindset Intelligence, pressure-tested against evidence-grounded buyer-types before the spend, and carried across everything the brand publishes. A performance loop then feeds back how the work performed on live traffic, so each round is better-calibrated than the last. Creative Engines improves the odds; it does not guarantee a result, and the marketer's judgment stays in charge.
 
 ## Main sections
 
