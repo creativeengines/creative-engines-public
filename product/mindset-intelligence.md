@@ -24,11 +24,11 @@ The audience model is built from structure to state:
 
 ## What does a Mindset contain?
 
-A Mindset is a deep rational-emotional portrait, not a decorative persona. A single profile spans more than forty dimensions and carries readable score values (for example, Pain 8.0/10). For each one the module works with the buyer's core job and desired outcome; the forces pushing them away from the current situation and pulling them toward a better one, alongside the anxieties and habits that hold a decision back; a behavioral reading of capability, opportunity, and motivation; demographic, professional, and psychographic prose; an emotional palette; sensitivity readings for pain, purchasing power, and price, time, quality, and variety; where the buyer spends attention; and their current solutions, standing beliefs, and objections. The methods behind these readings are described at a safe level in [The Methodology Base](../concepts/methodology-base.md).
+A Mindset is a deep rational-emotional portrait, not a decorative persona. A single profile spans more than forty dimensions and carries readable, inspectable readings a reviewer can open and check. For each one the module works with the buyer's core job and desired outcome; the forces pushing them away from the current situation and pulling them toward a better one, alongside the anxieties and habits that hold a decision back; a behavioral reading of capability, opportunity, and motivation; demographic, professional, and psychographic prose; an emotional palette; sensitivity readings for pain, purchasing power, and price, time, quality, and variety; where the buyer spends attention; and their current solutions, standing beliefs, and objections. The methods behind these readings are described at a safe level in [The Methodology Base](../concepts/methodology-base.md).
 
 ## Where do Mindsets come from?
 
-Mindsets can be informed by the brand's first-party material – reviews, comments, customer conversations, support notes, and other user-generated context – or developed through Creative Engines research when a team needs a structured view of buyer belief before it has enough direct material. The value is not the source material itself; it is a usable buyer lens that shapes strategy, content, review, and learning.
+Mindsets can be informed by first- and third-party user-generated evidence – the brand's own material plus the voice its buyers leave in public – or developed through Creative Engines research when a team needs a structured view of buyer belief before it has enough direct material. The value is not the source material itself; it is a usable buyer lens that shapes strategy, content, review, and learning.
 
 ## What it does today
 
