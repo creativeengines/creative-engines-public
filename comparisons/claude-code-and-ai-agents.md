@@ -31,7 +31,7 @@ Creative Engines draws from a curated methodology base of scientific and profess
 
 In Creative Engines, these references are not treated as reading material alone. They inform review criteria, creative checks, and agent behavior rules. The public point is simple: the product does not ask AI to "be creative" in a vague way. It gives creative work a structured quality bar.
 
-For example, bisociation is useful because strong creative ideas often connect distant frames in a way that makes the audience see something familiar differently. In Creative Engines, that concept can become a 1-5 review scale for separating more distinctive ideas from obvious category language. A general AI agent can imitate this if the operator maintains the method carefully, but it does not provide that discipline by default.
+For example, bisociation is useful because strong creative ideas often connect distant frames in a way that makes the audience see something familiar differently. In Creative Engines, that concept becomes a review check that separates more distinctive ideas from obvious category language. A general AI agent can imitate this if the operator maintains the method carefully, but it does not provide that discipline by default.
 
 ## Creative tactics and anti-slop discipline
 
