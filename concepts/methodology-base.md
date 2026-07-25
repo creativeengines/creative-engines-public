@@ -51,7 +51,7 @@ Generic AI review checks grammar and tone. Creative Engines assesses content at 
 
 ## Why this is hard to copy
 
-Any team can prompt a model. The methodology base is the difference between a prompt and a discipline. It is the accumulated set of rules, criteria, tactics, channels, and emotional and creative checks that decide whether a piece of work is good, on-strategy, and safe to publish. That accumulated judgment, applied consistently by a coordinated set of agents, is the part that is hard to reproduce.
+Any team can prompt a model. The methodology base is the difference between a prompt and a discipline. It is the accumulated set of rules, criteria, tactics, channels, and emotional and creative checks that decide whether a piece of work is good, on-strategy, and safe to publish. That accumulated judgment, applied consistently by a coordinated set of agents, is a foundation that is hard to reproduce. What compounds it into a durable advantage is the [performance loop](./compounding-value.md): as a brand keeps working in one place, live results feed back into the next decision, so the edge grows with use rather than sitting still.
 
 ## Public boundary
 
