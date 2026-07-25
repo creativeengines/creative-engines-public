@@ -24,7 +24,7 @@ Retrieval uses hybrid search – combining semantic relevance (conceptually rela
 ## What it does today
 
 - **Document upload** across common file types, so the brand's real material becomes the foundation content is written from.
-- **Ingestion into searchable pieces**, retrievable at the paragraph level, with each piece assessed for quality across dimensions such as conceptual depth, perspective uniqueness, wording quality, and reading ease – so retrieval prefers the brand's strongest material.
+- **Ingestion into searchable pieces**, retrievable at the paragraph level, with each piece assessed for quality so retrieval prefers the brand's strongest material.
 - **Grounded retrieval during content research** – relevant brand material pulled into a draft, with thin spots flagged, and the material a draft drew on kept visible, so a reviewer can trace a claim back to the brand's own knowledge. This is the difference between brand-specific content and generic AI output.
 - **Document management** with active and archived views, bulk actions, and status badges; archiving a document removes its content from all downstream retrieval.
 - **A knowledge explorer** to view, search, filter, and preview individual pieces of brand knowledge with their quality assessments.
