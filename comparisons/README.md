@@ -20,7 +20,7 @@ This folder explains how Creative Engines differs from adjacent tools and workfl
 
 ## Summary
 
-Creative Engines is different because it starts from strategy, buyer belief, brand context, and editorial governance. Everything in it ladders into one outcome – a [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words, proven before spend, and installed across everything the brand ships. The product is designed for teams that need quality at scale, not output volume for its own sake.
+Creative Engines is different because it starts from strategy, buyer belief, brand context, and editorial governance. Everything in it ladders into one outcome – a [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words, pressure-tested before spend, and carried across everything the brand ships. The product is designed for teams that need quality at scale, not output volume for its own sake.
 
 ## At a glance
 
@@ -32,7 +32,7 @@ A category-position sketch, not a competitor scorecard. It contrasts the general
 | AI writing tools | A draft or variation request | Flat personas, if any | Mostly general knowledge | Tone and grammar | n/a – a writing surface |
 | Content factories | A throughput target | Thin or none | Varies, often shallow | Secondary to volume | n/a – an output pipeline |
 | Claude Code and AI agents *(DIY)* | Whatever the operator designs | Whatever the operator builds | Whatever the operator wires up | Whatever the operator codes | The operator builds and maintains it |
-| **Creative Engines** | Strategy and a proven reason to buy | Rational-emotional buyer Mindsets | The brand's own approved knowledge | A governed human gate | Productized – the method is built in |
+| **Creative Engines** | Strategy and a pressure-tested reason to buy | Rational-emotional buyer Mindsets | The brand's own approved knowledge | A governed human gate | Productized – the method is built in |
 
 The table contrasts Creative Engines with tools and workflows. It is not a comparison with agencies or in-house teams: Creative Engines is built for those professionals to use, not to replace them – it exists to make them sharper creative strategists, and the mechanisms only matter with an expert directing them.
 
@@ -40,12 +40,13 @@ Most tools describe a buyer with a flat persona or none at all. Creative Engines
 
 ## Where the difference actually comes from
 
-For an advanced reader comparing tools, the difference is not "it also uses AI". It is the depth and the process around the AI. Four things set Creative Engines apart, each explained at concept level:
+For an advanced reader comparing tools, the difference is not "it also uses AI". It is the depth and the process around the AI. Several things set Creative Engines apart, each explained at concept level:
 
 - **Deep buyer understanding.** [Mindset Intelligence](../concepts/mindset-intelligence.md) builds rational-emotional buyer portraits from Jobs To Be Done and emotion research, not one-line personas.
 - **Attention mapped, not assumed.** The [Attention Journey](../concepts/attention-journey.md) maps where a buyer's attention travels across touchpoints and media channels and plans the route, instead of guessing channel by channel.
 - **A creative department, not a prompt.** The [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md) produces content through specialized agents and tests it on an audience focus group of buyer Mindsets before release. That audience test is standard in serious advertising and rare in AI content tools.
 - **Methodology, not vibes.** [The Methodology Base](../concepts/methodology-base.md) applies marketing science and a catalog of creative tactics as working rules, so creative work is held to a structured quality bar.
+- **Learning that compounds.** Live results feed back into the next decision, so the edge grows the longer a brand works in one place – the [performance loop](../concepts/compounding-value.md) a one-off tool cannot build.
 
 The connective view of how these fit together is the [Strategy-to-Content Pipeline](../concepts/strategy-to-content-pipeline.md).
 
