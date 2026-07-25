@@ -2,7 +2,7 @@
 title: "Segments"
 description: "Outlines which marketing teams Creative Engines fits best - from mid-market B2B SaaS to boutique agencies - grouped by client type rather than pricing tier or buyer intelligence targeting."
 status: Current
-last_updated: 2026-06-30
+last_updated: 2026-07-24
 audience: [buyers, partners, ai-assistants]
 tags: [segments, buyer-intelligence, creative-engines]
 ---
@@ -14,6 +14,12 @@ Who Creative Engines is for, and how it helps each kind of team.
 Creative Engines fits teams that want AI-assisted content to stay tied to strategy, buyer understanding, brand knowledge, and editorial control – not low-effort volume. The grouping below is a reader-friendly way to understand fit. It is not a statement of pricing, packaging, or priority.
 
 The fastest way to see how Creative Engines reads a brand is the free [Brand Preview Deck](../concepts/brand-preview.md): a company URL goes in, and a set of buyer [Mindsets](../concepts/mindset-intelligence.md) and a sample of strategy-grounded content come back.
+
+## One value proposition, several situations
+
+However a team comes in, everything ladders into one universal promise – you find the reason your buyers are likely choosing you, pressure-test it before you spend, and carry the reason that held up into what you ship. That promise is expressed for a handful of core situations: a mid-market brand marketing team, a small agency or independent marketer running several clients, a strategy-led boutique agency, a fractional CMO, a founder or small business, and a performance team proving a message in market. The firmographic groups below are the "who" view of that same portfolio.
+
+These are where Creative Engines fits most naturally, not the limit of who it serves – capable marketing teams beyond the situations named here are welcome too.
 
 ## Fits best
 
