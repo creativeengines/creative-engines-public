@@ -33,7 +33,7 @@ For years teams were told to pick one: do marketing right – grounded in real a
 
 Reach and revenue often point in opposite directions. A post can travel far and sell nothing, because attention without a reason to buy converts no one, and virality with no operational readiness underneath it converts even less. Chasing reach for its own sake is a way to feel successful while the pipeline stays empty.
 
-**How Creative Engines answers it.** Content is built around a proven [Reason to Buy](./reason-to-buy.md) and placed where a buyer's attention actually travels along the [Attention Journey](./attention-journey.md) – reach in service of a reason, not reach as the goal.
+**How Creative Engines answers it.** Content is built around a pressure-tested [Reason to Buy](./reason-to-buy.md) and placed where a buyer's attention actually travels along the [Attention Journey](./attention-journey.md) – reach in service of a reason, not reach as the goal.
 
 ## Most teams work in a fog of war
 
@@ -45,7 +45,7 @@ Inside most marketing operations, no single person sees the whole board at once 
 
 A growing body of industry and academic evidence suggests a large share of online survey responses are now fraudulent or bot-generated. The research publication Greenbook reports that more than 30% of respondents were flagged as suspicious or outright fraudulent across six leading online sample sources, with modern fraud using AI-generated text and mimicking clean, human-looking answers; peer-reviewed work warns that fraudulent respondents can disproportionately threaten a study's validity. Creative Engines takes this seriously: if the panel data underneath a campaign is polluted, the strategy built on it is a guess wearing a lab coat.
 
-**How Creative Engines answers it.** The product leans on grounded, first-party voice-of-customer evidence and builds its buyer [Mindsets](./mindset-intelligence.md) from a brand's own material, then lets a team [test before they publish](./test-before-you-publish.md) against an audience modeled from those real buyers – a check to run before spend, never a claim to have replaced real customers.
+**How Creative Engines answers it.** The product leans on grounded voice-of-customer evidence – the language buyers leave in public – and builds its buyer [Mindsets](./mindset-intelligence.md) from it alongside the brand's own materials, then lets a team [test before they publish](./test-before-you-publish.md) against buyer-types modeled from that evidence – a check to run before spend, never a claim to have replaced real customers.
 
 Sources: [Greenbook – the pervasive threat of tech-enabled fraud in survey research](https://www.greenbook.org/insights/research-methodologies/the-pervasive-threat-of-tech-enabled-fraud-in-survey-research); [peer-reviewed – fraudulent online survey respondents and study validity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11156680/).
 

@@ -9,7 +9,7 @@ tags: [concepts, audience-testing, pre-flight, creative-engines]
 
 # Test before you publish
 
-Creative Engines is built on a conviction: content should be tested on its real audience before it ships, not after it underperforms.
+Creative Engines is built on a conviction: content should be tested against buyer-types that stand in for its real audience before it ships, not after it underperforms.
 
 ## The cost of shipping blind
 
@@ -17,7 +17,7 @@ Most content goes out untested. A piece that misses simply burns the spend; a pi
 
 ## How does Creative Engines test content before publishing?
 
-Serious advertising tests creative on the audience before release. Creative Engines builds that step in: before a piece is approved, it can be shown to a focus group built from the brand's own buyer Mindsets and asked what a real audience would be asked – what was understood, what was felt, what was clear, and what was confusing. Because the panel is made of the same buyers the content is for, the feedback is specific to the real audience rather than a generic readability check, so a flat or misread message is caught in rehearsal instead of in the market.
+Serious advertising tests creative on the audience before release. Creative Engines builds that step in: before a piece is approved, it can be shown to a focus group built from the brand's own buyer Mindsets and asked what a real audience would be asked – what was understood, what was felt, what was clear, and what was confusing. Because the panel is built from the same buyer-types the content is for – modeled from the evidence those buyers leave in public, not the customers themselves – the feedback is specific to how the real audience is likely to react rather than a generic readability check, so a flat or misread message is caught in rehearsal instead of in the market.
 
 ## Why it matters
 
