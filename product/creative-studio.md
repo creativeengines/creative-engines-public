@@ -20,7 +20,7 @@ The stages, in order:
 1. **Brief** – set the strategic frame: the content type and format, the target buyer Mindset and funnel stage, the narrative and offering, and the awareness stage (Unaware → Problem Aware → Solution Aware → Product Aware → Most Aware).
 2. **Research** – go wide: gather insight, cultural context, the competitive landscape, and raw material from the brand's approved knowledge and its audience.
 3. **Skeleton** – converge: generate competing concepts, select the strongest, and build each winner's structural outline – the idea, the hook, the arc – before a full draft is written.
-4. **Writing** – make it concrete: full copy, image descriptions, captions, and calls to action, produced as several scored variants in parallel.
+4. **Writing** – make it concrete: full copy, image descriptions, captions, and calls to action, produced as several variants in parallel.
 5. **Styling** – polish to brand voice and taste, and weave the SEO semantic core into the copy naturally, so target keywords are present without the text reading as keyword-stuffed.
 6. **Packaging** – produce the finished media: images, multi-slide carousels, short-form video, and voice-over, formatted per channel.
 

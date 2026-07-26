@@ -38,7 +38,7 @@ Personas describe who a buyer is; Mindsets help explain why they act. Put bluntl
 
 ## What a Mindset captures
 
-A Mindset is a deep rational-emotional portrait, not a one-line persona. Each profile spans more than forty dimensions and carries readable score values (for example, Pain 8.0/10), so the depth is something a team can inspect rather than take on faith. For each one, Creative Engines works with a structured profile that includes:
+A Mindset is a deep rational-emotional portrait, not a one-line persona. Each profile spans more than forty dimensions and carries readable, inspectable indicators, so the depth is something a team can open and check rather than take on faith. For each one, Creative Engines works with a structured profile that includes:
 
 - The **job** the buyer is trying to get done, and the **desired outcome** they want.
 - The **four forces** that move a decision: the **push** away from the present, the **pull** toward a better way, the **anxiety** that change creates, and the **habit** that holds the present in place.
@@ -55,7 +55,7 @@ Because Creative Engines reasons about emotion and behavior, not only logic, con
 
 ## A prioritized set, not a flat list
 
-Creative Engines treats Mindsets as a prioritized portfolio rather than an undifferentiated list. The approach sorts them into tiers: the ideal customers a brand should actively pursue, a second tier to nurture, an opportunistic tier, and an explicit **negative tier** - the audiences a brand should deliberately not write for. Naming who a brand is not for is as useful as naming who it is for: it keeps content sharp and stops it trying to please everyone.
+Creative Engines treats Mindsets as a prioritized portfolio rather than an undifferentiated list, sorted into a clear action order – including the audiences a brand should deliberately not write for. Naming who a brand is not for is as useful as naming who it is for: it keeps content sharp and stops it trying to please everyone.
 
 ## Sharper than a segment label
 
@@ -75,7 +75,7 @@ The same Mindsets also do something most tools never attempt: they form the audi
 
 ## Source inputs
 
-Mindsets can be informed by first-party material such as reviews, comments, customer conversations, support notes, and other user-generated context. They can also be developed through Creative Engines research methodology when first-party material is limited or incomplete.
+Mindsets can be informed by first- and third-party user-generated evidence – the brand's own material plus the voice its buyers leave in public. They can also be developed through Creative Engines research methodology when direct material is limited or incomplete.
 
 The public idea is that buyer understanding should come from more than surface persona labels. Creative Engines is designed to make the buyer's rational and emotional state usable across strategy, content production, review, and learning.
 

@@ -91,7 +91,7 @@ Each stage can carry its own context and review expectations. That makes the wor
 
 Mindset Intelligence is a core difference. Creative Engines builds and uses Mindsets: narrow rational-emotional portraits of buyers that explain what they are trying to do, what triggers them, what they fear, what internal conflict they are resolving, which workarounds they use, and what kind of progress they want.
 
-Mindsets can be informed by first-party material such as reviews, comments, customer conversations, support notes, and other user-generated context. They can also be developed through Creative Engines research methodology.
+Mindsets can be informed by first- and third-party user-generated evidence – the brand's own material plus the voice its buyers leave in public. They can also be developed through Creative Engines research methodology.
 
 The purpose is to make content more precise. Personas often describe who the buyer is. Mindsets help explain why the buyer would care, resist, trust, ignore, or act.
 

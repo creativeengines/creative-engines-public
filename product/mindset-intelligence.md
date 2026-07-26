@@ -18,7 +18,7 @@ It is one of the core ideas behind Creative Engines: content should be written f
 The audience model is built from structure to state:
 
 1. **Segments** – generate the brand's buyer segments (the account and buyer types who would buy its offers), named in plain business language.
-2. **Prioritize** – sort those segments into a clear action order (pursue, nurture, serve opportunistically, or leave alone), with a relative market-size read to compare them.
+2. **Prioritize** – sort those segments into a clear action order, with a relative market-size read to compare them.
 3. **Mindsets** – for the segments worth pursuing, generate the Mindsets inside them – the real people, in a specific rational-emotional state.
 4. **Review** – edit and validate any profile, so downstream content only uses approved audiences.
 
