@@ -1,8 +1,8 @@
 ---
 title: "Solutions"
-description: "Explains how Creative Engines fits distinct market segments, from B2B software companies to agencies, by reordering the same core differentiators around psychographic segmentation and mindset intelligence for each buyer type."
+description: "Explains how Creative Engines fits distinct market segments, from B2B software companies to agencies, by reordering the same core strengths around each buyer type's situation and the reason its buyers choose it."
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-07-24
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, segment-solutions, product-fit, creative-engines]
 ---
@@ -11,9 +11,9 @@ tags: [solutions, segment-solutions, product-fit, creative-engines]
 
 This folder explains how Creative Engines serves specific public target segments.
 
-The structure is segment-first. Each page maps one segment to what it gains from Creative Engines, the modules and capabilities that matter most to it, and how the product serves it today. The pages are deliberately polarized: they lead with the few parts of the platform that carry the value for that segment, rather than listing every module. Everything ladders into one outcome – a [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words, proven before spend, and installed across everything the brand ships.
+The structure is segment-first. Each page maps one segment to what it gains from Creative Engines, the modules and capabilities that matter most to it, and how the product serves it today. The pages are deliberately polarized: they lead with the few parts of the platform that carry the value for that segment, rather than listing every module. Everything ladders into one outcome – a [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words, pressure-tested before spend, and carried across everything the brand ships.
 
-Creative Engines is most relevant when a team needs more than faster writing. It is relevant when content depends on strategy, buyer understanding, brand context, editorial governance, and repeated execution. Each solution page has a companion [segment page](../segments/README.md) that describes the buyer in full.
+Creative Engines is most relevant when a team needs more than faster writing. It is relevant when content depends on strategy, buyer understanding, brand context, editorial governance, and repeated execution. Each solution page has a companion [segment page](../segments/README.md) that describes the buyer in full. These segments are where the fit is sharpest, not the boundary of who Creative Engines serves – capable marketing teams beyond them are welcome too.
 
 ## Fits best
 
