@@ -64,7 +64,7 @@ The decision is usually partnership-led, executive-sponsored, or team-specific, 
 
 ## Why does Creative Engines fit?
 
-- Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation rather than generic category language across all the brands.
+- Gives each brand its own reason buyers choose it rather than generic category language, by tying every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose across all the brands.
 - Grounds drafts in approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up in senior client and executive rooms.
 - Holds positioning and brand voice consistent from brief to draft to review, so strategy survives handoff across agencies, teams, and markets.
 - Keeps a human review gate that protects senior creative and strategic judgment, so the group scales output without lowering the standard that justifies its premium.
@@ -78,7 +78,7 @@ The decision is usually partnership-led, executive-sponsored, or team-specific, 
 
 ## Strategic interpretation
 
-The fit is strongest where the group needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work that stays distinct across many networks. Creative Engines supports that by acting as a governance layer above content production rather than a content factory - framed as governance and brand-specific intelligence above the group's own tooling, not as a replacement for it. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the group needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work that stays distinct across many networks. Creative Engines supports that by grounding each brand's distinct truth and its own reason to buy in evidence, and keeping them consistent across production for every network, rather than acting as a content factory – framed as governance and brand-specific intelligence above the group's own tooling, not as a replacement for it. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

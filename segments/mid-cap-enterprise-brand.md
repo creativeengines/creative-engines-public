@@ -64,7 +64,7 @@ The decision often begins in marketing but becomes cross-functional when content
 
 ## Why does Creative Engines fit?
 
-- Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation across markets instead of generic category language.
+- Gives every piece a reason to buy that holds up across markets, grounded in a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose rather than generic category language.
 - Preserves brand knowledge, buyer understanding, and editorial decisions across teams that otherwise depend on scattered documents, agency memory, and senior review.
 - Grounds drafts in the company's own approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up under executive and finance scrutiny.
 - Holds positioning and brand voice consistent from brief to draft to review, so the message survives every handoff and stays coherent across locations and business units.
@@ -78,7 +78,7 @@ The decision often begins in marketing but becomes cross-functional when content
 
 ## Strategic interpretation
 
-The fit is strongest where the team needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work across markets and functions. Creative Engines supports that by acting as a governance layer above content production rather than a content factory, which suits a brand that needs enterprise-grade thinking without enterprise-grade internal infrastructure. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the team needs to turn strategy, buyer beliefs, brand context, and expert judgment into a reason to buy that holds up and stays consistent across markets and business units. Creative Engines supports that by grounding the reason to buy in evidence and keeping it consistent across production and every function, rather than acting as a content factory – which suits a brand that needs enterprise-grade thinking without enterprise-grade internal infrastructure. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

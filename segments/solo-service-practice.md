@@ -60,7 +60,7 @@ The operator decides directly, usually after seeing whether the system preserves
 
 ## Why does Creative Engines fit?
 
-- Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so each client's content speaks to real motivation instead of generic category language.
+- Carries each client's voice and prior approved decisions into new delivery, so every piece speaks to real motivation instead of generic category language, by tying it to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose.
 - Grounds drafts in approved client brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up in a client room.
 - Holds positioning and voice consistent from brief to draft to review across several clients, so each one keeps its own distinct voice rather than blending into a default-model tone.
 - Keeps a human review gate that protects the operator's judgment, so the practice scales output without lowering its standard.
@@ -74,7 +74,7 @@ The operator decides directly, usually after seeing whether the system preserves
 
 ## Strategic interpretation
 
-The fit is strongest when the practice needs to turn its method, buyer beliefs, client context, and expert judgment into repeatable content work without diluting credibility. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest when the practice needs to turn its method, buyer beliefs, client context, and expert judgment into repeatable content work without diluting credibility. Creative Engines supports that by carrying each client's voice and prior approved decisions into new delivery, grounding them in evidence and keeping them consistent across production, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

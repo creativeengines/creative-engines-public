@@ -57,7 +57,7 @@ The decision is usually led by founders, product, or strategy leaders who want a
 
 ## Why does Creative Engines fit?
 
-- Acts as the intelligence and governance layer that helps an AI-native studio stay strategic rather than becoming a generic production shop, tying work to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear purpose.
+- Keeps strategy the visible, scarce layer above fast production, so the studio stays strategic rather than becoming a generic production shop – by tying work to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear purpose.
 - Supports richer client context, brand systems, and review logic around AI-enabled workflows, so the studio's sophistication is visible in the output.
 - Grounds drafts in approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up in front of demanding clients.
 - Keeps a human review gate that protects senior judgment, so the team scales output without lowering the strategic bar.
@@ -71,7 +71,7 @@ The decision is usually led by founders, product, or strategy leaders who want a
 
 ## Strategic interpretation
 
-The fit is strongest where the studio needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work that stays defensible at production pace. Creative Engines supports that by acting as a governance layer above content production rather than a content factory - the difference between a studio that sells sophistication and one that competes on volume. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the studio needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work that stays defensible at production pace. Creative Engines supports that by keeping strategy the visible, scarce layer above fast production – carried through approved context and review rather than acting as a content factory – the difference between a studio that sells sophistication and one that competes on volume. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

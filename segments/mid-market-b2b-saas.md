@@ -60,7 +60,7 @@ Marketing usually champions the need, but sales, product, operations, and techni
 
 ## Why does Creative Engines fit?
 
-- Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation instead of generic category language.
+- Gives the work a reason to buy that lines up with what the market actually values, by tying every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose – so it speaks to real motivation instead of generic category language.
 - Grounds drafts in the company's own approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up under executive scrutiny.
 - Holds positioning and brand voice consistent from brief to draft to review, so the message survives every handoff rather than drifting.
 - Keeps a human review gate that protects senior judgment, so the team scales output without lowering the bar.
@@ -74,7 +74,7 @@ Marketing usually champions the need, but sales, product, operations, and techni
 
 ## Strategic interpretation
 
-The fit is strongest where the team needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the team needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by grounding a reason to buy in evidence and keeping it consistent across production, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 
