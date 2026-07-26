@@ -61,7 +61,7 @@ The founder or brand leader often holds final voice authority, while growth and 
 
 ## Why does Creative Engines fit?
 
-- Encodes founder voice, buyer [Mindsets](../concepts/mindset-intelligence.md), objections, and brand taste into reusable assets, so the brand's point of view stays recognizable across high output.
+- Keeps the brand's point of view recognizable across high output and lines its positioning up with what buyer evidence values, by encoding founder voice, buyer [Mindsets](../concepts/mindset-intelligence.md), objections, and brand taste into reusable assets.
 - Grounds drafts in the brand's own approved context and customer evidence, with a traceable link back to the source, so performance content converts without drifting off-brand.
 - Holds voice and positioning consistent from brief to draft to review, so the message survives every handoff across founder, brand, creative, growth, and agency partners.
 - Keeps a human review gate that protects founder and senior judgment, so the team scales variant volume without lowering the bar.
@@ -75,7 +75,7 @@ The founder or brand leader often holds final voice authority, while growth and 
 
 ## Strategic interpretation
 
-The fit is strongest where the brand cannot separate performance from brand meaning and needs to turn founder voice, buyer beliefs, brand taste, and expert judgment into repeatable content work. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the brand cannot separate performance from brand meaning and needs to turn founder voice, buyer beliefs, brand taste, and expert judgment into repeatable content work. Creative Engines supports that by grounding the founder's voice and the brand's reason to buy in evidence and keeping them consistent across production, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

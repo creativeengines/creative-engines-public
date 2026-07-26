@@ -11,13 +11,13 @@ tags: [solutions, mid-market-dtc, product-fit, creative-engines]
 
 Fit group: **Great fit.**
 
-The value here is the founder's voice at scale: performance content across every channel that still sounds unmistakably like the brand. For the full buyer picture, see the [segment page](../segments/mid-market-dtc.md).
+The value here is a brand voice that scales without drifting – performance content across every channel that still sounds unmistakably like the brand, behind a reason to buy that lines up with what the market actually values. For the full buyer picture, see the [segment page](../segments/mid-market-dtc.md).
 
 ## What matters most for this segment
 
 For a voice-led consumer brand, the sharp value sits in a few specific parts of the platform:
 
-- **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – works from the exact language the audience uses, so the brand voice stays authentic as more of the work is produced with AI.
+- **A voice that stays yours, on a reason that holds up** – working from the exact language the audience uses, so the brand voice stays authentic as more of the work is produced with AI, and the positioning lines up with what buyers actually value. Grounded in [Mindset Intelligence](../concepts/mindset-intelligence.md).
 - **[Creative Studio](../product/creative-studio.md)** – an audience focus group built from the brand's own Mindsets lets the team stress-test an offer or a campaign before launch, and an anti-slop pass and Brand Guardian catch anything that reads subtly off-brand.
 - **[Content Distribution](../product/content-distribution.md)** – plan and govern high-cadence work across paid, owned, retail, email, social, and community, in the brand's default language with per-channel overrides.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – the founder's point of view, encoded once in an isolated workspace and reused everywhere.
