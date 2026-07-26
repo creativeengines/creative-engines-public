@@ -26,7 +26,7 @@ Heavy enterprise infrastructure and media production are not the lead for a star
 
 ## How it works here
 
-A team can start with a free [Brand Preview Deck](../concepts/brand-preview.md), and the pipeline is addressable – a team can start from audience understanding, from strategy, or from a single content task. Mindsets and a proven reason to buy set direction; Creative Studio explores competing narrative directions and tests the promising ones against a focus group of Mindsets; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate. It consolidates a fragile homemade AI stack into one governed surface.
+A team can start with a free [Brand Preview Deck](../concepts/brand-preview.md), and the pipeline is addressable – a team can start from audience understanding, from strategy, or from a single content task. Mindsets and a pressure-tested reason to buy set direction; Creative Studio explores competing narrative directions and tests the promising ones against a focus group of Mindsets; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate. It consolidates a fragile homemade AI stack into one governed surface.
 
 ## What compounds
 

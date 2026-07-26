@@ -22,7 +22,7 @@ For a solo operator serving several clients, the sharp value sits in a few speci
 - **[Content Distribution](../product/content-distribution.md)** – plan and schedule across several client brands from one calendar, with the operator as the final approval gate.
 - **Per-client isolation** – each client, and the operator's own practice, works in its own Brand workspace, so voices never blend.
 
-Attribution that proves which strategy drove revenue – the proof that justifies a retainer – is [on the roadmap](../product/performance-accountability.md); today the lead value is a scalable method and senior-sounding output.
+Attribution that shows which strategy drove revenue – the evidence that justifies a retainer – is [on the roadmap](../product/performance-accountability.md); today the lead value is a scalable method and senior-sounding output.
 
 ## How it works here
 

@@ -21,7 +21,7 @@ For an operator-led service company, the sharp value sits in a few specific part
 - **[Brand Knowledge](../product/brand-knowledge.md)** – turns internal operational expertise into reusable, grounded context, kept in its own isolated workspace, so public content finally reflects the real depth of the service.
 - **[Brand Strategy](../product/brand-strategy.md)** and **[Content Distribution](../product/content-distribution.md)** – build authority through trust signals and search: grounded long-form, thought leadership, and an SEO semantic core, which is how service buyers form trust.
 
-Proof that specific narratives drive margin-accretive acquisition is [on the roadmap](../product/performance-accountability.md); today the value is credibility and grounded positioning. Media production is not the lead here.
+Evidence that specific narratives drive margin-accretive acquisition is [on the roadmap](../product/performance-accountability.md); today the value is credibility and grounded positioning. Media production is not the lead here.
 
 ## How it works here
 
