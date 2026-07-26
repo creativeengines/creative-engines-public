@@ -51,7 +51,7 @@ In practical terms, this means a tactic can be useful and still carry AI-slop ri
 
 A strong creative team does not usually publish the first idea that appears. It explores multiple directions, reviews them, rejects weak work, sharpens the strongest candidates, and stress-tests the output before public use.
 
-Creative Engines is designed around that kind of creative-department logic. A useful mental model is an agency creative department: several copywriters exploring competing directions, a creative director selecting and sharpening the strongest, then stress testing and audience review before public use.
+Creative Engines is designed around that kind of creative-department logic, run as coordinated roles: several agents explore competing directions, a director-level pass selects and sharpens the strongest, then stress-testing and audience review happen before public use.
 
 A user can work from brand context, buyer Mindsets, strategic narratives, source material, draft variants, review comments, and approval gates instead of relying on a single open-ended AI response.
 

@@ -75,7 +75,7 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Methodology base** - The curated body of marketing science and creative methodology Creative Engines applies as working rules across audience understanding, strategy, attention planning, and production.
 
-**Multi-Agent Creative Department** - The set of specialized agents that produce content in Creative Studio, modeled on an agency creative department: a Creative Director, Lead Copywriters, a Brand Guardian, and an audience focus group.
+**Multi-Agent Creative Department** - A set of specialized agents in coordinated roles that produce content in Creative Studio: a Creative Director, Lead Copywriters, a Brand Guardian, and an audience focus group, with a human approval gate.
 
 **Mindset** - A rational-emotional portrait of a person inside a segment: their role, the job they are trying to get done, what they believe, what they fear, what holds them back, and what progress would feel like. The needs-and-behavior axis of the audience model, shaped by the COM-B behavioral frame (capability, opportunity, motivation). One Mindset can span several segments.
 
@@ -91,7 +91,7 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Value Proposition** - The promise of value behind a UVP (see UVP): who it is for, what they get, and the offering that delivers it. The short line a customer reads is the tagline, not the value proposition itself. *(In plain terms: why customers choose the brand.)*
 
-**Reason to Buy** - The customer-facing name for the value proposition: the reason a brand's buyers choose it over the alternatives – found in the buyers' own words, proven before spend, and installed across everything the brand ships. *(Never abbreviated to "RTB", which means Reason-to-Believe – a different idea. See also Proof Anchor.)*
+**Reason to Buy** - The customer-facing name for the value proposition: the reason a brand's buyers choose it over the alternatives – found in the buyers' own words, pressure-tested before spend, and carried across everything the brand ships. *(Never abbreviated to "RTB", which means Reason-to-Believe – a different idea. See also Proof Anchor.)*
 
 **Positioning** - Where a brand chooses to stand in its market: what it leads on (for example price, time, quality, or variety), in which category, and against which alternatives. Part of a brand's Brand DNA.
 

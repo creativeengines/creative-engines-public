@@ -13,7 +13,7 @@ tags: [creative-engines, public-knowledge-base, product-overview, documentation]
 
 Creative Engines is a content intelligence and production platform for marketing teams, agencies, and founders. It understands a brand's buyers deeply, decides what to say, produces content through a multi-agent creative process, and keeps every asset connected to strategy – so content teaches, persuades, and compounds instead of adding to the noise. In one line: Creative Engines helps a brand publish content behind a reason to buy that its buyers actually respond to – grounded in Mindset Intelligence, pressure-tested before the spend.
 
-Most tools start from a prompt. Creative Engines starts from the buyer: who they are, what they believe, where their attention travels, and what would actually move them. Only then does it write – and it reviews the work the way a serious creative department would before anything is published.
+Most tools start from a prompt. Creative Engines starts from the buyer: who they are, what they believe, where their attention travels, and what would actually move them. Only then does it write – and it reviews the work through structured, coordinated roles before anything is published.
 
 This repository is the public, structured place to understand how that works. It is written for both people and AI assistants: an AI tool pointed at it can answer questions about the product, the approach, who it is for, and how it differs from generic AI content tools.
 
