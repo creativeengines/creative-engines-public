@@ -50,7 +50,7 @@ Brand Guardian is the public name for the review posture Creative Engines applie
 
 These checks are not meant to replace the editor, strategist, or brand owner. They make review more consistent by giving human judgment a clearer structure.
 
-The target is a better human, not a flawless machine. The work aims for eight out of ten that a person sharpens the last stretch to ten, because perfect automation removes the person's fingerprints – and with them the ownership and accountability that make the work theirs.
+The target is a better human, not a flawless machine. The aim is to carry the work most of the way and let a person sharpen the last stretch, because perfect automation removes the person's fingerprints – and with them the ownership and accountability that make the work theirs.
 
 ## Public boundary
 

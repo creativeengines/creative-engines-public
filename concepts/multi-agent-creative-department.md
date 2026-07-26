@@ -63,7 +63,7 @@ Inside Creative Studio, a piece of content moves through a defined seven-stage p
 6. **Scheduling** - place it into the content calendar.
 7. **Publishing** - ship it to the channel.
 
-The writing stage produces multiple scored variants in a single run. A person can approve one or several, or send targeted feedback for a redo, without restarting the whole pipeline - a live writer's room rather than a one-shot generator.
+The writing stage produces multiple variants in a single run. A person can approve one or several, or send targeted feedback for a redo, without restarting the whole pipeline - a live writer's room rather than a one-shot generator.
 
 The pipeline produces more than social posts. It can output long-form articles, social threads, multi-slide carousels, newsletters, landing-page copy, case studies, and video-format content, in the brand's default language with per-channel overrides.
 
