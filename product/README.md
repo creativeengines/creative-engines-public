@@ -52,7 +52,7 @@ Each brand's material lives in its own isolated workspace, separate from every o
 
 These public docs may mention high-level implementation ideas when they help a buyer understand the product, including hybrid search, source grounding, LLM calls, and human review.
 
-These public docs do not publish internal product shorthand, private engineering labels, exact vendor choices, protected evaluation rules, generation instructions, private method details, sale terms, or private business logic.
+These public docs do not publish internal product shorthand, private engineering labels, infrastructure and model-routing choices, protected evaluation rules, generation instructions, private method details, sale terms, or private business logic.
 
 ## See also
 

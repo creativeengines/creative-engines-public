@@ -17,7 +17,7 @@ Creative Engines was built by a founder who was the bottleneck. As a marketer, I
 
 That personal problem turned out to be the market's problem. AI has made two things cheap: building products, and producing content. What stays scarce is direction – which audience, which message, and which content actually works, repeatably, as a system rather than a one-off deck on a shelf. The bottleneck moved from "can we make content?" to "can we make the *right* content without a senior person gating every piece?"
 
-The founders' answer draws on a career-long conviction of Igor's: replace the founder's instinct with a repeatable, evidence-based system. Durable results come from systems, not from one operator working longer hours. Creative Engines is that system – brand truth, buyer understanding, and governed execution – supplying the judgment AI does not.
+The founders' answer draws on a career-long conviction of Igor's: turn a founder's instinct into a repeatable, evidence-based system. Durable results come from systems, not from one operator working longer hours. Creative Engines is that system – brand truth, buyer understanding, and governed execution – supplying the judgment AI does not.
 
 ## Who founded Creative Engines
 

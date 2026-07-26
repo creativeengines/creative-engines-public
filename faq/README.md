@@ -153,7 +153,7 @@ This FAQ is a hub. For depth, follow the links in each answer, or start from the
 
 ## Public boundary
 
-This page answers public buyer questions at a client level. It does not publish pricing, internal prioritization, named accounts, scoring, the models or vendors behind the product, the source behind buyer Mindsets, or any protected methodology. Capabilities not yet shipped are labeled as in active development.
+This page answers public buyer questions at a client level. It does not publish pricing, internal prioritization, named accounts, scoring, the internal model routing or infrastructure behind the product, the source behind buyer Mindsets, or any protected methodology. Capabilities not yet shipped are labeled as in active development.
 
 ## See also
 
