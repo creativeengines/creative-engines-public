@@ -11,13 +11,13 @@ tags: [solutions, boutique-creative-agency, product-fit, creative-engines]
 
 Fit group: **Fits best.**
 
-The value here is the founder's taste and judgment scaling past what one person can review – junior work rises toward the senior bar, methodology depth and protected craft that let a lean shop scale without becoming generic, grounded in approved context and review. Creative Engines is built for these professionals to use, not to replace them. For the full buyer picture, see the [segment page](../segments/boutique-creative-agency.md).
+The value here is the agency founder's taste and judgment scaling past what one person can review – junior work rises toward the shop's senior bar, methodology depth and protected craft that let a lean agency scale without becoming generic, grounded in approved context and review. Creative Engines is built for these professionals to use, not to replace them. For the full buyer picture, see the [segment page](../segments/boutique-creative-agency.md).
 
 ## What matters most for this segment
 
 For a boutique agency that wins on taste, the sharp value sits in a few specific parts of the platform:
 
-- **The founder's taste and judgment scale past one desk** – junior work rises toward the senior bar because the audience is understood at a cultural, not just demographic, level, which is the depth that convinces skeptical creative leadership a system respects their craft. Grounded in [Mindset Intelligence](../concepts/mindset-intelligence.md).
+- **The agency founder's taste and judgment scale past one desk** – junior work rises toward the shop's senior bar because the audience is understood at a cultural, not just demographic, level, which is the depth that convinces skeptical creative leadership a system respects their craft. Grounded in [Mindset Intelligence](../concepts/mindset-intelligence.md).
 - **[Brand Knowledge](../product/brand-knowledge.md)** – each client's brand context stays in its own isolated workspace, so bespoke thinking is protected rather than pooled.
 - **The [anti-slop stance](../concepts/anti-slop-stance.md) and the Brand Guardian** – catch off-voice, generic-sounding work before it reaches a client, so the agency's distinctive look survives high-output runs.
 - **[Brand Strategy](../product/brand-strategy.md)** – an editable narrative the client can own after the engagement, which is how boutiques hand off thinking, not just assets.
