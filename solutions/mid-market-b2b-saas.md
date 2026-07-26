@@ -11,13 +11,13 @@ tags: [solutions, mid-market-b2b-saas, product-fit, creative-engines]
 
 Fit group: **Fits best.**
 
-In a crowded category, the value here is defensible differentiation: content that sounds like the one company a technical buyer should choose, grounded in evidence that survives scrutiny. For the full buyer picture, see the [segment page](../segments/mid-market-b2b-saas.md).
+In a crowded category, the value here is a reason to buy that lines up with what the market actually values and holds up under a technical buyer's scrutiny – content that sounds like the one company they should choose, grounded in evidence that backs it up. For the full buyer picture, see the [segment page](../segments/mid-market-b2b-saas.md).
 
 ## What matters most for this segment
 
 The sharp value for a mid-market software team sits in a few specific parts of the platform:
 
-- **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – works from the real language buyers use, so messaging positions against named competitors instead of sounding like every other vendor.
+- **A reason to buy that lines up with what the market values, and holds up under a technical buyer's scrutiny** – positions against named competitors instead of sounding like every other vendor. Grounded in [Mindset Intelligence](../concepts/mindset-intelligence.md), which works from the real language buyers use.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – grounds every draft in the company's own approved evidence with a traceable link back to the source, so a claim holds up in front of a technical reviewer. Each brand's knowledge stays in its own isolated workspace.
 - **[Creative Studio](../product/creative-studio.md)** – runs content through a contested process and an anti-slop pass, so distinctiveness holds as output scales, and weaves the SEO semantic core in at the styling stage – decisive for a segment that lives on organic search.
 

@@ -11,13 +11,13 @@ tags: [solutions, venture-studio-platform, product-fit, creative-engines]
 
 Fit group: **Fits best.**
 
-The value here is compounding portfolio value: repeatable strategy and content support across many companies at once, each sounding distinct, on one common layer. For the full buyer picture, see the [segment page](../segments/venture-studio-platform.md).
+The value here is every company in the portfolio producing on-brand work from its own current, approved source – at multi-brand scale, with each company's brand truth staying its own instead of blending into one voice. For the full buyer picture, see the [segment page](../segments/venture-studio-platform.md).
 
 ## What matters most for this segment
 
 For a platform team supporting many portfolio companies, the sharp value sits in a few specific parts of the platform:
 
-- **[Brand Strategy](../product/brand-strategy.md)** – a defensible, editable strategy per company, so the studio can refresh several go-to-market plans at once and each founder can edit their own.
+- **On-brand output for every company, from its own current source** – each portfolio company keeps a defensible, editable strategy of its own, so the studio can refresh several go-to-market plans at once and each founder can edit their own, grounded in [Brand Strategy](../product/brand-strategy.md).
 - **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – grounded buyer understanding per company, so support is specific rather than a template stretched across the portfolio.
 - **[Content Distribution](../product/content-distribution.md)** – plan and govern content for many brands from one place, without blending them together.
 - **Per-company isolation** – each company works in its own governed Brand workspace, so the companies never merge into one voice.

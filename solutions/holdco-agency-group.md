@@ -11,13 +11,13 @@ tags: [solutions, holdco-agency-group, product-fit, creative-engines]
 
 Fit group: **Great fit.**
 
-The value here is governed distinctiveness at scale: a single, auditable way to keep work distinct and on-brand across many agency brands and markets, layered above the group's own tooling rather than replacing it. For the full buyer picture, see the [segment page](../segments/holdco-agency-group.md).
+The value here is governed consistency that still lets each brand keep its own reason to buy – a single, auditable way to keep work distinct and on-brand across many agency brands and markets, layered above the group's own tooling rather than replacing it. For the full buyer picture, see the [segment page](../segments/holdco-agency-group.md).
 
 ## What matters most for this segment
 
 For a group operating many networks under one transformation mandate, the sharp value sits in a few specific parts of the platform:
 
-- **[Brand Strategy](../product/brand-strategy.md)** – portfolio-level governance: one governed narrative per brand that survives the handoff across agencies, teams, and markets.
+- **Each brand's own reason to buy, held consistent wherever it ships** – portfolio-level governance so one governed narrative per brand survives the handoff across agencies, teams, and markets, grounded in [Brand Strategy](../product/brand-strategy.md).
 - **[Brand Knowledge](../product/brand-knowledge.md)** and **per-brand isolation** – each named brand and client works in its own governed workspace, so context never blends across the group.
 - **[Content Distribution](../product/content-distribution.md)** – govern and approve content across many brands from a consistent, auditable process with a human gate.
 - **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – grounded buyer understanding that adds strategy and editorial discipline above internal platforms, so the group's own tooling produces on-strategy work.
