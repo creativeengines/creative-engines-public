@@ -11,13 +11,13 @@ tags: [solutions, mid-cap-enterprise-brand, product-fit, creative-engines]
 
 Fit group: **Fits best.**
 
-The value here is enterprise-grade thinking without enterprise-grade internal infrastructure: one governed strategy the whole organization works from, and a story that stays straight across markets. For the full buyer picture, see the [segment page](../segments/mid-cap-enterprise-brand.md).
+The value here is a reason to buy that holds up and stays consistent across every market and business unit – enterprise-grade thinking without enterprise-grade internal infrastructure, one governed strategy the whole organization works from, and a story that stays straight across markets. For the full buyer picture, see the [segment page](../segments/mid-cap-enterprise-brand.md).
 
 ## What matters most for this segment
 
 For a scaled brand coordinating many teams and markets, the sharp value sits in a few specific parts of the platform:
 
-- **[Brand Strategy](../product/brand-strategy.md)** – turns positioning into an auditable strategy artifact the team edits and refreshes, not a deck that dies in a drive, with one governed narrative every output is checked against.
+- **A reason to buy that holds up everywhere** – turns positioning into an auditable strategy artifact the team edits and refreshes, not a deck that dies in a drive, with one governed narrative every output is checked against, grounded in [Brand Strategy](../product/brand-strategy.md).
 - **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – powers messaging from the real language of buyers across markets, so local and regional work stops running on inconsistent assumptions.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – keeps brand truth, positioning, and source material in one isolated, governed place, so claims hold up under executive and finance scrutiny.
 

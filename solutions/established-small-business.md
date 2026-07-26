@@ -11,13 +11,13 @@ tags: [solutions, established-small-business, product-fit, creative-engines]
 
 Fit group: **Great fit.**
 
-The value here is strategic clarity on a small-business budget: clearer positioning and consistent, owner-approved content, giving a small team the clarity of a much larger one. For the full buyer picture, see the [segment page](../segments/established-small-business.md).
+The value here is pressure-testing the message before you spend – a focus group built from the business's own buyer Mindsets reacts before a piece ships, so the owner's sign-off lands on content that already holds up, not a first guess. For the full buyer picture, see the [segment page](../segments/established-small-business.md).
 
 ## What matters most for this segment
 
 For a time-starved owner or a small team, the sharp value sits in a few specific parts of the platform:
 
-- **[Content Distribution](../product/content-distribution.md)** – plan, schedule, and govern content in one place, with the owner's sign-off as the gate before anything publishes, so the work ships consistently without constant oversight.
+- **Pressure-test the message before you spend** – a focus group built from the business's own buyer Mindsets reacts to a piece before it ships, and the owner's sign-off stays the gate before anything publishes, so budget lands on content that already holds up. Grounded in [Test before you publish](../concepts/test-before-you-publish.md) and [Content Distribution](../product/content-distribution.md).
 - **[Brand Strategy](../product/brand-strategy.md)** – a defensible positioning artifact at small-business scale, refreshed in hours rather than by rebuilding spreadsheets.
 - **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – grounded in the business's own niche, so content reflects local trust and specialization rather than generic category language.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – turns the owner's knowledge and customer language into reusable direction, kept in one isolated workspace.

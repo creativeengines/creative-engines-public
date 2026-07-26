@@ -11,13 +11,13 @@ tags: [solutions, specialized-vertical-agency, product-fit, creative-engines]
 
 Fit group: **Fits best.**
 
-The value here is vertical-deep expertise codified: reusable, review-ready intelligence in one regulated or craft vertical, with the client's constraints honored. Creative Engines is built for these professionals to use, not to replace them. For the full buyer picture, see the [segment page](../segments/specialized-vertical-agency.md).
+The value here is defensible, on-method work that holds up across clients without losing what makes the vertical specialized – carried by approved context and a review gate, with each client's constraints honored. Creative Engines is built for these professionals to use, not to replace them. For the full buyer picture, see the [segment page](../segments/specialized-vertical-agency.md).
 
 ## What matters most for this segment
 
 For an agency whose edge is one specialized vertical, the sharp value sits in a few specific parts of the platform:
 
-- **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – captures the exact way a vertical's buyers think, including the regulatory hesitations and compliance language a generalist would miss.
+- **Vertical fluency the client's buyers actually recognize** – speaks to the regulatory hesitations and compliance language a generalist would miss, grounded in [Mindset Intelligence](../concepts/mindset-intelligence.md).
 - **[Brand Strategy](../product/brand-strategy.md)** – a narrative and messaging platform that respects the vertical's guardrails, so work clears review rather than triggering redline cycles.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – claims trace back to approved evidence with a retrievable record, and each client's regulated context stays in its own isolated workspace – the traceability regulated verticals require.
 - **The Brand Guardian** – screens for the vertical's safety, claim, and fact standards before a piece enters the formal review cycle.
