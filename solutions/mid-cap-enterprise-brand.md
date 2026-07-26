@@ -21,7 +21,7 @@ For a scaled brand coordinating many teams and markets, the sharp value sits in 
 - **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – powers messaging from the real language of buyers across markets, so local and regional work stops running on inconsistent assumptions.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – keeps brand truth, positioning, and source material in one isolated, governed place, so claims hold up under executive and finance scrutiny.
 
-Provable pipeline – attribution that ties spend to revenue per narrative – is the proof this segment ultimately wants, and it is [on the roadmap](../product/performance-accountability.md); today the value is a governed, auditable strategy and consistent execution. Media production is not the lead here.
+Pipeline attribution that ties spend to revenue per narrative is the evidence this segment ultimately wants, and it is [on the roadmap](../product/performance-accountability.md); today the value is a governed, auditable strategy and consistent execution. Media production is not the lead here.
 
 ## How it works here
 

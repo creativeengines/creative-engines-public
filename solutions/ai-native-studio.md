@@ -19,7 +19,7 @@ For a technical studio that already generates well, the sharp value sits in a fe
 
 - **[Creative Studio](../product/creative-studio.md)** – a multi-agent creative department that explores and contests competing directions; a technical founder recognizes the architecture, and it makes strategy the visible, scarce layer above fast production.
 - **[Brand Strategy](../product/brand-strategy.md)** – a client-facing strategy and narrative deliverable, so the studio sells thinking, not just output.
-- **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – grounded buyer understanding rather than stereotypes, which is what proves the studio's work is strategy-informed.
+- **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – grounded buyer understanding rather than stereotypes, which is what shows the studio's work is strategy-informed.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – closes the brand-understanding gaps that fast production tends to surface, with each client's context kept isolated.
 
 Creative Engines does not duplicate the studio's own media generation; it sits above it as the governance and intelligence layer.
