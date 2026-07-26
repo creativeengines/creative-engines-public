@@ -62,7 +62,7 @@ The founder or early marketing leader usually feels the need first, but the tech
 
 ## Why does Creative Engines fit?
 
-- Turns rough market understanding into clearer buyer [Mindsets](../concepts/mindset-intelligence.md), messaging, and content direction, so early work speaks to real motivation instead of generic startup language.
+- Pressure-tests a positioning hypothesis before a cent goes to paid channels – a [focus group](../concepts/test-before-you-publish.md) built from the company's own buyer [Mindsets](../concepts/mindset-intelligence.md) reacts before launch, so early work speaks to real motivation instead of generic startup language.
 - Grounds drafts in the company's own approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up under a technical co-founder's review.
 - Holds positioning and brand voice consistent from brief to draft to review, so the message survives founder handoffs rather than drifting as the ICP is refined.
 - Keeps a human review gate that preserves founder and operator judgment, so the team produces more without lowering the bar.
@@ -76,7 +76,7 @@ The founder or early marketing leader usually feels the need first, but the tech
 
 ## Strategic interpretation
 
-The fit is strongest where the team already has enough strategic signal to organize, test, and reuse, and needs structured learning and sharper communication rather than blind content volume. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the team already has enough strategic signal to organize, test, and reuse, and needs structured learning and sharper communication rather than blind content volume. Creative Engines supports that by pressure-testing the positioning hypothesis against buyer Mindsets before it reaches paid spend, and keeping it consistent across production, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

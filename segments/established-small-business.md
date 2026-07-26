@@ -61,7 +61,7 @@ The owner or operating leader usually decides, often influenced by a fractional 
 
 ## Why does Creative Engines fit?
 
-- Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work reflects local trust, specialization, and the real reasons customers buy rather than generic category language.
+- Pressure-tests the message before spend goes out, by tying every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work reflects local trust, specialization, and the real reasons customers buy rather than generic category language.
 - Turns owner knowledge, customer language, and service explanations into structured content direction, so the brand's point of view becomes reusable instead of living only in one person's head.
 - Grounds drafts in approved brand and strategy context that follows the work, so the message survives the handoff between the owner, a fractional leader, a small team, and outside specialists.
 - Keeps a human review gate that preserves senior judgment, so the business scales output without senior people rewriting everything.
@@ -75,7 +75,7 @@ The owner or operating leader usually decides, often influenced by a fractional 
 
 ## Strategic interpretation
 
-The fit is strongest where an established small business needs to make strategic thinking reusable so a small team gets the clarity of a much larger one - turning buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where an established small business needs to make strategic thinking reusable so a small team gets the clarity of a much larger one - turning buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by pressure-testing the message against the business's own buyer Mindsets and keeping it consistent across production, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

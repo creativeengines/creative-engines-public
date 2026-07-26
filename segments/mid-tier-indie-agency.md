@@ -61,7 +61,7 @@ The decision is founder-led or strategy-led, but creative authority and finance 
 
 ## Why does Creative Engines fit?
 
-- Acts as a strategy-preservation and client-intelligence layer for agencies that do not want to become content factories, turning senior judgment into reusable briefs, client-specific [Mindsets](../concepts/mindset-intelligence.md), and reviewable content operations.
+- Junior work rises toward the senior bar because approved context and review carry the standard, by acting as a strategy-preservation and client-intelligence layer that turns senior judgment into reusable briefs, client-specific [Mindsets](../concepts/mindset-intelligence.md), and reviewable content operations instead of a content factory.
 - Grounds drafts in approved brand and client context with a traceable link back to the source, so claims hold up in the pitch room and in front of a client.
 - Holds positioning and brand voice consistent from brief to draft to handoff, so the agency's distinctiveness survives every step rather than drifting toward generic output.
 - Keeps a human review gate that protects creative and strategic judgment, so the agency scales quality without lowering the craft bar.
@@ -75,7 +75,7 @@ The decision is founder-led or strategy-led, but creative authority and finance 
 
 ## Strategic interpretation
 
-The fit is strongest where the agency needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work without flattening its method into generic AI output. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the agency needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work without flattening its method into generic AI output. Creative Engines supports that by grounding the agency's method and craft bar in approved context and carrying them through review into every client engagement, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

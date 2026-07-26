@@ -59,7 +59,7 @@ The path depends on the agency's structure, but the pattern is consistent: the f
 
 ## Why does Creative Engines fit?
 
-- Ties every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose, so the work speaks to real motivation and vertical-specific objections instead of generic category language.
+- Speaks to real motivation and vertical-specific objections instead of generic category language, by tying every piece to a specific buyer [Mindset](../concepts/mindset-intelligence.md) and a clear strategic purpose.
 - Organizes the agency's vertical knowledge, recurring objections, and content systems into reusable strategic assets while keeping each client's context separate and protected.
 - Grounds drafts in approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up to the scrutiny the vertical applies.
 - Holds positioning and brand voice consistent from brief to draft to review, so the specialized voice survives every handoff rather than drifting toward generic output.
@@ -73,7 +73,7 @@ The path depends on the agency's structure, but the pattern is consistent: the f
 
 ## Strategic interpretation
 
-The fit is strongest where the agency needs to turn its vertical expertise, buyer beliefs, brand context, and expert judgment into repeatable content work without diluting what makes it specialized. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the agency needs to turn its vertical expertise, buyer beliefs, brand context, and expert judgment into repeatable content work without diluting what makes it specialized. Creative Engines supports that by grounding the vertical's claims and voice in approved evidence and keeping them consistent across every client's review cycle, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 

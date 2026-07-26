@@ -59,7 +59,7 @@ Platform leadership usually sponsors the decision, with portfolio founders valid
 
 ## Why does Creative Engines fit?
 
-- Acts as a portfolio-wide brand and buyer-intelligence layer, capturing each company's [Mindset](../concepts/mindset-intelligence.md) and strategic purpose so the work speaks to real motivation rather than generic category language.
+- Every portfolio company produces on-brand work from its own current, approved source, at multi-brand scale – by capturing each company's [Mindset](../concepts/mindset-intelligence.md) and strategic purpose, so the work speaks to real motivation rather than generic category language.
 - Captures venture-specific context, buyer Mindsets, narrative choices, and reusable launch material without blending companies together, so each company sounds like itself.
 - Holds positioning and brand voice consistent from brief to draft to review for every company, so messaging survives the handoffs across a busy platform team.
 - Keeps a human review gate that protects founder and platform judgment, so the studio scales support across many companies without lowering the bar.
@@ -73,7 +73,7 @@ Platform leadership usually sponsors the decision, with portfolio founders valid
 
 ## Strategic interpretation
 
-The fit is strongest where the platform team wants repeatable support across many early or scaling companies without forcing them into one generic voice - where the studio needs to turn strategy, buyer beliefs, brand context, and expert judgment into content work that still respects each company. Creative Engines supports that by acting as a governance layer above content production rather than a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where the platform team wants repeatable support across many early or scaling companies without forcing them into one generic voice – where the studio needs to turn strategy, buyer beliefs, brand context, and expert judgment into content work that still respects each company. Creative Engines supports that by grounding each company's brand truth in its own current, approved source and keeping it distinct across production at multi-brand scale, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 
