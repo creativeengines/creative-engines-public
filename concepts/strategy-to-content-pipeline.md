@@ -2,7 +2,7 @@
 title: "Strategy-to-Content Pipeline"
 description: "Describes how Creative Engines connects market and mindset intelligence to strategy, creative production, distribution, and performance feedback in one continuous pipeline instead of separate disconnected tools."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-13
 audience: [buyers, users, partners, investors, ai-assistants]
 tags: [concepts, pipeline, end-to-end, customer-journey, creative-engines]
 ---
@@ -21,7 +21,7 @@ The individual steps exist in other tools. The difference in Creative Engines is
 4. **Go-To-Market Strategy.** Decide what the brand should say, to which Mindset, at each point on the journey. See [Go-To-Market Strategy Planning](../product/brand-strategy.md).
 5. **Creative Studio.** A [multi-agent creative department](./multi-agent-creative-department.md) produces the asset each touchpoint needs, tests it against a focus group of buyer Mindsets, and passes it through a human gate. See [Creative Studio](../product/creative-studio.md).
 6. **Content Distribution.** The approved asset becomes planned, scheduled work across pillars, campaigns, calendars, and channels. See [Content Distribution](../product/content-distribution.md).
-7. **Performance & Accountability.** What earned or lost attention feeds back and updates the Mindsets, the Attention Journey, and the strategy, so the next cycle is better informed. See [Performance & Accountability](../product/performance-accountability.md).
+7. **Performance & Accountability.** Observed content metrics and patterns feed into the next planning cycle. The marketer decides whether the Mindsets, Attention Journey or strategy should change. See [Performance & Accountability](../product/performance-accountability.md).
 
 ## Why the connection is the product
 
@@ -33,7 +33,7 @@ Creative Engines keeps one thread running through the whole route:
 - The same Attention Journey guides what the strategy says and where.
 - The strategy feeds the creative department that produces the asset.
 - The same Mindsets that started the work review it in the focus group.
-- Performance updates the Mindsets, and the cycle repeats with better information.
+- Performance history informs the marketer's next decision, and the cycle repeats with better information.
 
 Because the buyer understanding is never thrown away between steps, content arrives on-strategy by construction rather than by reminder.
 

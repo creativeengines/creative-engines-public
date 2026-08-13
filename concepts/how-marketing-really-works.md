@@ -1,7 +1,7 @@
 ---
 title: "How marketing really works – Creative Engines' point of view"
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-08-13
 audience: [buyers, users, agencies, partners, ai-assistants]
 description: "Creative Engines' opinionated, evidence-backed view of how the marketing industry actually works today – what it rewards, where it breaks, what still matters, and how the product answers each one."
 tags: [concepts, point-of-view, marketing-industry, opinion, creative-engines]
@@ -15,7 +15,7 @@ Creative Engines holds a specific, opinionated view of the market it works in. T
 
 Most marketing is billed and judged by activity – posts shipped, decks delivered, campaigns launched – because motion is easy to show and outcomes are hard to prove. The incentive quietly bends toward looking busy rather than moving a buyer. It shows up in the pitch, too: when a marketer walks in with case studies a buyer cannot map onto their own business, the buyer is being asked to believe, not shown. Much of the craft still runs on hand-waving rather than anything a client could inspect.
 
-**How Creative Engines answers it.** Every asset is tied to the strategic reason it exists – a specific buyer [Mindset](./mindset-intelligence.md), a narrative, a stage of the journey – so the work is inspectable instead of taken on faith. That traceable-intelligence posture is the heart of [editorial governance](./editorial-governance.md), and it serves the one outcome that is actually a result rather than motion: a [Reason to Buy](./reason-to-buy.md). Closing the loop from published work back to measured outcomes is [on the roadmap](../product/performance-accountability.md).
+**How Creative Engines answers it.** Every asset is tied to the strategic reason it exists – a specific buyer [Mindset](./mindset-intelligence.md), a narrative, a stage of the journey – so the work is inspectable instead of taken on faith. That traceable-intelligence posture is the heart of [editorial governance](./editorial-governance.md), and it serves the one outcome that is actually a result rather than motion: a [Reason to Buy](./reason-to-buy.md). [Performance & Accountability](../product/performance-accountability.md) is in Beta: it records content metrics and observed patterns for the next planning cycle, while causal attribution and the full performance dashboard remain on the roadmap.
 
 ## Effectiveness beats "cheaper"
 

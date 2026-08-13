@@ -2,7 +2,7 @@
 title: "Attention Journey"
 description: "Explains Creative Engines' Attention Journey concept, which maps where a buyer's attention travels across touchpoints and media channels for a given Mindset, replacing the generic awareness-consideration-decision funnel."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-13
 audience: [buyers, users, strategists, partners, ai-assistants]
 tags: [concepts, attention-journey, customer-journey-map, media-channels, creative-engines]
 ---
@@ -84,7 +84,7 @@ The Attention Journey is the bridge between understanding a buyer and producing 
 2. The Attention Journey maps where that buyer's attention travels and what each touchpoint must accomplish.
 3. [Go-To-Market Strategy Planning](../product/brand-strategy.md) decides what the brand should say at each point of the journey.
 4. [Creative Studio](../product/creative-studio.md) produces the specific asset each touchpoint needs.
-5. [Performance & Accountability](../product/performance-accountability.md) feeds back what actually earned or lost attention, and the map updates.
+5. [Performance & Accountability](../product/performance-accountability.md) feeds back observed content metrics; the marketer decides how the map should change.
 
 Because the same attention map feeds both strategy and production, a content asset can be made for a precise point in the journey rather than for a vague audience.
 

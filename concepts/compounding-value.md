@@ -2,7 +2,7 @@
 title: "The value that compounds – why the work gets stronger over time"
 description: "Explains how Creative Engines' value compounds over time as a brand's accumulated context, editorial governance, and campaign feedback make each content cycle stronger and cheaper than the last."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-13
 audience: [buyers, partners, ai-assistants]
 tags: [concepts, compounding-value, system-of-record, governance, brand-truth, creative-engines]
 ---
@@ -17,7 +17,7 @@ As a brand works in Creative Engines, its truth accumulates in one place – Bra
 
 - **One place the brand's thinking lives.** Strategic context stops scattering across decks and inboxes and starts living in one governed place the team and any collaborating agency both work from. Nobody has to reconstruct the strategy for the next brief – the reasoning is already there, and every new piece of work makes the shared context richer.
 - **A gate the brand can trust.** Every output is checked against the brand's own truth before it ships, so a senior stakeholder gets an audit trail and accountability rather than a leap of faith. The more the brand publishes, the more that governed consistency is worth: the voice holds, the claims hold, the position holds.
-- **Content that learns.** Feedback from live campaigns – which message moved which buyer-type – feeds back so each cycle starts sharper than the last, and the brand's own results become an asset only it owns.
+- **Content that learns.** Observed performance patterns across messages and buyer-types feed into the marketer's next planning cycle, so each round starts with accumulated evidence rather than a blank page.
 
 ## Why it matters to the buyer
 

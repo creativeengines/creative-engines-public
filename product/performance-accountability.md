@@ -1,8 +1,8 @@
 ---
 title: "Performance & Accountability"
-description: "Describes Performance & Accountability, the planned Creative Engines product area for closing the learning loop by tracing content lineage and connecting published-content performance and attribution back into future brand strategy."
+description: "Describes the Creative Engines Beta for tracking content metrics and carrying observed performance patterns into the next planning cycle."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-13
 audience: [buyers, users, partners, ai-assistants]
 tags: [product, performance-accountability, learning-loop, creative-engines]
 ---
@@ -11,12 +11,20 @@ tags: [product, performance-accountability, learning-loop, creative-engines]
 
 Performance & Accountability is the product area for learning from content work and feeding that learning back into future strategy.
 
-Creative Engines treats content as a compounding system: a content asset should create learning that improves the next brief, the next narrative, and the next go-to-market decision, rather than disappearing after it is published. Today the product keeps the structural connections – brand, Mindset, narrative, and review state – that make later learning traceable; the measurement and attribution layer that closes the loop is on the roadmap.
+The Beta tracks content metrics and builds an observed performance history across content, channels, audiences and messages. It keeps what happened connected to the strategic context behind the work, so the next planning cycle starts with accumulated evidence rather than a blank page.
+
+The marketer remains responsible for interpreting the pattern and choosing the next move. Observed performance does not prove why a result occurred, guarantee improvement or replace human judgment.
+
+## What the Beta supports
+
+- Track content metrics over time.
+- Compare observed patterns across channels, audiences and messages.
+- Keep performance connected to the context behind the work.
+- Carry the history into the next brief and planning cycle.
 
 ## On the roadmap
 
 - **A per-brand performance dashboard** showing the flow from strategy to execution – narrative and persona coverage, content velocity, channel distribution.
-- **Published-content performance** synced from web analytics, search, and social channels into unified per-piece metrics – the foundation for the learning loop.
 - **A content lineage and production audit trail** that traces a finished piece back through how it was produced.
 - **Attribution and customer-wins** that connect content to outcomes and roll up results, to show return rather than only output.
 - **An agency portfolio overview with strategy-drift alerts** – a multi-brand health view, plus alerts when production diverges from the plan.
@@ -24,9 +32,9 @@ Creative Engines treats content as a compounding system: a content asset should 
 
 ## What it will help decide
 
-Once in place, Performance & Accountability will help teams decide:
+Performance & Accountability helps teams consider:
 
-- Which content decisions should be repeated.
+- Which content decisions deserve another test.
 - Which buyer states or narratives need more support.
 - Which content work did not carry the intended strategy.
 - Where the team is producing activity without enough learning.
@@ -34,11 +42,11 @@ Once in place, Performance & Accountability will help teams decide:
 
 ## How it connects to other product areas
 
-Performance & Accountability is designed to close the loop that starts in [Brand Strategy](./brand-strategy.md), moves through [Creative Studio](./creative-studio.md), and becomes managed work in [Content Distribution](./content-distribution.md). The long-term value is in making the system smarter over time, so content outcomes inform future strategy instead of staying separate from it – strategy informs content, content meets the market, and learning informs the next strategy.
+Performance & Accountability closes the loop that starts in [Brand Strategy](./brand-strategy.md), moves through [Creative Studio](./creative-studio.md), and becomes managed work in [Content Distribution](./content-distribution.md). Strategy informs content, content meets the market, and observed performance informs the next strategy.
 
 ## Public boundary
 
-This page explains the accountability layer at a client level. It does not publish attribution models, reporting internals, private analytics design, or financial-performance logic.
+The Beta label is a real boundary. Performance history reports observed metrics and patterns; it does not claim causal attribution, automatic optimization or a guaranteed business result. The performance dashboard, causal attribution, portfolio view and exports remain on the roadmap.
 
 ## See also
 
