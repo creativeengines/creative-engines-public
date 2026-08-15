@@ -2,7 +2,7 @@
 title: "Creative Engines for tech-enabled service companies at scale"
 description: "Describes why Creative Engines fits tech-enabled mid-cap service companies ($30M-$300M revenue), covering their buyer intelligence needs, decision-makers, pain points, and content governance challenges."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, tech-enabled-mid-cap-service, buyer-intelligence, creative-engines]
 ---
@@ -79,7 +79,7 @@ The fit is strongest where the team needs to convert operational expertise, buye
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

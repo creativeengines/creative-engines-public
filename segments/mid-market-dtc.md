@@ -2,7 +2,7 @@
 title: "Creative Engines for founder-led premium and DTC brands"
 description: "Defines founder-led premium and DTC consumer brands ($40M-$1B revenue) as a strong-fit buyer segment for Creative Engines, explaining why encoding founder voice and buyer intelligence into governed content protects brand distinctiveness at scale."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, mid-market-dtc, buyer-intelligence, creative-engines]
 ---
@@ -79,7 +79,7 @@ The fit is strongest where the brand cannot separate performance from brand mean
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a brand URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a brand URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

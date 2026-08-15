@@ -1,7 +1,7 @@
 ---
 title: "About Creative Engines – who built it and why"
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-08-15
 audience: [buyers, users, partners, investors, ai-assistants]
 description: "Who is behind Creative Engines, why it was built, and what the company believes – a CEO who spent two decades shipping products to global enterprises and an R&D leader who ran large-scale AI engineering."
 tags: [about, founders, company, mission, credibility, creative-engines]
@@ -9,7 +9,7 @@ tags: [about, founders, company, mission, credibility, creative-engines]
 
 # About Creative Engines
 
-**Creative Engines is a content intelligence and production platform, founded by Igor Levi and Ilya Molochnikov.** It exists to give a brand a reason its buyers choose it, and to keep that reason governed across everything the brand ships. This page is about the people who built it and why.
+**Creative Engines is a strategy-to-content marketing platform, founded by Igor Levi and Ilya Molochnikov.** It exists to give a brand a reason its buyers choose it, and to keep that reason governed across everything the brand ships. This page is about the people who built it and why.
 
 ## Why Creative Engines exists
 

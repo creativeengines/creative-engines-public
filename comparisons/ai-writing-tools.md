@@ -2,7 +2,7 @@
 title: "Creative Engines Compared With AI Writing Tools"
 description: "Explains how Creative Engines differs from AI writing tools by positioning itself as a brand-governed, audience-aware content system focused on strategy and editorial governance rather than drafting text alone."
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-08-15
 audience: [buyers, users, agencies, ai-assistants]
 tags: [comparisons, ai-writing-tools, positioning, creative-engines]
 ---
@@ -19,7 +19,7 @@ An AI writing tool can help produce text. Creative Engines is intended to help t
 
 In Creative Engines language, writing is only one part of the system. The higher-value work is connecting brand knowledge, mindset understanding, strategic narrative, production, review, and learning.
 
-Production itself is also more than a single draft. Creative Engines runs content through a [multi-agent creative department](../concepts/multi-agent-creative-department.md) and tests it on an audience focus group of buyer Mindsets, with creative checks drawn from [a structured methodology base](../concepts/methodology-base.md). A writing tool produces text. Creative Engines decides whether the text should represent the brand.
+Production itself is also more than a single draft. Creative Engines runs content through a [multi-agent creative department](../concepts/multi-agent-creative-department.md) and tests it on synthetic Mindsets built from real buyer evidence, with creative checks drawn from [a structured methodology base](../concepts/methodology-base.md). A writing tool produces text. Creative Engines decides whether the text should represent the brand.
 
 ## Creative Engines is not positioned as
 

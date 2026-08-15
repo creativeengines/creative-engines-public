@@ -2,7 +2,7 @@
 title: "Comparisons"
 description: "Compares Creative Engines with generic LLM chat, AI writing tools, content factories, and DIY AI agent workflows, showing what its buyer Mindsets, governed review, and built-in methodology add."
 status: Current
-last_updated: 2026-06-08
+last_updated: 2026-08-15
 audience: [buyers, partners, investors, ai-assistants]
 tags: [comparisons, positioning, creative-engines]
 ---
@@ -44,7 +44,7 @@ For an advanced reader comparing tools, the difference is not "it also uses AI".
 
 - **Deep buyer understanding.** [Mindset Intelligence](../concepts/mindset-intelligence.md) builds rational-emotional buyer portraits from Jobs To Be Done and emotion research, not one-line personas.
 - **Attention mapped, not assumed.** The [Attention Journey](../concepts/attention-journey.md) maps where a buyer's attention travels across touchpoints and media channels and plans the route, instead of guessing channel by channel.
-- **A creative department, not a prompt.** The [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md) produces content through specialized agents and tests it on an audience focus group of buyer Mindsets before release. That audience test is standard in serious advertising and rare in AI content tools.
+- **A creative department, not a prompt.** The [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md) produces content through specialized agents and tests it on synthetic Mindsets before release. That audience test is standard in serious advertising and rare in AI content tools.
 - **Methodology, not vibes.** [The Methodology Base](../concepts/methodology-base.md) applies marketing science and a catalog of creative tactics as working rules, so creative work is held to a structured quality bar.
 - **Learning that compounds.** Live results feed back into the next decision, so the edge grows the longer a brand works in one place – the [performance loop](../concepts/compounding-value.md) a one-off tool cannot build.
 

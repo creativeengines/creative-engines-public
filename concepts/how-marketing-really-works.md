@@ -1,7 +1,7 @@
 ---
 title: "How marketing really works – Creative Engines' point of view"
 status: Current
-last_updated: 2026-08-13
+last_updated: 2026-08-15
 audience: [buyers, users, agencies, partners, ai-assistants]
 description: "Creative Engines' opinionated, evidence-backed view of how the marketing industry actually works today – what it rewards, where it breaks, what still matters, and how the product answers each one."
 tags: [concepts, point-of-view, marketing-industry, opinion, creative-engines]
@@ -45,7 +45,7 @@ Inside most marketing operations, no single person sees the whole board at once 
 
 A growing body of industry and academic evidence suggests a large share of online survey responses are now fraudulent or bot-generated. The research publication Greenbook reports that more than 30% of respondents were flagged as suspicious or outright fraudulent across six leading online sample sources, with modern fraud using AI-generated text and mimicking clean, human-looking answers; peer-reviewed work warns that fraudulent respondents can disproportionately threaten a study's validity. Creative Engines takes this seriously: if the panel data underneath a campaign is polluted, the strategy built on it is a guess wearing a lab coat.
 
-**How Creative Engines answers it.** The product leans on grounded voice-of-customer evidence – the language buyers leave in public – and builds its buyer [Mindsets](./mindset-intelligence.md) from it alongside the brand's own materials, then lets a team [test before they publish](./test-before-you-publish.md) against buyer-types modeled from that evidence – a check to run before spend, never a claim to have replaced real customers.
+**How Creative Engines answers it.** The product leans on grounded voice-of-customer evidence – the language buyers leave in public – and builds its buyer [Mindsets](./mindset-intelligence.md) from it alongside the brand's own materials, then lets a team [test before they publish](./test-before-you-publish.md) on synthetic Mindsets modeled from that evidence – a check to run before spend, never a claim to have replaced real customers.
 
 Sources: [Greenbook – the pervasive threat of tech-enabled fraud in survey research](https://www.greenbook.org/insights/research-methodologies/the-pervasive-threat-of-tech-enabled-fraud-in-survey-research); [peer-reviewed – fraudulent online survey respondents and study validity](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC11156680/).
 
@@ -59,7 +59,7 @@ It is fashionable to rail against AI slop, but many owners and operators cannot 
 
 Founders tend to believe building the product is the hard part. In a crowded market the harder problem is a go-to-market narrative that lands – the story that makes the product make sense to the person who has to buy it. A product shipped without that narrative is not early; it is invisible. The message is what turns a working product into a bought one, not decoration applied after the fact.
 
-**How Creative Engines answers it.** At its core, Creative Engines is a machine for generating *and validating* narratives and value propositions – exactly the problem most tools skip. It finds the real [Reason to Buy](./reason-to-buy.md) in the buyers' own words, works the narrative as a first-class object inside [Brand Strategy](../product/brand-strategy.md) rather than a line in a deck, and pressure-tests candidate narratives against a focus group of the brand's own [Mindsets](./mindset-intelligence.md) in the [Multi-Agent Creative Department](./multi-agent-creative-department.md) – so a team can [test before it publishes](./test-before-you-publish.md), before a cent of spend. That is decisive for founders and especially [startups](../solutions/startup.md), whose real bottleneck is a sharp, validated narrative, and for [founder-led and DTC brands](../solutions/mid-market-dtc.md) whose voice is the asset. A narrative with no offer behind it is just a slogan; a narrative found in evidence and installed everywhere is a position.
+**How Creative Engines answers it.** At its core, Creative Engines is a machine for generating *and validating* narratives and value propositions – exactly the problem most tools skip. It finds the real [Reason to Buy](./reason-to-buy.md) in the buyers' own words, works the narrative as a first-class object inside [Brand Strategy](../product/brand-strategy.md) rather than a line in a deck, and pressure-tests candidate narratives against synthetic [Mindsets](./mindset-intelligence.md) built from the brand's own buyer evidence in the [Multi-Agent Creative Department](./multi-agent-creative-department.md) – so a team can [test before it publishes](./test-before-you-publish.md), before a cent of spend. That is decisive for founders and especially [startups](../solutions/startup.md), whose real bottleneck is a sharp, validated narrative, and for [founder-led and DTC brands](../solutions/mid-market-dtc.md) whose voice is the asset. A narrative with no offer behind it is just a slogan; a narrative found in evidence and installed everywhere is a position.
 
 ## Marketers decide at the concept level, not by optimizing
 

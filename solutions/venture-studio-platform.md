@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for venture studios and multi-brand groups"
 description: "Explains how Creative Engines fits venture studios and multi-brand groups, using per-company Brand workspaces, mindset intelligence, and governed content distribution to compound strategy and content value across a portfolio without blending brand voices."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, venture-studio-platform, product-fit, creative-engines]
 ---
@@ -26,7 +26,7 @@ Spotting which buyer patterns are gaining momentum across the whole portfolio is
 
 ## How it works here
 
-Every portfolio company works in its own Brand workspace. A free [Brand Preview Deck](../concepts/brand-preview.md) can turn one company's URL into buyer Mindsets and sample content – a fast way to onboard a company or show a founder the fit. Company-specific Mindsets and narrative set direction; [Creative Studio](../product/creative-studio.md) produces and reviews launch and growth material; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate.
+Every portfolio company works in its own Brand workspace. A free [brand audit](../concepts/free-brand-audit.md) can turn one company's URL into buyer Mindsets and sample content – a fast way to onboard a company or show a founder the fit. Company-specific Mindsets and narrative set direction; [Creative Studio](../product/creative-studio.md) produces and reviews launch and growth material; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate.
 
 ## What compounds
 
@@ -34,7 +34,7 @@ Repeatable strategy, buyer research, and launch material become reusable process
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns one portfolio company's URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit on a single company.
+The free [brand audit](../concepts/free-brand-audit.md) turns one portfolio company's URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit on a single company.
 
 ## What the fit is not
 

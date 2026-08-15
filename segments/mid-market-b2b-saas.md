@@ -2,7 +2,7 @@
 title: "Creative Engines for growing B2B software companies"
 description: "Defines why Creative Engines fits mid-market B2B SaaS companies (roughly Series B-D, $5M-$1B ARR), covering buyer stakeholders, pain points, and how buyer intelligence keeps content distinct and credible to technical buyers."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, mid-market-b2b-saas, buyer-intelligence, creative-engines]
 ---
@@ -78,7 +78,7 @@ The fit is strongest where the team needs to turn strategy, buyer beliefs, brand
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

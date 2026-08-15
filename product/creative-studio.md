@@ -2,7 +2,7 @@
 title: "Creative Studio"
 description: "Explains how Creative Studio, the content-production layer of Creative Engines, turns brand strategy and buyer Mindsets into publish-ready assets through a staged brief-to-packaging process reviewed by an AI creative department."
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-08-15
 audience: [buyers, users, agencies, ai-assistants]
 tags: [product, creative-studio, content-production, strategy-grounded-content, creative-engines]
 ---
@@ -33,9 +33,9 @@ Creative Engines runs production as a set of coordinated roles with distinct jud
 - A **Creative Director** that holds the strategic intent and selects the strongest work.
 - **Lead Copywriters** that generate and refine competing directions through different creative lenses.
 - A **Brand Guardian** that reviews for brand safety – what the brand may and may not say.
-- An **audience focus group** built from the brand's own buyer Mindsets.
+- **Synthetic Mindsets** built from the brand's own buyer evidence.
 
-The reviewers plug in at several points along the way, not just at the end. The **audience focus group** reacts to the work across rounds – from early concepts onward, and again as a final pass on the chosen version – so weak concepts are killed early, stronger ones are developed, and the piece that ships is the one most likely to resonate with the target audience. The **Brand Guardian** keeps every piece strictly within the brand's safety rules throughout.
+The reviewers plug in at several points along the way, not just at the end. The **synthetic Mindsets** react to the work across rounds – from early concepts onward, and again as a final pass on the chosen version – so weak concepts are killed early, stronger ones are developed, and the piece that ships is the one most likely to resonate with the target audience. The **Brand Guardian** keeps every piece strictly within the brand's safety rules throughout.
 
 What a user receives is not a first draft. It is the output of a contested process – many directions generated, weak ones rejected, strong ones refined, and the work tested against the audience before it is allowed to represent the brand. Testing creative on the audience before it ships is standard in serious advertising and rare in AI content tools. The model is described in the [Multi-Agent Creative Department](../concepts/multi-agent-creative-department.md).
 

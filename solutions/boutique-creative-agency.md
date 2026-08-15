@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for boutique creative and strategy agencies"
 description: "Explains how Creative Engines fits boutique creative and strategy agencies, using mindset intelligence, isolated brand workspaces, and anti-slop review to protect taste-led craft while scaling founder judgment."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, boutique-creative-agency, product-fit, creative-engines]
 ---
@@ -26,7 +26,7 @@ Performance attribution is not the headline for a craft-led shop; the lead value
 
 ## How it works here
 
-Each client works in its own Brand workspace. A white-label [Brand Preview Deck](../concepts/brand-preview.md) turns a prospect's URL into buyer Mindsets and sample content for a new-business conversation. Client Mindsets and an approved narrative set direction; [Creative Studio](../product/creative-studio.md) produces and reviews the work against the agency's voice; and approved work runs through [Content Distribution](../product/content-distribution.md) with a human gate. The founder stays the taste authority while the system carries the routine review.
+Each client works in its own Brand workspace. A white-label [free brand audit](../concepts/free-brand-audit.md) turns a prospect's URL into buyer Mindsets and sample content for a new-business conversation. Client Mindsets and an approved narrative set direction; [Creative Studio](../product/creative-studio.md) produces and reviews the work against the agency's voice; and approved work runs through [Content Distribution](../product/content-distribution.md) with a human gate. The founder stays the taste authority while the system carries the routine review.
 
 ## What compounds
 
@@ -34,7 +34,7 @@ The agency's taste and method stop living only in senior heads and accumulate as
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md), white-labeled to the agency, turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a distinctive artifact for a pitch.
+The free [brand audit](../concepts/free-brand-audit.md), white-labeled to the agency, turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a distinctive artifact for a pitch.
 
 ## What the fit is not
 

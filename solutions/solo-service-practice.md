@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for fractional CMOs and solo marketing practices"
 description: "Explains how Creative Engines fits fractional CMOs and solo marketing practices, using per-client Brand workspaces, Mindset Intelligence, and Brand Strategy to deliver senior-looking, on-brand work across multiple clients without the operator becoming a bottleneck."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, solo-service-practice, product-fit, creative-engines]
 ---
@@ -26,7 +26,7 @@ Attribution that shows which strategy drove revenue – the evidence that justif
 
 ## How it works here
 
-Each client, and the operator's own brand, works in its own Brand workspace. A free [Brand Preview Deck](../concepts/brand-preview.md) can turn a prospect's URL into buyer Mindsets and sample content to win the engagement. Client Mindsets and an approved narrative set direction; [Creative Studio](../product/creative-studio.md) produces briefs, drafts, and client-facing material checked for voice; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns.
+Each client, and the operator's own brand, works in its own Brand workspace. A free [brand audit](../concepts/free-brand-audit.md) can turn a prospect's URL into buyer Mindsets and sample content to win the engagement. Client Mindsets and an approved narrative set direction; [Creative Studio](../product/creative-studio.md) produces briefs, drafts, and client-facing material checked for voice; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns.
 
 ## What compounds
 
@@ -34,7 +34,7 @@ Each client's context and the operator's own method accumulate as reusable, gove
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a fast, senior-looking artifact to win an engagement.
+The free [brand audit](../concepts/free-brand-audit.md) turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a fast, senior-looking artifact to win an engagement.
 
 ## What the fit is not
 

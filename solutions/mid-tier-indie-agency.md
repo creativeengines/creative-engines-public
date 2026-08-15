@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for independent agencies"
 description: "Explains how Creative Engines fits independent agencies by encoding a founder's methodology into reusable Brand Strategy, enabling contested multi-agent creative review, and governing content across multiple client brands."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, mid-tier-indie-agency, product-fit, creative-engines]
 ---
@@ -20,7 +20,7 @@ For an independent agency, the sharp value sits in a few specific parts of the p
 - **Junior work rises to the senior bar, without the founder in every review** – senior thinking carries into every client engagement through an editable strategy and narrative workbench, so the team doesn't wait on the founder to re-explain it. Grounded in [Brand Strategy](../product/brand-strategy.md).
 - **[Creative Studio](../product/creative-studio.md)** – a contested, multi-agent process lets the team explore and stress-test competing directions before anything reaches a client, so work stays distinctive rather than same-sounding.
 - **[Content Distribution](../product/content-distribution.md)** – plan, schedule, and govern content across several client brands from one place, so the agency runs more accounts at the same quality bar.
-- **White-label [Brand Preview](../concepts/brand-preview.md)** – a prospect's URL becomes a branded intelligence deck that pre-sells the agency's method in the pitch.
+- **White-label [free brand audit](../concepts/free-brand-audit.md)** – a prospect's URL becomes a branded intelligence deck that pre-sells the agency's method in the pitch.
 
 Deep buyer research is infrastructure here rather than the headline; the lead value is strategy encoded and production scaled.
 
@@ -34,7 +34,7 @@ Client intelligence, recurring objections, and the agency's method accumulate as
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md), white-labeled to the agency, turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a distinctive artifact for a pitch.
+The free [brand audit](../concepts/free-brand-audit.md), white-labeled to the agency, turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a distinctive artifact for a pitch.
 
 ## What the fit is not
 

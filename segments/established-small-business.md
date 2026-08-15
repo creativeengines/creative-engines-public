@@ -2,7 +2,7 @@
 title: "Creative Engines for established small businesses"
 description: "Defines established small businesses ($1M-$10M revenue, 5-30 employees) as a strong-fit buyer segment for Creative Engines, detailing their decision-makers, pain points, and buyer intelligence needs."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, established-small-business, buyer-intelligence, creative-engines]
 ---
@@ -79,7 +79,7 @@ The fit is strongest where an established small business needs to make strategic
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
 
 ## Public boundary
 

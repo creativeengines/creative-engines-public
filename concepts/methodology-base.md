@@ -2,7 +2,7 @@
 title: "The Methodology Base"
 description: "Describes the methodology base behind Creative Engines - a curated body of marketing science and jobs to be done, neuromarketing, and creative-tactic frameworks applied as working rules, with sources and catalogs kept private."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, investors, strategists, ai-assistants]
 tags: [concepts, methodology, neuromarketing, jobs-to-be-done, creative-tactics, creative-engines]
 ---
@@ -40,7 +40,7 @@ These references are not reading material that sits next to the product. They ar
 
 - Review criteria that separate distinctive ideas from obvious category language.
 - Creative checks that the [multi-agent creative department](./multi-agent-creative-department.md) applies during production.
-- Emotional and comprehension tests run by the audience focus group.
+- Emotional and comprehension tests run by the synthetic Mindsets.
 - Channel and journey logic that informs the [Attention Journey](./attention-journey.md).
 
 The public point is simple. Creative Engines does not ask AI to "be creative" in a vague way. It holds creative and strategic work to a structured quality bar drawn from marketing science.

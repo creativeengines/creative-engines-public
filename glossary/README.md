@@ -1,8 +1,8 @@
 ---
 title: "Glossary"
-description: "A public glossary defining Creative Engines' recurring terms - from Brand DNA and Mindset to Narrative, UVP, and AIDAL - covering audience, strategy, and content production concepts."
+description: "A public glossary defining Creative Engines' recurring terms - from Brand DNA, Mindset and synthetic Mindsets to Believability, Narrative, UVP and AIDAL - covering audience, strategy, and content production concepts."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, users, contractors, ai-assistants]
 tags: [glossary, definitions, creative-engines]
 ---
@@ -13,7 +13,9 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 ## Terms
 
-**Creative Engines** - A content intelligence and production platform for strategy-grounded, audience-aware, brand-governed content.
+**Creative Engines** - A strategy-to-content marketing platform: a team grounds its strategy in evidence anyone can open, tests a message before publishing it, and publishes content that holds the approved direction.
+
+**Ground → Test → Publish** - The three-step plan Creative Engines states publicly. *Ground* builds the strategy on the brand's own material and real buyer evidence with openable sources; *Test* puts a candidate message in front of synthetic Mindsets before it ships; *Publish* turns the approved direction into content a person reviews before it represents the brand. The three names are the compact public form; each opens into a fuller set of steps in the product.
 
 **Brand** - A scoped product workspace for one company, product, or client account.
 
@@ -22,8 +24,6 @@ This glossary defines recurring public terms used across Creative Engines materi
 **Brand DNA** - A brand's foundational strategic profile: its value proposition, positioning, brand voice, core values, and content requirements. Extracted from a brand's website (or documents) and then human-edited – the source of truth the rest of the work draws on.
 
 **Brand Knowledge** - The product area that helps a team organize and reuse approved brand context.
-
-**Brand Preview** - A public-facing first-read artifact that helps a buyer, agency, or partner understand a brand through the Creative Engines lens.
 
 **Brand Strategy** - The product area that helps a team define what the brand stands for, who it serves, and what it should say.
 
@@ -71,11 +71,17 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **COM-B** - A behavioral framework reading whether a buyer can act (capability), has the chance to act (opportunity), and wants to act (motivation). Used as one shape for buyer Mindset profiles.
 
-**Audience focus group** - A focus group built from a brand's own buyer Mindsets, used inside production to check what real audience members understood, felt, and found unclear before content is published.
+**Synthetic Mindset** - A buyer model built from real public buyer evidence, used to react to a message before it is published. Synthetic Mindsets are models, never real customers, survey respondents, or interviewees – the word *synthetic* carries that honesty, and a person still approves what survived.
+
+**Synthetic-Mindset panel** _(previously: audience focus group)_ - The set of synthetic Mindsets a candidate message is put in front of inside production, to see what was understood, what was felt, and what did not land, before anything is published.
+
+**Believability** - The reading each synthetic Mindset gives a piece: how convincing that Mindset found it. The reading is comparative and exists to help a team choose between candidate messages. It is never a prediction of response, conversion, or revenue.
+
+**Free Brand Audit** - Creative Engines' public entry point: a brand's public website goes in, and a structured first read of that brand and its buyers comes back by email, before any sales conversation. It works on the reader's own brand or a client's. The artifact that arrives is called the Preview Deck in conversation – the audit is the action, the Preview Deck is what is delivered.
 
 **Methodology base** - The curated body of marketing science and creative methodology Creative Engines applies as working rules across audience understanding, strategy, attention planning, and production.
 
-**Multi-Agent Creative Department** - A set of specialized agents in coordinated roles that produce content in Creative Studio: a Creative Director, Lead Copywriters, a Brand Guardian, and an audience focus group, with a human approval gate.
+**Multi-Agent Creative Department** - A set of specialized agents in coordinated roles that produce content in Creative Studio: a Creative Director, Lead Copywriters, a Brand Guardian, and a synthetic-Mindset panel, with a human approval gate.
 
 **Mindset** - A rational-emotional portrait of a person inside a segment: their role, the job they are trying to get done, what they believe, what they fear, what holds them back, and what progress would feel like. The needs-and-behavior axis of the audience model, shaped by the COM-B behavioral frame (capability, opportunity, motivation). One Mindset can span several segments.
 

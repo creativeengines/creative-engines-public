@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for growing B2B software companies"
 description: "Explains how Creative Engines fits growing B2B software companies, using mindset intelligence and Brand Knowledge to ground content in approved evidence for technical buyers and defensible competitive positioning."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, mid-market-b2b-saas, product-fit, creative-engines]
 ---
@@ -25,7 +25,7 @@ Performance attribution that ties each asset to pipeline is [on the roadmap](../
 
 ## How it works here
 
-A team starts with a free [Brand Preview Deck](../concepts/brand-preview.md) from a company URL. Inside a Brand workspace, the buying committee's Mindsets set direction; Creative Studio produces pipeline, product, and sales content grounded in approved knowledge, tested against a focus group of those Mindsets and checked by the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs the approved work as governed content pillars and ad campaigns with a human gate before publication.
+A team starts with a free [brand audit](../concepts/free-brand-audit.md) from a company URL. Inside a Brand workspace, the buying committee's Mindsets set direction; Creative Studio produces pipeline, product, and sales content grounded in approved knowledge, tested against those Mindsets in synthetic form and checked by the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs the approved work as governed content pillars and ad campaigns with a human gate before publication.
 
 ## What compounds
 
@@ -33,7 +33,7 @@ The company's positioning, product knowledge, and buyer understanding accumulate
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit before a sales conversation.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit before a sales conversation.
 
 ## What the fit is not
 

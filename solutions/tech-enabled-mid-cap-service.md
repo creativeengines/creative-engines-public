@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for tech-enabled service companies at scale"
 description: "Explains why Creative Engines fits tech-enabled mid-cap service companies best, using mindset intelligence and brand knowledge to turn operational expertise into credible, grounded market positioning."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, tech-enabled-mid-cap-service, product-fit, creative-engines]
 ---
@@ -25,7 +25,7 @@ Evidence that specific narratives drive margin-accretive acquisition is [on the 
 
 ## How it works here
 
-A team can start with a free [Brand Preview Deck](../concepts/brand-preview.md). Inside a Brand workspace, expertise held across engineering, operations, and customer success is organized into approved knowledge; Mindsets set direction; [Creative Studio](../product/creative-studio.md) produces market-facing assets tested on a focus group of Mindsets and checked by the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs the approved work as governed content pillars and ad campaigns with a human gate.
+A team can start with a free [brand audit](../concepts/free-brand-audit.md). Inside a Brand workspace, expertise held across engineering, operations, and customer success is organized into approved knowledge; Mindsets set direction; [Creative Studio](../product/creative-studio.md) produces market-facing assets tested on synthetic Mindsets and checked by the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs the approved work as governed content pillars and ad campaigns with a human gate.
 
 ## What compounds
 
@@ -33,7 +33,7 @@ Operational knowledge stops living only in meetings and private documents and be
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## What the fit is not
 

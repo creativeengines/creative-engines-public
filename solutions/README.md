@@ -2,7 +2,7 @@
 title: "Solutions"
 description: "Explains how Creative Engines fits distinct market segments, from B2B software companies to agencies, by reordering the same core strengths around each buyer type's situation and the reason its buyers choose it."
 status: Current
-last_updated: 2026-07-24
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, segment-solutions, product-fit, creative-engines]
 ---
@@ -44,7 +44,7 @@ The pages do not expose internal priority markers, protected methods, implementa
 
 Across every segment, the product fit follows a consistent shape:
 
-- **A free Brand Preview Deck is the entry point.** A prospect drops in a company URL and receives an auto-generated brand-intelligence deck – the brand's buyer Mindsets, contrasting buyer portraits, and a sample narrative with sample content – before any sales conversation. See [Brand Preview](../concepts/brand-preview.md).
+- **A free brand audit is the entry point.** A prospect drops in a company URL and receives an auto-generated brand-intelligence deck – the brand's buyer Mindsets, contrasting buyer portraits, and a sample narrative with sample content – before any sales conversation. See [Free Brand Audit](../concepts/free-brand-audit.md).
 - **Depth comes from the Mindsets.** Each segment's content is built on deep rational-emotional buyer [Mindsets](../concepts/mindset-intelligence.md) – jobs, forces, emotions, sensitivities – not persona labels.
 - **Agencies operate it; the brand owns its truth.** For agency and studio segments, the lead-facing deck can carry the agency's own logo and colors, and each client works in a separate, governed brand workspace – so the agency operates the platform while each client's brand truth stays isolated.
 - **Brand-safety-sensitive buyers get control.** A mandatory human approval gate before publication, plus per-stage automatic, hybrid, or manual execution modes, fit brand-safety-sensitive segments.
