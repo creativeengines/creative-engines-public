@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for venture studios and multi-brand groups"
 description: "Explains how Creative Engines fits venture studios and multi-brand groups, using per-company Brand workspaces, mindset intelligence, and governed content distribution to compound strategy and content value across a portfolio without blending brand voices."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, venture-studio-platform, product-fit, creative-engines]
 ---
@@ -35,12 +35,6 @@ Repeatable strategy, buyer research, and launch material become reusable process
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md) turns one portfolio company's URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit on a single company.
-
-## What the fit is not
-
-- Not a replacement for the platform team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer that forces every company into one voice.
 
 ## Public boundary
 

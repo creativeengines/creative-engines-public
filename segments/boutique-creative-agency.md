@@ -2,7 +2,7 @@
 title: "Creative Engines for boutique creative and strategy agencies"
 description: "Explains why Creative Engines fits boutique creative and strategy agencies (roughly 5-30 people), tying buyer intelligence and governed brand voice to founder-led judgment across client work and pitching."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, boutique-creative-agency, buyer-intelligence, creative-engines]
 ---
@@ -64,12 +64,6 @@ The founder or senior strategic leader usually makes the call, but the creative 
 - Holds positioning and voice consistent from brief to draft to review, so the agency's distinctive style survives every handoff and high-output run rather than drifting toward a generic AI look.
 - Keeps a human review gate that protects senior judgment, so the team scales output without lowering the bar.
 - Works as one governed surface above the existing stack rather than another disconnected point tool, giving the agency reusable thinking it can apply across clients.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 

@@ -2,7 +2,7 @@
 title: "Creative Engines for venture studios and multi-brand groups"
 description: "Explains how Creative Engines fits venture studios and multi-brand groups, acting as a portfolio-wide buyer-intelligence layer that keeps each portfolio company's voice distinct while sharing one governed operating layer."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, venture-studio-platform, buyer-intelligence, creative-engines]
 ---
@@ -64,12 +64,6 @@ Platform leadership usually sponsors the decision, with portfolio founders valid
 - Holds positioning and brand voice consistent from brief to draft to review for every company, so messaging survives the handoffs across a busy platform team.
 - Keeps a human review gate that protects founder and platform judgment, so the studio scales support across many companies without lowering the bar.
 - Works as one governed surface above the existing stack rather than another disconnected point tool, so value compounds across the portfolio instead of fragmenting.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 

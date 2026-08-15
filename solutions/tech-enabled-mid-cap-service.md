@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for tech-enabled service companies at scale"
 description: "Explains why Creative Engines fits tech-enabled mid-cap service companies best, using mindset intelligence and brand knowledge to turn operational expertise into credible, grounded market positioning."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, tech-enabled-mid-cap-service, product-fit, creative-engines]
 ---
@@ -34,12 +34,6 @@ Operational knowledge stops living only in meetings and private documents and be
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from operational expertise and buyer understanding.
 
 ## Public boundary
 

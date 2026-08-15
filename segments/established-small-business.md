@@ -2,7 +2,7 @@
 title: "Creative Engines for established small businesses"
 description: "Defines established small businesses ($1M-$10M revenue, 5-30 employees) as a strong-fit buyer segment for Creative Engines, detailing their decision-makers, pain points, and buyer intelligence needs."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, established-small-business, buyer-intelligence, creative-engines]
 ---
@@ -66,12 +66,6 @@ The owner or operating leader usually decides, often influenced by a fractional 
 - Grounds drafts in approved brand and strategy context that follows the work, so the message survives the handoff between the owner, a fractional leader, a small team, and outside specialists.
 - Keeps a human review gate that preserves senior judgment, so the business scales output without senior people rewriting everything.
 - Works as one governed surface rather than a heavy enterprise system, which fits a small team that already knows content matters.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 

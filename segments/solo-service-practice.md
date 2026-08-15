@@ -2,7 +2,7 @@
 title: "Creative Engines for fractional CMOs and solo marketing practices"
 description: "Explains how Creative Engines fits fractional CMOs, solo agency founders, and independent consultants who need buyer intelligence and voice-consistent content across multiple clients without diluting their expert judgment."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, solo-service-practice, buyer-intelligence, creative-engines]
 ---
@@ -65,12 +65,6 @@ The operator decides directly, usually after seeing whether the system preserves
 - Holds positioning and voice consistent from brief to draft to review across several clients, so each one keeps its own distinct voice rather than blending into a default-model tone.
 - Keeps a human review gate that protects the operator's judgment, so the practice scales output without lowering its standard.
 - Works as one governed surface above the existing stack rather than another disconnected point tool, which suits a single operator coordinating parallel clients.
-
-## What the fit is not
-
-- Not a replacement for the operator's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from client context and buyer understanding.
 
 ## Strategic interpretation
 

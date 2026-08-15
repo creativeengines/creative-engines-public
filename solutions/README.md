@@ -2,7 +2,7 @@
 title: "Solutions"
 description: "Explains how Creative Engines fits distinct market segments, from B2B software companies to agencies, by reordering the same core strengths around each buyer type's situation and the reason its buyers choose it."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, segment-solutions, product-fit, creative-engines]
 ---
@@ -13,7 +13,7 @@ This folder explains how Creative Engines serves specific public target segments
 
 The structure is segment-first. Each page maps one segment to what it gains from Creative Engines, the modules and capabilities that matter most to it, and how the product serves it today. The pages are deliberately polarized: they lead with the few parts of the platform that carry the value for that segment, rather than listing every module. Everything ladders into one outcome – a [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words, pressure-tested before spend, and carried across everything the brand ships.
 
-Creative Engines is most relevant when a team needs more than faster writing. It is relevant when content depends on strategy, buyer understanding, brand context, editorial governance, and repeated execution. Each solution page has a companion [segment page](../segments/README.md) that describes the buyer in full. These segments are where the fit is sharpest, not the boundary of who Creative Engines serves – capable marketing teams beyond them are welcome too.
+Creative Engines is most relevant when a team needs more than faster writing. It is relevant when content depends on strategy, buyer understanding, brand context, editorial governance, and repeated execution. Each solution page has a companion [segment page](../segments/README.md) that describes the buyer in full. These segments are where the fit is sharpest.
 
 ## Fits best
 
@@ -33,6 +33,14 @@ Creative Engines is most relevant when a team needs more than faster writing. It
 - [Post-earliest-stage startups](./startup.md)
 - [AI-native creative studios](./ai-native-studio.md)
 - [Agency holding groups](./holdco-agency-group.md)
+
+## What the fit is not, for any segment
+
+Three boundaries hold across every page in this folder, so they are stated once here rather than repeated on each page:
+
+- Not a replacement for a team's strategy, creative judgment, or professional review.
+- Not a claim that more content is automatically better.
+- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## How to read these pages
 

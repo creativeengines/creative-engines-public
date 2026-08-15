@@ -2,7 +2,7 @@
 title: "Segments"
 description: "Outlines which marketing teams Creative Engines fits best - from mid-market B2B SaaS to boutique agencies - grouped by client type rather than pricing tier or buyer intelligence targeting."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, buyer-intelligence, creative-engines]
 ---
@@ -19,7 +19,7 @@ The fastest way to see how Creative Engines reads a brand is the free [brand aud
 
 However a team comes in, everything ladders into one universal promise – you find the reason your buyers are likely choosing you, pressure-test it before you spend, and carry the reason that held up into what you ship. That promise is expressed for a handful of core situations: a mid-market brand marketing team, a small agency or independent marketer running several clients, a strategy-led boutique agency, a fractional CMO, a founder or small business, and a performance team proving a message in market. The firmographic groups below are the "who" view of that same portfolio.
 
-These are where Creative Engines fits most naturally, not the limit of who it serves – capable marketing teams beyond the situations named here are welcome too.
+These are the situations where the fit is sharpest.
 
 ## Fits best
 
@@ -39,6 +39,14 @@ These are where Creative Engines fits most naturally, not the limit of who it se
 - [Post-earliest-stage startups](./startup.md) – need sharper positioning and content discipline while product and market are still moving.
 - [AI-native creative studios](./ai-native-studio.md) – studios built around AI that still need strategy and buyer understanding above generation.
 - [Agency holding groups](./holdco-agency-group.md) – where Creative Engines fits as an enabling layer across teams.
+
+## What the fit is not, for any segment
+
+Three boundaries hold across every page in this folder, so they are stated once here rather than repeated on each page:
+
+- Not a replacement for a team's strategy, creative judgment, or professional review.
+- Not a claim that more content is automatically better.
+- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Not a fit
 

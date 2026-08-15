@@ -2,7 +2,7 @@
 title: "Creative Engines for independent agencies"
 description: "This page describes why Creative Engines fits mid-tier independent agencies, framing it as a buyer intelligence and governance layer that preserves strategic distinctiveness and brand voice across pitch, creative, and account teams."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, mid-tier-indie-agency, buyer-intelligence, creative-engines]
 ---
@@ -66,12 +66,6 @@ The decision is founder-led or strategy-led, but creative authority and finance 
 - Holds positioning and brand voice consistent from brief to draft to handoff, so the agency's distinctiveness survives every step rather than drifting toward generic output.
 - Keeps a human review gate that protects creative and strategic judgment, so the agency scales quality without lowering the craft bar.
 - Works as one governed surface above the existing stack rather than another disconnected point tool that needs constant upkeep.
-
-## What the fit is not
-
-- Not a replacement for the agency's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 
