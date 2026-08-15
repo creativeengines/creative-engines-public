@@ -2,7 +2,7 @@
 title: "Mindset Intelligence"
 description: "Explains Creative Engines' Mindset Intelligence: buyer segments and detailed Mindset profiles built on psychographic segmentation across beliefs, fears, and jobs to be done, so content addresses a real buyer state, not a label."
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-08-15
 audience: [buyers, users, partners, ai-assistants]
 tags: [product, mindset-intelligence, buyer-segments, buyer-mindsets, creative-engines]
 ---
@@ -40,7 +40,7 @@ Mindsets can be informed by first- and third-party user-generated evidence – t
 - **Create a Mindset by hand** – capture an audience from the user's own hypothesis and the personal insights they have gathered talking to real people, when that audience is already understood cold.
 - **Structured demographics** per Mindset (age band, role, education, income band, location signals) alongside the prose profile.
 - **Regenerate a persona image**, and **archive, restore, or safely delete** Mindsets to keep the library clean.
-- **A public Mindset lead-magnet** – a no-login path where someone drops a website URL and gets back a personalized read on their brand's Mindsets, delivered through the [Brand Preview Deck](../concepts/brand-preview.md).
+- **A public Mindset lead-magnet** – a no-login path where someone drops a website URL and gets back a personalized read on their brand's Mindsets, delivered through the [free brand audit](../concepts/free-brand-audit.md).
 - **A Mindset preview report (PDF)** that presents a brand's top Mindsets as a polished, shareable artifact.
 
 ## On the roadmap
@@ -58,7 +58,7 @@ Mindsets can be informed by first- and third-party user-generated evidence – t
 
 ## How it connects to other product areas
 
-Mindset Intelligence supports [Brand Strategy](./brand-strategy.md) by clarifying who the brand is trying to move and what those buyers need to believe. It supports [Creative Studio](./creative-studio.md) by giving the content system a concrete audience lens before writing starts, and by supplying the audience focus group that reviews finished work. It supports [Content Distribution](./content-distribution.md) by helping pillars, campaigns, and tasks stay attached to a buyer state rather than a vague audience label. The same segments and Mindsets also anchor the [Attention Journey](../concepts/attention-journey.md), which maps where each audience's attention travels across touchpoints and channels.
+Mindset Intelligence supports [Brand Strategy](./brand-strategy.md) by clarifying who the brand is trying to move and what those buyers need to believe. It supports [Creative Studio](./creative-studio.md) by giving the content system a concrete audience lens before writing starts, and by supplying the synthetic Mindsets that review finished work. It supports [Content Distribution](./content-distribution.md) by helping pillars, campaigns, and tasks stay attached to a buyer state rather than a vague audience label. The same segments and Mindsets also anchor the [Attention Journey](../concepts/attention-journey.md), which maps where each audience's attention travels across touchpoints and channels.
 
 ## Public boundary
 

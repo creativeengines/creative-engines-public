@@ -2,7 +2,7 @@
 title: "Mindset Intelligence"
 description: "Mindset Intelligence is Creative Engines' concept for understanding buyers through belief, fear, and jobs to be done rather than demographic or firmographic labels alone."
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-08-15
 audience: [buyers, users, partners, ai-assistants]
 tags: [concepts, mindset-intelligence, buyer-beliefs, creative-engines]
 ---
@@ -71,7 +71,7 @@ Reading buyers by belief rather than category changes how a brand segments and s
 
 A Mindset is the starting node of a longer route. Once the buyer's state is understood, Creative Engines is designed to map where that buyer's attention travels in the [Attention Journey](./attention-journey.md), use it to plan strategy, and produce content for each touchpoint.
 
-The same Mindsets also do something most tools never attempt: they form the audience [focus group](./multi-agent-creative-department.md) that reviews content before release. The buyer understanding that begins the work also tests the work, by reacting to what was understood, what was felt, and what was unclear.
+The same Mindsets also do something most tools never attempt: the same Mindsets become the [synthetic Mindsets](./multi-agent-creative-department.md) that review content before release. The buyer understanding that begins the work also tests the work, by reacting to what was understood, what was felt, and what was unclear.
 
 ## Source inputs
 

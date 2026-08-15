@@ -2,7 +2,7 @@
 title: "Creative Engines for established mid-sized and enterprise brands"
 description: "Defines the mid-cap and enterprise brand segment - multi-market companies with real marketing operations but no bespoke brand-intelligence system - and explains why Creative Engines fits their buyer intelligence and governance needs."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, mid-cap-enterprise-brand, buyer-intelligence, creative-engines]
 ---
@@ -82,7 +82,7 @@ The fit is strongest where the team needs to turn strategy, buyer beliefs, brand
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

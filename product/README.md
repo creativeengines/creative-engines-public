@@ -2,14 +2,14 @@
 title: "Product"
 description: "Overview of Creative Engines' product map, explaining how mindset intelligence, brand knowledge, content production, distribution, and performance modules connect into one governed content workflow."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, users, partners, ai-assistants]
 tags: [product, modules, product-map, creative-engines]
 ---
 
 # Product
 
-Creative Engines is a content intelligence and production platform for teams that want AI-assisted content to stay connected to strategy, buyer understanding, brand knowledge, editorial control, and learning.
+Creative Engines is a strategy-to-content marketing platform for teams that want AI-assisted content to stay connected to strategy, buyer understanding, brand knowledge, editorial control, and learning.
 
 The product is a connected operating surface. A team defines the brand, organizes source knowledge, clarifies buyer segments and Mindsets, plans the go-to-market strategy, produces content, manages distribution, and learns from what happens next.
 

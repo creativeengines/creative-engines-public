@@ -2,7 +2,7 @@
 title: "Strategy-to-Content Pipeline"
 description: "Describes how Creative Engines connects market and mindset intelligence to strategy, creative production, distribution, and performance feedback in one continuous pipeline instead of separate disconnected tools."
 status: Current
-last_updated: 2026-08-13
+last_updated: 2026-08-15
 audience: [buyers, users, partners, investors, ai-assistants]
 tags: [concepts, pipeline, end-to-end, customer-journey, creative-engines]
 ---
@@ -19,7 +19,7 @@ The individual steps exist in other tools. The difference in Creative Engines is
 2. **Mindset Intelligence.** Build the rational-emotional portraits of the brand's buyers: what they believe, the job they are trying to get done, what they fear, and what they feel. See [Mindset Intelligence](../product/mindset-intelligence.md).
 3. **Attention Journey.** The approach of mapping where each Mindset's attention travels across touchpoints and 74 media channels, and planning the route the way a navigation system plans a drive. See [Attention Journey](./attention-journey.md).
 4. **Go-To-Market Strategy.** Decide what the brand should say, to which Mindset, at each point on the journey. See [Go-To-Market Strategy Planning](../product/brand-strategy.md).
-5. **Creative Studio.** A [multi-agent creative department](./multi-agent-creative-department.md) produces the asset each touchpoint needs, tests it against a focus group of buyer Mindsets, and passes it through a human gate. See [Creative Studio](../product/creative-studio.md).
+5. **Creative Studio.** A [multi-agent creative department](./multi-agent-creative-department.md) produces the asset each touchpoint needs, tests it on synthetic Mindsets, and passes it through a human gate. See [Creative Studio](../product/creative-studio.md).
 6. **Content Distribution.** The approved asset becomes planned, scheduled work across pillars, campaigns, calendars, and channels. See [Content Distribution](../product/content-distribution.md).
 7. **Performance & Accountability.** Observed content metrics and patterns feed into the next planning cycle. The marketer decides whether the Mindsets, Attention Journey or strategy should change. See [Performance & Accountability](../product/performance-accountability.md).
 
@@ -32,7 +32,7 @@ Creative Engines keeps one thread running through the whole route:
 - The Mindset that defines the audience also shapes the Attention Journey.
 - The same Attention Journey guides what the strategy says and where.
 - The strategy feeds the creative department that produces the asset.
-- The same Mindsets that started the work review it in the focus group.
+- The same Mindsets that started the work review it in synthetic form.
 - Performance history informs the marketer's next decision, and the cycle repeats with better information.
 
 Because the buyer understanding is never thrown away between steps, content arrives on-strategy by construction rather than by reminder.

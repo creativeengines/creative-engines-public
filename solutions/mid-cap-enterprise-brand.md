@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for established mid-sized and enterprise brands"
 description: "Explains how Creative Engines fits established mid-sized and enterprise brands, using mindset intelligence and a governed brand strategy to keep messaging consistent across teams and markets."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, mid-cap-enterprise-brand, product-fit, creative-engines]
 ---
@@ -25,7 +25,7 @@ Pipeline attribution that ties spend to revenue per narrative is the evidence th
 
 ## How it works here
 
-A team can start with a free [Brand Preview Deck](../concepts/brand-preview.md). Each brand, market, or business unit works in its own Brand workspace, so context never blends. Prioritized Mindsets and one governed narrative set direction; [Creative Studio](../product/creative-studio.md) produces the assets each market needs, tested on a focus group of Mindsets and checked by the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs the approved work as governed content pillars and ad campaigns with a mandatory human gate.
+A team can start with a free [brand audit](../concepts/free-brand-audit.md). Each brand, market, or business unit works in its own Brand workspace, so context never blends. Prioritized Mindsets and one governed narrative set direction; [Creative Studio](../product/creative-studio.md) produces the assets each market needs, tested on synthetic Mindsets and checked by the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs the approved work as governed content pillars and ad campaigns with a mandatory human gate.
 
 ## What compounds
 
@@ -33,7 +33,7 @@ The more the brand publishes, the more the governed consistency is worth: the vo
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit across a multi-market brand.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit across a multi-market brand.
 
 ## What the fit is not
 

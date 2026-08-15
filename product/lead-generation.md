@@ -1,8 +1,8 @@
 ---
 title: "Lead Generation"
-description: "Explains how Creative Engines turns a website URL into a personalized Brand Preview Deck, plus a lead-capture widget, agency white-labeling, and a lead inbox that qualify prospects before a sales call."
+description: "Explains how Creative Engines turns a website URL into a personalized free brand audit, plus a lead-capture widget, agency white-labeling, and a lead inbox that qualify prospects before a sales call."
 status: Current
-last_updated: 2026-07-02
+last_updated: 2026-08-15
 audience: [buyers, partners, agencies, ai-assistants]
 tags: [product, lead-generation, buyer-handoff, creative-engines]
 ---
@@ -17,7 +17,7 @@ This area is not only about capturing contact information. It gives a prospect a
 
 - **An embeddable lead-capture widget** any account can mint and paste onto any site as a script or a ready-made HTML form; a visitor enters a website URL and email, and the capture kicks off automatic brand research. A snippet generator produces both embed types with one click, so a non-technical operator can deploy it anywhere.
 - **Automatic brand provisioning** – each lead spawns a fresh brand workspace named from the submitted domain, with research already started, so no lead arrives cold.
-- **The Brand Preview Deck** – for each lead, Creative Engines reads the brand's site, generates audience Mindsets, selects two, writes a strategic narrative for each, produces a sample post and a sample carousel, assembles a designed PDF, and emails it – a personalized strategy-plus-samples preview delivered without a call. This is the universal lead magnet.
+- **The free brand audit** – for each lead, Creative Engines reads the brand's site, generates audience Mindsets, selects two, writes a strategic narrative for each, produces a sample post and a sample carousel, assembles a designed PDF – the artifact conversation still calls the Preview Deck – and emails it: a personalized strategy-plus-samples read delivered without a call. This is the universal lead magnet. See [Free Brand Audit](../concepts/free-brand-audit.md).
 - **Agency white-labeling of the deck** – the cover, accent color, and "prepared by" name come from the agency's own brand, so the agency hands a client a strategy deck that looks like its own work.
 - **Initial content directions in the preview deck** – a few starting content ideas inferred from the brand's profile and Mindsets, so the deck demonstrates tactical next steps, not just frameworks.
 - **A lead inbox** where authenticated users see every lead with live status, a source tag, any extra form fields, and a link to the finished deck.
@@ -48,5 +48,5 @@ This page explains public entry points and buyer handoff at a client level. It d
 
 - [Product](./README.md)
 - [Solutions](../solutions/README.md)
-- [Brand Preview](../concepts/brand-preview.md)
+- [Free Brand Audit](../concepts/free-brand-audit.md)
 - [Media](../media/README.md)

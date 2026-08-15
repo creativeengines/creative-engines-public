@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for specialized vertical agencies"
 description: "Explains how Creative Engines fits specialized vertical agencies, using mindset intelligence, traceable brand knowledge, and Brand Guardian screening to produce review-ready content within a vertical's regulatory and craft guardrails."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, specialized-vertical-agency, product-fit, creative-engines]
 ---
@@ -26,7 +26,7 @@ Broad, build-in-public style content is the wrong cadence here; the lead value i
 
 ## How it works here
 
-Each client works in its own governed Brand workspace. Vertical intelligence and client Mindsets set direction; [Creative Studio](../product/creative-studio.md) produces work checked against the specialized voice, tested on a focus group of Mindsets, and screened by the Brand Guardian; and approved work moves through [Content Distribution](../product/content-distribution.md) with a human gate before it enters the review cycle. The agency scales domain expertise without flattening every client into one playbook.
+Each client works in its own governed Brand workspace. Vertical intelligence and client Mindsets set direction; [Creative Studio](../product/creative-studio.md) produces work checked against the specialized voice, tested on synthetic Mindsets, and screened by the Brand Guardian; and approved work moves through [Content Distribution](../product/content-distribution.md) with a human gate before it enters the review cycle. The agency scales domain expertise without flattening every client into one playbook.
 
 ## What compounds
 
@@ -34,7 +34,7 @@ The agency's cleared reasoning, recurring objections, and defensible messaging p
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md), white-labeled to the agency, turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a domain-aware artifact for a pitch.
+The free [brand audit](../concepts/free-brand-audit.md), white-labeled to the agency, turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a domain-aware artifact for a pitch.
 
 ## What the fit is not
 

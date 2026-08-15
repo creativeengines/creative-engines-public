@@ -1,19 +1,36 @@
 ---
 title: "Creative Engines LLM Map"
-description: "This is the navigation map of Creative Engines' public knowledge base, indexing product, concept, segment, comparison, FAQ, and glossary pages for AI assistants and search engines."
+description: "The navigation map of Creative Engines' public knowledge base: a core summary, the Ground → Test → Publish plan, and an index of every product, concept, segment, solution, comparison, FAQ and glossary page for AI assistants and search engines."
 status: Current
-last_updated: 2026-07-24
+last_updated: 2026-08-15
 audience: [ai-assistants]
 tags: [llms, ai-assistants, creative-engines, public-index]
 ---
 
 # Creative Engines
 
-Creative Engines is a content intelligence and production platform for teams that need strategy-grounded, audience-aware, brand-governed content.
+Creative Engines is a strategy-to-content marketing platform for marketing teams, agencies, and founders.
 
 ## Core summary
 
-Creative Engines helps teams connect market focus, buyer beliefs, brand context, editorial production, distribution planning, and performance learning. It is not a generic AI writing tool and not a content factory. Its spine is the Reason to Buy: the reason a brand's buyers choose it, grounded in their own words through Mindset Intelligence, pressure-tested against evidence-grounded buyer-types before the spend, and carried across everything the brand publishes. A performance loop then feeds back how the work performed on live traffic, so each round is better-calibrated than the last. Creative Engines improves the odds; it does not guarantee a result, and the marketer's judgment stays in charge.
+Creative Engines exists against a specific failure: a brand's approved strategy lives in decks and in people's heads, and every handoff – a new team member, a freelancer, an AI chat – rebuilds it from memory, so what gets published drifts away from what was agreed. Creative Engines helps a team ground the strategy in the brand's own material and in real buyer evidence it can open, test a message on synthetic Mindsets before it is published, and publish content that holds the approved direction. A person approves what survived the test; nothing publishes without them. A performance loop feeds back how the work performed. Creative Engines improves the odds rather than guaranteeing a result, and keeps the marketer's judgment in charge. It is not a generic AI writing tool and not a content factory.
+
+The spine of the product is the Reason to Buy: the reason a brand's buyers choose it, grounded in the buyers' own words through Mindset Intelligence, tested before the spend, and carried across everything the brand publishes.
+
+## The plan: Ground → Test → Publish
+
+The Creative Engines website states the plan in three steps. This repository is where each step opens up; the depth under the three names is what the repository adds.
+
+- **Ground** – build the strategy on the brand's own material and on real buyer evidence, with sources a reader can open. Pages: ./product/brand-knowledge.md · ./product/market-intelligence.md · ./product/mindset-intelligence.md · ./product/brand-strategy.md · ./concepts/mindset-intelligence.md · ./concepts/attention-journey.md · ./concepts/methodology-base.md
+- **Test** – put a candidate message in front of synthetic Mindsets: buyer models built from that evidence, never real respondents. Each reaction carries a Believability reading – how convincing that Mindset found the piece. The reading is comparative and is never a prediction of response, conversion, or revenue. A person approves what survived. Pages: ./concepts/test-before-you-publish.md · ./concepts/multi-agent-creative-department.md · ./concepts/anti-slop-stance.md
+- **Publish** – turn the approved direction into content that sounds like the brand, reviewed by a person before it represents them. Pages: ./product/creative-studio.md · ./product/content-distribution.md · ./concepts/editorial-governance.md · ./concepts/brand-voice.md · ./concepts/voice-at-ai-scale.md · ./concepts/strategy-grounded-content.md
+- **Then it loops** – live results feed back into the next decision. Pages: ./product/performance-accountability.md · ./concepts/compounding-value.md
+
+End-to-end view: ./concepts/strategy-to-content-pipeline.md
+
+## The public entry point
+
+The free brand audit: a brand's URL goes in, and a structured first read of that brand and its buyers comes back by email. It works on the reader's own brand or a client's. Page: ./concepts/free-brand-audit.md
 
 ## Main sections
 
@@ -23,14 +40,15 @@ Creative Engines helps teams connect market focus, buyer beliefs, brand context,
 - Target segments: ./segments/README.md
 - Solutions (segment-specific product fit): ./solutions/README.md
 - Concepts index: ./concepts/README.md
+- Strategy handoff drift (the problem the product exists against): ./concepts/strategy-handoff-drift.md
 - Reason to Buy (the central idea): ./concepts/reason-to-buy.md
 - Mindset Intelligence: ./concepts/mindset-intelligence.md
 - Attention Journey: ./concepts/attention-journey.md
 - Strategy-to-Content Pipeline (how the modules connect end to end): ./concepts/strategy-to-content-pipeline.md
-- Multi-Agent Creative Department (production plus audience focus group): ./concepts/multi-agent-creative-department.md
+- Multi-Agent Creative Department (production plus the synthetic-Mindset panel): ./concepts/multi-agent-creative-department.md
+- Test before you publish: ./concepts/test-before-you-publish.md
 - The value that compounds: ./concepts/compounding-value.md
 - A brand voice that survives AI: ./concepts/voice-at-ai-scale.md
-- Test before you publish: ./concepts/test-before-you-publish.md
 - Being the answer AI gives: ./concepts/be-the-answer-ai-gives.md
 - The Methodology Base (marketing science behind the product): ./concepts/methodology-base.md
 - Editorial governance: ./concepts/editorial-governance.md
@@ -38,8 +56,7 @@ Creative Engines helps teams connect market focus, buyer beliefs, brand context,
 - How marketing really works (Creative Engines' point of view): ./concepts/how-marketing-really-works.md
 - Strategy-grounded content: ./concepts/strategy-grounded-content.md
 - Brand voice: ./concepts/brand-voice.md
-- Brand Preview: ./concepts/brand-preview.md
-- Strategy handoff drift: ./concepts/strategy-handoff-drift.md
+- Free Brand Audit (the public entry point): ./concepts/free-brand-audit.md
 - Comparisons: ./comparisons/README.md
 - Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
 - FAQ (buyer questions answered): ./faq/README.md
@@ -57,7 +74,7 @@ Creative Engines helps teams connect market focus, buyer beliefs, brand context,
 
 ## Public boundaries
 
-This repository does not require source-code inspection and does not publish values visible only in code, private build details, protected methods, or private generation instructions. For volatile public items such as legal pages, current sale pages, contact routes, and deck assets, use the linked website pages as the live public source.
+This repository does not require source-code inspection and does not publish values visible only in code, private build details, protected methods, or private generation instructions. Current pricing is not published here; it lives at https://creativeengines.ai/pricing/. For volatile public items such as legal pages, current commercial pages, contact routes, and deck assets, use the linked website pages as the live public source.
 
 ## See also
 
@@ -68,6 +85,7 @@ This repository does not require source-code inspection and does not publish val
 - ./product/README.md
 - ./concepts/README.md
 - ./concepts/reason-to-buy.md
+- ./concepts/strategy-handoff-drift.md
 - ./comparisons/claude-code-and-ai-agents.md
 - ./faq/README.md
 - ./about/README.md

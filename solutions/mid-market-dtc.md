@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for founder-led premium and DTC brands"
 description: "Explains how Creative Engines fits founder-led premium and DTC brands, using mindset intelligence to keep the founder's voice authentic across high-cadence content and channels."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, mid-market-dtc, product-fit, creative-engines]
 ---
@@ -18,7 +18,7 @@ The value here is a brand voice that scales without drifting – performance con
 For a voice-led consumer brand, the sharp value sits in a few specific parts of the platform:
 
 - **A voice that stays yours, on a reason that holds up** – working from the exact language the audience uses, so the brand voice stays authentic as more of the work is produced with AI, and the positioning lines up with what buyers actually value. Grounded in [Mindset Intelligence](../concepts/mindset-intelligence.md).
-- **[Creative Studio](../product/creative-studio.md)** – an audience focus group built from the brand's own Mindsets lets the team stress-test an offer or a campaign before launch, and an anti-slop pass and Brand Guardian catch anything that reads subtly off-brand.
+- **[Creative Studio](../product/creative-studio.md)** – synthetic Mindsets built from the brand's own buyer evidence let the team stress-test an offer or a campaign before launch, and an anti-slop pass and Brand Guardian catch anything that reads subtly off-brand.
 - **[Content Distribution](../product/content-distribution.md)** – plan and govern high-cadence work across paid, owned, retail, email, social, and community, in the brand's default language with per-channel overrides.
 - **[Brand Knowledge](../product/brand-knowledge.md)** – the founder's point of view, encoded once in an isolated workspace and reused everywhere.
 
@@ -26,7 +26,7 @@ Structured go-to-market planning is available but not the headline for a founder
 
 ## How it works here
 
-A team can start with a free [Brand Preview Deck](../concepts/brand-preview.md). The founder's voice and buyer Mindsets are encoded as approved context; [Creative Studio](../product/creative-studio.md) produces performance and brand assets tested against those Mindsets and checked for voice fidelity; and [Content Distribution](../product/content-distribution.md) runs the work as governed content pillars and ad campaigns with a human gate. Variant volume scales while every piece is measured against the same brand definition.
+A team can start with a free [brand audit](../concepts/free-brand-audit.md). The founder's voice and buyer Mindsets are encoded as approved context; [Creative Studio](../product/creative-studio.md) produces performance and brand assets tested against those Mindsets and checked for voice fidelity; and [Content Distribution](../product/content-distribution.md) runs the work as governed content pillars and ad campaigns with a human gate. Variant volume scales while every piece is measured against the same brand definition.
 
 ## What compounds
 
@@ -34,7 +34,7 @@ The founder's voice and the brand's customer belief are encoded once and reused 
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a brand URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a brand URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## What the fit is not
 

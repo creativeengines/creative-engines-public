@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for agency holding groups"
 description: "Explains how Creative Engines fits agency holding groups by governing distinct, on-brand output per network and brand above the group's own tooling, without replacing internal platforms or creative judgment."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, holdco-agency-group, product-fit, creative-engines]
 ---
@@ -26,7 +26,7 @@ Spotting buyer patterns across the whole portfolio is [on the roadmap](../produc
 
 ## How it works here
 
-A free [Brand Preview Deck](../concepts/brand-preview.md) can show the layer on a single brand. Each named agency brand and client works in its own Brand workspace. Brand-specific Mindsets and governed narrative set direction above the group's internal platforms; [Creative Studio](../product/creative-studio.md) produces and reviews work against that context; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate.
+A free [brand audit](../concepts/free-brand-audit.md) can show the layer on a single brand. Each named agency brand and client works in its own Brand workspace. Brand-specific Mindsets and governed narrative set direction above the group's internal platforms; [Creative Studio](../product/creative-studio.md) produces and reviews work against that context; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate.
 
 ## What compounds
 
@@ -34,7 +34,7 @@ Governed consistency across many networks becomes more valuable the more the gro
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit on a single brand.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit on a single brand.
 
 ## What the fit is not
 

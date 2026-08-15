@@ -2,7 +2,7 @@
 title: "Creative Engines for specialized vertical agencies"
 description: "Explains why Creative Engines fits specialized vertical agencies in pharma, financial, or luxury marketing, using buyer intelligence to keep review-ready, brand-consistent content grounded in domain expertise."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, specialized-vertical-agency, buyer-intelligence, creative-engines]
 ---
@@ -77,7 +77,7 @@ The fit is strongest where the agency needs to turn its vertical expertise, buye
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
 
 ## Public boundary
 

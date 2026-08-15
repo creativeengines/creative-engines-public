@@ -2,7 +2,7 @@
 title: "Creative Engines for venture studios and multi-brand groups"
 description: "Explains how Creative Engines fits venture studios and multi-brand groups, acting as a portfolio-wide buyer-intelligence layer that keeps each portfolio company's voice distinct while sharing one governed operating layer."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, venture-studio-platform, buyer-intelligence, creative-engines]
 ---
@@ -77,7 +77,7 @@ The fit is strongest where the platform team wants repeatable support across man
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit on a single portfolio company.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit on a single portfolio company.
 
 ## Public boundary
 

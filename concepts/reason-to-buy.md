@@ -1,8 +1,8 @@
 ---
 title: "Reason to Buy – why a brand's buyers choose it"
-description: "Explains Reason to Buy, the Creative Engines concept for the specific reason a brand's buyers choose it - surfaced from buyer language, pressure-tested against evidence-grounded buyer-types before spend, then carried consistently across every touchpoint."
+description: "Explains Reason to Buy, the Creative Engines concept for the specific reason a brand's buyers choose it - surfaced from buyer language, tested on synthetic Mindsets before spend, then carried consistently across every touchpoint."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [concepts, reason-to-buy, value-proposition, positioning, proof-anchor, creative-engines]
 ---
@@ -17,17 +17,17 @@ In a category where everyone runs the same AI playbook and says the same safe th
 
 ## The better state
 
-A brand stops guessing and starts testing. Creative Engines surfaces the real reasons buyers are likely choosing that brand from the buyers' own words – the motive they would never write on a survey – then pressure-tests which reason actually moves its specific buyer-types, on a panel built from those buyers' Mindsets, before a cent is spent. The reason that held up gets carried into everything the brand ships, so every touchpoint compounds one reason instead of saying it differently everywhere. Not another positioning deck – a reason found in evidence, pressure-tested before launch, and carried everywhere. It does not hand a brand certainty; it stacks the odds toward a reason that has already survived scrutiny.
+A brand stops guessing and starts testing. Creative Engines surfaces the real reasons buyers are likely choosing that brand from the buyers' own words – the motive they would never write on a survey – then pressure-tests which reason actually moves those buyers, on synthetic Mindsets built from that same evidence, before a cent is spent. The reason that held up gets carried into everything the brand ships, so every touchpoint compounds one reason instead of saying it differently everywhere. Not another positioning deck – a reason found in evidence, pressure-tested before launch, and carried everywhere. It does not hand a brand certainty; it stacks the odds toward a reason that has already survived scrutiny.
 
 ## The promise, in one line
 
 **Creative Engines helps a brand find the reason its buyers are likely choosing it, pressure-test that reason before spend, and carry it everywhere** – so the brand stops competing on price, stops being interchangeable, and starts standing on a reason only it can own.
 
-## How it is built – find, test, install
+## How a reason gets built
 
-- **Find it** – surface the real reasons buyers are likely choosing a brand from their own words and beliefs. This is what [Mindset Intelligence](./mindset-intelligence.md) is for.
-- **Test it** – pressure-test which reason actually moves a brand's buyer-types, on a panel built from those buyers' Mindsets, before spend. This is the [audience focus group](./multi-agent-creative-department.md).
-- **Install it** – carry the reason that held up into everything the brand ships, so every touchpoint compounds one reason. This is where [compounding value](./compounding-value.md) comes from.
+A reason to buy is not declared; it is grounded, tested, and then carried. That is the same **Ground → Test → Publish** plan the rest of the product runs on, seen from the side of the one thing it is all for.
+
+Grounding surfaces the real reasons buyers are likely choosing a brand, from their own words and beliefs rather than from a boardroom – the work of [Mindset Intelligence](./mindset-intelligence.md). Testing puts the candidate reasons in front of [synthetic Mindsets](./test-before-you-publish.md) built from that same evidence, before a cent is spent, so the team commits to the one that held up rather than the one that argued best. Publishing carries that reason into everything the brand ships, so every touchpoint compounds a single reason instead of restating a different one – which is where [compounding value](./compounding-value.md) comes from.
 
 The supporting proof has its own name: a **Proof Anchor** (in professional terms a Reason-to-Believe) – the concrete, checkable evidence behind a claim: a number, a before-and-after, or a demonstrable result. A claim without a Proof Anchor is treated as unfinished.
 

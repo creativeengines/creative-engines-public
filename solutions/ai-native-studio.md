@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for AI-native creative studios"
 description: "Explains why Creative Engines fits AI-native creative studios, providing a brand intelligence and governance layer built on mindset intelligence that sits above the studio's own generation tools rather than replacing them."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, ai-native-studio, product-fit, creative-engines]
 ---
@@ -26,7 +26,7 @@ Creative Engines does not duplicate the studio's own media generation; it sits a
 
 ## How it works here
 
-A free [Brand Preview Deck](../concepts/brand-preview.md) shows the intelligence layer in action from a URL. Each client works in its own Brand workspace; Mindsets, narrative, and approved context set direction above the studio's existing generation workflows; [Creative Studio](../product/creative-studio.md) produces and reviews work with a focus group of Mindsets and the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate.
+A free [brand audit](../concepts/free-brand-audit.md) shows the intelligence layer in action from a URL. Each client works in its own Brand workspace; Mindsets, narrative, and approved context set direction above the studio's existing generation workflows; [Creative Studio](../product/creative-studio.md) produces and reviews work with synthetic Mindsets and the Brand Guardian; and [Content Distribution](../product/content-distribution.md) runs approved work as governed content pillars and ad campaigns with a human gate.
 
 ## What compounds
 
@@ -34,7 +34,7 @@ The studio's brand intelligence, client context, and review logic accumulate int
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the intelligence layer at work.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the intelligence layer at work.
 
 ## What the fit is not
 

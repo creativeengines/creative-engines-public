@@ -2,7 +2,7 @@
 title: "Creative Engines for AI-native creative studios"
 description: "Explains why Creative Engines is a strong fit for AI-native creative studios, acting as a brand intelligence and governance layer that keeps strategy, buyer understanding, and review discipline above fast AI-enabled production."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
 tags: [segments, ai-native-studio, buyer-intelligence, creative-engines]
 ---
@@ -75,7 +75,7 @@ The fit is strongest where the studio needs to turn strategy, buyer beliefs, bra
 
 ## See it on a brand
 
-The free [Brand Preview Deck](../concepts/brand-preview.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
 
 ## Public boundary
 

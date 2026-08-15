@@ -1,7 +1,7 @@
 ---
 title: "Creative Engines FAQ – the skeptic's questions, answered"
 status: Current
-last_updated: 2026-07-24
+last_updated: 2026-08-15
 audience: [buyers, users, agencies, partners, ai-assistants]
 description: "Straight answers about what Creative Engines is, how it differs from AI writing tools and do-it-yourself agent setups, how it protects brand data, how it understands buyers, and how to get started."
 tags: [faq, questions, answers, objection-handling, ai-content-platform, ai-marketing-platform, creative-engines]
@@ -13,7 +13,7 @@ This is the skeptic's FAQ. The AI-content category has over-promised for years, 
 
 ## Quick answer
 
-**Creative Engines is a content intelligence and production platform that finds the reason a brand's buyers choose it, pressure-tests it before spend, and carries it across everything the brand ships.** It is not an AI writing box and not a content factory. A writing tool produces text; Creative Engines models how a brand's buyers actually think, decides what should be said, produces content through a reviewed multi-agent creative process, and keeps every asset traceable to strategy. It is built for marketing teams, agencies, and founders to use – to make them sharper, not to replace them.
+**Creative Engines is a strategy-to-content marketing platform that finds the reason a brand's buyers choose it, pressure-tests it before spend, and carries it across everything the brand ships.** It is not an AI writing box and not a content factory. A writing tool produces text; Creative Engines models how a brand's buyers actually think, decides what should be said, produces content through a reviewed multi-agent creative process, and keeps every asset traceable to strategy. It is built for marketing teams, agencies, and founders to use – to make them sharper, not to replace them.
 
 New here? Start with the [Reason to Buy](../concepts/reason-to-buy.md), the [product overview](../product/README.md), or [who it is for](../solutions/README.md).
 
@@ -22,13 +22,13 @@ New here? Start with the [Reason to Buy](../concepts/reason-to-buy.md), the [pro
 ## The basics – what Creative Engines is
 
 ### What is Creative Engines?
-**Creative Engines is a content intelligence and production platform for strategy-grounded, audience-aware, brand-governed content.** It connects the whole path from understanding a market, to modeling how buyers think, to deciding what to say, to producing and reviewing content, to keeping it consistent everywhere it ships. The spine is the [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words and carried across every touchpoint.
+**Creative Engines is a strategy-to-content marketing platform for strategy-grounded, audience-aware, brand-governed content.** It connects the whole path from understanding a market, to modeling how buyers think, to deciding what to say, to producing and reviewing content, to keeping it consistent everywhere it ships. The spine is the [Reason to Buy](../concepts/reason-to-buy.md): the reason a brand's buyers choose it, found in their own words and carried across every touchpoint.
 
 ### Is it an AI content generator, a marketing platform, or something else?
-It is an AI marketing platform, but the generation is the smallest part. An AI content generator produces text on request. Creative Engines is the governing layer above generation – a content intelligence platform that decides what should be produced, for which buyer, and whether the result is good enough to represent the brand. The writing model is a commodity input; the value is the strategy, buyer understanding, brand knowledge, and editorial governance around it.
+It is an AI marketing platform, but the generation is the smallest part. An AI content generator produces text on request. Creative Engines is the governing layer above generation – it decides what should be produced, for which buyer, and whether the result is good enough to represent the brand. The writing model is a commodity input; the value is the strategy, buyer understanding, brand knowledge, and editorial governance around it.
 
 ### What is a Reason to Buy?
-**A Reason to Buy is the reason a brand's buyers choose it over the alternatives – found in the buyers' own words, pressure-tested before spend, and carried across everything the brand ships.** It is the customer-facing name for a value proposition. Creative Engines is built to find it (through [Mindset Intelligence](../concepts/mindset-intelligence.md)), test it (against an audience focus group), and install it (through governed production), so a brand competes on a reason only it can own instead of on price. Full explanation: [Reason to Buy](../concepts/reason-to-buy.md).
+**A Reason to Buy is the reason a brand's buyers choose it over the alternatives – found in the buyers' own words, pressure-tested before spend, and carried across everything the brand ships.** It is the customer-facing name for a value proposition. Creative Engines grounds it in buyer evidence through [Mindset Intelligence](../concepts/mindset-intelligence.md), tests it on [synthetic Mindsets](../concepts/test-before-you-publish.md) before the spend, and carries the version that held up through governed production, so a brand competes on a reason only it can own instead of on price. Full explanation: [Reason to Buy](../concepts/reason-to-buy.md).
 
 ### What is Mindset Intelligence?
 **Mindset Intelligence is a way of understanding buyers by what they believe, fear, and need to resolve before acting – not by demographic labels.** It goes beyond flat personas and psychographic segmentation to a rational-emotional portrait built on jobs to be done and a behavioral reading of whether a buyer can act, has the chance to act, and wants to act. Personas describe who a buyer is; Mindsets explain why they act. Details: [Mindset Intelligence](../concepts/mindset-intelligence.md).
@@ -56,7 +56,7 @@ It is built for professional marketers – in-house at a brand, inside an agency
 **No, because volume is not the goal.** Creative Engines is built against low-effort AI marketing: quality over quantity, every piece grounded in strategy and passed through review before it goes public. If anything it slows the work down at exactly the right moment – the approval gate – so what ships is specific to the brand and its buyer, not the easiest pattern the model defaults to. Publishing more weak content is not a marketing advantage. See [Creative Engines vs content factories](../comparisons/content-factories.md).
 
 ### Is Creative Engines a scam, or just more AI hype?
-**Fair question – the category earned the skepticism, so here is the honest version.** If a marketing tool promises to 10x revenue while everyone sleeps, that tab is the scam; close it – and Creative Engines will not promise a magic revenue number either, because no honest tool can. Its promise is smaller and checkable: point it at a real website and in about ten minutes it returns a first read on the brand and its buyers, from real data, not a demo. The fastest way to catch a bluff is to test it on real material and see whether the first output is specific. That is what the free [Brand Preview](../concepts/brand-preview.md) is for.
+**Fair question – the category earned the skepticism, so here is the honest version.** If a marketing tool promises to 10x revenue while everyone sleeps, that tab is the scam; close it – and Creative Engines will not promise a magic revenue number either, because no honest tool can. Its promise is smaller and checkable: point it at a real website and in about ten minutes it returns a first read on the brand and its buyers, from real data, not a demo. The fastest way to catch a bluff is to test it on real material and see whether the first output is specific. That is what the free [brand audit](../concepts/free-brand-audit.md) is for.
 
 ---
 
@@ -110,7 +110,7 @@ Yes, and specifically:
 **About ten minutes to a first Brand DNA profile from a URL.** From there it is days, not a three-month implementation project, and setup is self-serve from that first URL. A first finished, approved draft follows quickly; one-click publishing straight to channels is in active development.
 
 ### Can I try it before committing?
-**Yes – the Brand Preview is free.** A prospect drops in a company URL and receives an auto-generated brand-intelligence deck – buyer Mindsets, contrasting buyer portraits, and a sample narrative with sample content – before any sales conversation. It is the fastest honest way to judge fit on real data. See [Brand Preview](../concepts/brand-preview.md). A self-serve free trial of the full product is in active development.
+**Yes – the brand audit is free.** A prospect drops in a company URL and receives an auto-generated brand-intelligence deck – buyer Mindsets, contrasting buyer portraits, and a sample narrative with sample content – before any sales conversation. It is the fastest honest way to judge fit on real data. See [Free Brand Audit](../concepts/free-brand-audit.md). A self-serve free trial of the full product is in active development.
 
 ### Does it integrate with my existing publishing stack?
 Handled honestly, because this is the biggest claim-discipline point:
@@ -134,7 +134,7 @@ Getting started is fast – a URL in, a Brand DNA out in minutes – so there is
 It builds buyer Mindsets: rational-emotional portraits grounded in jobs to be done, the four forces that move a decision, an emotional palette, and a behavioral reading of capability, opportunity, and motivation. As buyer intelligence, this goes past demographic personas and one-line segments to what a buyer believes, fears, and needs to resolve before acting. The methods behind it are described at a safe level in [The Methodology Base](../concepts/methodology-base.md); the concept is [Mindset Intelligence](../concepts/mindset-intelligence.md).
 
 ### What is the creative process behind the content?
-Content is produced by a [multi-agent creative department](../concepts/multi-agent-creative-department.md) of coordinated roles: a Creative Director sets direction, Lead Copywriters generate and refine competing directions, a Brand Guardian checks brand safety and voice, and an audience focus group built from the brand's own Mindsets reacts to the work before it is published. The published asset is the survivor of a contested process, not the first thing a model produced – and a human approves it before it represents the brand.
+Content is produced by a [multi-agent creative department](../concepts/multi-agent-creative-department.md) of coordinated roles: a Creative Director sets direction, Lead Copywriters generate and refine competing directions, a Brand Guardian checks brand safety and voice, and synthetic Mindsets built from the brand's own buyer evidence react to the work before it is published. The published asset is the survivor of a contested process, not the first thing a model produced – and a human approves it before it represents the brand.
 
 ### Does Creative Engines help my content get found and cited by AI search?
 **It is built with generative engine optimization in mind, without pretending citations can be guaranteed.** Content is structured for how AI answer engines read – clear, self-contained, strategy-led – and an SEO semantic core is woven in at the styling stage so work targets real search language rather than guesses. Improving AI visibility and the odds of being the answer an AI gives is an approach the product is designed around; no honest tool promises guaranteed AI citations. See [being the answer AI gives](../concepts/be-the-answer-ai-gives.md).

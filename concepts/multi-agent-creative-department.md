@@ -2,7 +2,7 @@
 title: "Multi-Agent Creative Department"
 description: "Explains Creative Engines' Multi-Agent Creative Department, a seven-stage pipeline of specialized agents that draft, critique, and test content against buyer Mindsets before a human approves it for publishing."
 status: Current
-last_updated: 2026-07-01
+last_updated: 2026-08-15
 audience: [buyers, users, agencies, partners, ai-assistants]
 tags: [concepts, creative-studio, multi-agent, creative-department, anti-slop, creative-engines]
 ---
@@ -20,20 +20,20 @@ At a client-facing level, the department is easiest to understand through a few 
 - A **Creative Director** that sets direction, holds the strategic intent, and selects the strongest work.
 - **Lead Copywriters** that generate competing directions and refine the candidates that survive review.
 - A **Brand Guardian** that checks the work for brand safety, voice consistency, narrative discipline, and misinterpretation risk.
-- An **audience focus group**, built from the buyer's own Mindsets, that reacts to the work before it is published.
+- **Synthetic Mindsets**, built from the buyer's own public evidence, that react to the work before it is published.
 
 These roles name the distinct kinds of judgment strong creative work needs – direction, competing drafts, brand safety, and audience reaction. Creative Engines runs them as coordinated agents rather than as a single open-ended response.
 
-## The audience focus group
+## The synthetic-Mindset panel
 
-The most distinctive step is the one most tools skip entirely. Before a piece of content is approved, Creative Engines can test it against a focus group built from the audience's own buyer [Mindsets](./mindset-intelligence.md), and ask the questions a real focus group would ask:
+The most distinctive step is the one most tools skip entirely. Before a piece of content is approved, Creative Engines can test it on synthetic [Mindsets](./mindset-intelligence.md) built from the audience's own public evidence, and ask the questions a real panel would ask:
 
 - What was understood from this?
 - What did it make them feel?
 - What was clear, and what was confusing?
 - What would earn their trust, or get it scrolled past?
 
-Because the focus group is composed of the same Mindsets the content is meant to reach, the feedback is specific to the actual audience rather than a generic readability score. Weak comprehension, a flat emotional response, or a confusing passage can be caught and corrected before anything is published, instead of after it underperforms in the market.
+Because the panel is composed of the same Mindsets the content is meant to reach, the feedback is specific to the actual audience rather than a generic readability score. Weak comprehension, a flat emotional response, or a confusing passage can be caught and corrected before anything is published, instead of after it underperforms in the market.
 
 This closes a loop inside production: the buyer understanding that started the work also reviews the work. Testing creative against the audience before release is standard practice in serious advertising and rare in AI content tools. Creative Engines builds it into the production process.
 
@@ -46,7 +46,7 @@ Strong creative work rarely ships on its first idea. It comes in rounds:
 - **Selection.** A director-level review picks the strongest candidates against brand context, buyer Mindset, and strategic intent.
 - **Refinement.** The survivors are tightened, restructured, and styled.
 - **Stress test.** The work is checked for weak claims, voice drift, misinterpretation risk, and resemblance to generic category language.
-- **Audience test.** The work is shown to a focus group of buyer Mindsets to check what they understood, felt, and found unclear before release.
+- **Audience test.** The work is shown to synthetic Mindsets to check what they understood, felt, and found unclear before release.
 - **Human gate.** A person approves, revises, or sends the work back before it represents the brand.
 
 Creative Engines runs content production as that kind of process. A user keeps brand context, buyer Mindsets, strategic narratives, source material, and review comments visible throughout, instead of relying on a single response to be right on the first try.
