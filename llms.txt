@@ -38,7 +38,13 @@ The free brand audit: a brand's URL goes in, and a structured first read of that
 - Product overview and module map: ./product/README.md
 - Product modules: ./product/getting-started.md · ./product/market-intelligence.md · ./product/mindset-intelligence.md · ./product/brand-strategy.md · ./product/brand-knowledge.md · ./product/creative-studio.md · ./product/content-distribution.md · ./product/performance-accountability.md · ./product/lead-generation.md
 - Target segments: ./segments/README.md
-- Solutions (segment-specific product fit): ./solutions/README.md
+  - Agencies and independent operators: ./segments/volume-digital-agency.md · ./segments/boutique-creative-agency.md · ./segments/solo-service-practice.md · ./segments/ai-native-studio.md
+  - In-house marketing teams: ./segments/in-house-marketing-unit.md · ./segments/mid-cap-enterprise-brand.md · ./segments/tech-enabled-mid-cap-service.md
+  - Founder-led businesses: ./segments/mid-market-dtc.md · ./segments/established-small-business.md · ./segments/startup.md
+- Solutions (what carries the value per segment): ./solutions/README.md
+  - Agencies and independent operators: ./solutions/volume-digital-agency.md · ./solutions/boutique-creative-agency.md · ./solutions/solo-service-practice.md · ./solutions/ai-native-studio.md
+  - In-house marketing teams: ./solutions/in-house-marketing-unit.md · ./solutions/mid-cap-enterprise-brand.md · ./solutions/tech-enabled-mid-cap-service.md
+  - Founder-led businesses: ./solutions/mid-market-dtc.md · ./solutions/established-small-business.md · ./solutions/startup.md
 - Concepts index: ./concepts/README.md
 - Strategy handoff drift (the problem the product exists against): ./concepts/strategy-handoff-drift.md
 - Reason to Buy (the central idea): ./concepts/reason-to-buy.md
@@ -60,6 +66,9 @@ The free brand audit: a brand's URL goes in, and a structured first read of that
 - Comparisons: ./comparisons/README.md
 - When another route fits better (the two alternatives that serve people better): ./comparisons/when-another-route-fits-better.md
 - Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
+- Generic LLM chat comparison: ./comparisons/generic-llm-chat.md
+- AI writing tools comparison: ./comparisons/ai-writing-tools.md
+- Content factories comparison: ./comparisons/content-factories.md
 - FAQ (buyer questions answered): ./faq/README.md
 - Glossary: ./glossary/README.md
 - About (founders and company): ./about/README.md

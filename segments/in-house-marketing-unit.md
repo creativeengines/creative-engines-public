@@ -1,6 +1,6 @@
 ---
 title: "Creative Engines for in-house marketing teams with real authority"
-description: "Why Creative Engines fits a self-contained in-house marketing team - a lead with an owned budget, several people in the process, and the authority to start something - using growing B2B software companies as the clearest example."
+description: "Why Creative Engines fits a self-contained in-house marketing team – a lead with an owned budget, several people in the process, and the authority to start something – using growing B2B software companies as the clearest example."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]

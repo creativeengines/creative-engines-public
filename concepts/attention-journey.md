@@ -36,8 +36,8 @@ The Attention Journey draws on established ways of thinking about buyer behavior
 
 - **Jobs To Be Done**, which frames the progress a buyer is trying to make.
 - **Google's research on Micro-Moments and the Messy Middle**, which studies the specific points where attention and intent actually form.
-- The **AIDAL funnel** - Awareness, Interest, Desire, Action, Loyalty - used as the backbone that sequences the journey from first attention through to retention.
-- A **five-rung awareness ladder** - unaware, problem-aware, solution-aware, product-aware, and most-aware - used to place each piece of content at the buyer's actual level of readiness, so the message meets the buyer where they are.
+- The **AIDAL funnel** - Awareness, Interest, Desire, Action, Loyalty – used as the backbone that sequences the journey from first attention through to retention.
+- A **five-rung awareness ladder** - unaware, problem-aware, solution-aware, product-aware, and most-aware – used to place each piece of content at the buyer's actual level of readiness, so the message meets the buyer where they are.
 
 Creative Engines treats these as inputs to a structured map, not as reading material. The approach organizes the buyer's jobs, moments, beliefs, and emotions as nodes and edges in a graph of attention, sequenced across the AIDAL stages, so a team can reason about the whole route instead of guessing channel by channel.
 

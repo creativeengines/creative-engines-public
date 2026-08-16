@@ -1,6 +1,6 @@
 ---
 title: "Solutions"
-description: "How Creative Engines fits each kind of operator - agencies running several client brands, in-house marketing teams, and founder-led brands - by reordering the same core strengths around each one's situation."
+description: "How Creative Engines fits each kind of operator – agencies running several client brands, in-house marketing teams, and founder-led brands – by reordering the same core strengths around each one's situation."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]

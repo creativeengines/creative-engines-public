@@ -1,6 +1,6 @@
 ---
 title: "Strategy Handoff Drift"
-description: "Strategy handoff drift is the loss of approved strategy as work passes from the people who hold it into briefs, drafts, channels and AI tools - what causes it, why cheap production made it worse, what it costs an agency, an in-house team and a founder, and why the fix has to live at generation time."
+description: "Strategy handoff drift is the loss of approved strategy as work passes from the people who hold it into briefs, drafts, channels and AI tools – what causes it, why cheap production made it worse, what it costs an agency, an in-house team and a founder, and why the fix has to live at generation time."
 status: Current
 last_updated: 2026-08-15
 audience: [agencies, buyers, users, ai-assistants]

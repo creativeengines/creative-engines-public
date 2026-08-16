@@ -51,7 +51,7 @@ A Mindset is a deep rational-emotional portrait, not a one-line persona. Each pr
 
 Each Mindset is also given a **persona**: a name, a face, and a short description, so a buyer profile is something a team can picture rather than a spreadsheet row.
 
-Because Creative Engines reasons about emotion and behavior, not only logic, content can be built for how a buyer feels and what blocks them from acting - closer to how buying decisions are actually made. The methods behind these readings are described at a safe level in [The Methodology Base](./methodology-base.md).
+Because Creative Engines reasons about emotion and behavior, not only logic, content can be built for how a buyer feels and what blocks them from acting – closer to how buying decisions are actually made. The methods behind these readings are described at a safe level in [The Methodology Base](./methodology-base.md).
 
 ## A prioritized set, not a flat list
 

@@ -13,7 +13,7 @@ Small, independent creative or strategy-led agencies, roughly 5 to 30 people, wh
 
 ## Boundaries
 
-- Small full-service or specialized agencies - branding, design, content, or strategy - where senior founder context still dominates the operating model.
+- Small full-service or specialized agencies – branding, design, content, or strategy – where senior founder context still dominates the operating model.
 - The team has enough output volume to feel the cost of inconsistency, and enough taste-led positioning to need a distinct voice rather than generic production.
 - AI seats are standard issue across the team, but the agency still depends on defensible craft, client-specific judgment, and a way to keep quality consistent as more work is produced with AI.
 - **Distinct from a [volume digital agency](./volume-digital-agency.md), and the difference is not size.** There, the work has to hold across more people and more accounts, and the question is how a standard survives a handoff. Here the founder's taste *is* the product, and the question is how to set that standard once per client without the founder editing everything. Also distinct from a [solo practice](./solo-service-practice.md), where there is no team or delivery system at all. The founder or senior strategist remains the operating centre.
@@ -69,7 +69,7 @@ The fit is strongest where the agency needs to turn strategy, buyer beliefs, bra
 
 ## See it on a brand
 
-The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

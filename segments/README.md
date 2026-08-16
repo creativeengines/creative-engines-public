@@ -1,6 +1,6 @@
 ---
 title: "Segments"
-description: "Who Creative Engines is for - agencies and independent operators running several client brands, in-house marketing teams, and founder-led brands - and what each of them is actually buying."
+description: "Who Creative Engines is for – agencies and independent operators running several client brands, in-house marketing teams, and founder-led brands – and what each of them is actually buying."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
