@@ -52,7 +52,7 @@ Three boundaries hold across every page in this folder, so they are stated once 
 
 Creative Engines is built for professional marketing work. It is not designed for hobby-scale operations, or for purely technical web-build work where the need is site delivery rather than content strategy.
 
-Five situations where another route serves a team better are set out in full on [When Creative Engines is not the fit](../comparisons/when-it-is-not-the-fit.md).
+Two setups that genuinely serve people better – running marketing by hand in an AI chat, and building your own system in an agent environment – are described on [When another route fits better](../comparisons/when-another-route-fits-better.md).
 
 ## Public boundary
 

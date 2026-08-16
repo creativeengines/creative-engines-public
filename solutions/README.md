@@ -78,9 +78,9 @@ Read down the solution pages and the same few differentiators recur – but in a
 
 A solution page that lists every module shows no difference; the ordering above is what makes each segment's story distinct.
 
-## When it is not the fit
+## When another route fits better
 
-Five situations where another route will serve a team better – stated as situations rather than judgements about anyone – are on [When Creative Engines is not the fit](../comparisons/when-it-is-not-the-fit.md).
+There are three sensible ways to run marketing work with AI, and this is one of them. The other two – running it by hand in an AI chat, and building your own system in an agent environment – are described on [When another route fits better](../comparisons/when-another-route-fits-better.md).
 
 ## Public boundary
 

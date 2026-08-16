@@ -65,7 +65,7 @@ The way in is a **free brand audit**: a brand's URL goes in, and a first read of
 - [Segments](./segments/README.md) - the public target-audience knowledge base.
 - [Solutions](./solutions/README.md) - segment-specific product fit.
 - [Concepts](./concepts/README.md) - the ideas behind Creative Engines.
-- [Comparisons](./comparisons/README.md) - how Creative Engines differs from adjacent tools and workflows, and [when it is not the fit](./comparisons/when-it-is-not-the-fit.md).
+- [Comparisons](./comparisons/README.md) - how Creative Engines differs from adjacent tools and workflows, and [when another route fits better](./comparisons/when-another-route-fits-better.md).
 - [FAQ](./faq/README.md) - straight answers to the questions buyers actually ask.
 - [Glossary](./glossary/README.md) - public definitions for recurring terms.
 - [About](./about/README.md) - who built Creative Engines and why.
