@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for growing B2B software companies"
 description: "Explains how Creative Engines fits growing B2B software companies, using mindset intelligence and Brand Knowledge to ground content in approved evidence for technical buyers and defensible competitive positioning."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, mid-market-b2b-saas, product-fit, creative-engines]
 ---
@@ -34,12 +34,6 @@ The company's positioning, product knowledge, and buyer understanding accumulate
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit before a sales conversation.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, product marketing, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from product context and buyer understanding.
 
 ## Public boundary
 

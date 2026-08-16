@@ -2,7 +2,7 @@
 title: "Creative Engines for established mid-sized and enterprise brands"
 description: "Defines the mid-cap and enterprise brand segment - multi-market companies with real marketing operations but no bespoke brand-intelligence system - and explains why Creative Engines fits their buyer intelligence and governance needs."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, mid-cap-enterprise-brand, buyer-intelligence, creative-engines]
 ---
@@ -69,12 +69,6 @@ The decision often begins in marketing but becomes cross-functional when content
 - Grounds drafts in the company's own approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up under executive and finance scrutiny.
 - Holds positioning and brand voice consistent from brief to draft to review, so the message survives every handoff and stays coherent across locations and business units.
 - Works as one governed surface above the existing stack and systems of record rather than another disconnected point tool, with a human review gate that protects senior judgment.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 

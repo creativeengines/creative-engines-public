@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for AI-native creative studios"
 description: "Explains why Creative Engines fits AI-native creative studios, providing a brand intelligence and governance layer built on mindset intelligence that sits above the studio's own generation tools rather than replacing them."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, ai-native-studio, product-fit, creative-engines]
 ---
@@ -30,17 +30,11 @@ A free [brand audit](../concepts/free-brand-audit.md) shows the intelligence lay
 
 ## What compounds
 
-The studio's brand intelligence, client context, and review logic accumulate into a defensible layer that outlasts any single model – so as foundation models commoditize, the studio's positioning rests on intelligence and governance competitors cannot copy by switching models.
+The studio's brand intelligence, client context, and review logic accumulate into a defensible layer that outlasts any single model – so as foundation models commoditize, the studio's positioning rests on accumulated intelligence and governance that switching models alone does not reproduce.
 
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the intelligence layer at work.
-
-## What the fit is not
-
-- Not a replacement for the studio's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not another generator sitting beside the studio's existing tools.
 
 ## Public boundary
 

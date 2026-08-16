@@ -2,7 +2,7 @@
 title: "Creative Engines for growing B2B software companies"
 description: "Defines why Creative Engines fits mid-market B2B SaaS companies (roughly Series B-D, $5M-$1B ARR), covering buyer stakeholders, pain points, and how buyer intelligence keeps content distinct and credible to technical buyers."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, mid-market-b2b-saas, buyer-intelligence, creative-engines]
 ---
@@ -65,12 +65,6 @@ Marketing usually champions the need, but sales, product, operations, and techni
 - Holds positioning and brand voice consistent from brief to draft to review, so the message survives every handoff rather than drifting.
 - Keeps a human review gate that protects senior judgment, so the team scales output without lowering the bar.
 - Works as one governed surface above the existing stack rather than another disconnected point tool.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 

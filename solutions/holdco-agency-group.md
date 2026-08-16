@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for agency holding groups"
 description: "Explains how Creative Engines fits agency holding groups by governing distinct, on-brand output per network and brand above the group's own tooling, without replacing internal platforms or creative judgment."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, holdco-agency-group, product-fit, creative-engines]
 ---
@@ -18,7 +18,7 @@ The value here is governed consistency that still lets each brand keep its own r
 For a group operating many networks under one transformation mandate, the sharp value sits in a few specific parts of the platform:
 
 - **Each brand's own reason to buy, held consistent wherever it ships** – portfolio-level governance so one governed narrative per brand survives the handoff across agencies, teams, and markets, grounded in [Brand Strategy](../product/brand-strategy.md).
-- **[Brand Knowledge](../product/brand-knowledge.md)** and **per-brand isolation** – each named brand and client works in its own governed workspace, so context never blends across the group.
+- **[Brand Knowledge](../product/brand-knowledge.md)** and **per-brand isolation** – each named brand and client works in its own governed workspace, keeping context separate across the group.
 - **[Content Distribution](../product/content-distribution.md)** – govern and approve content across many brands from a consistent, auditable process with a human gate.
 - **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – grounded buyer understanding that adds strategy and editorial discipline above internal platforms, so the group's own tooling produces on-strategy work.
 
@@ -35,12 +35,6 @@ Governed consistency across many networks becomes more valuable the more the gro
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit on a single brand.
-
-## What the fit is not
-
-- Not a replacement for the group's internal platforms, strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Public boundary
 

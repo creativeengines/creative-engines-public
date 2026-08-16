@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for boutique creative and strategy agencies"
 description: "Explains how Creative Engines fits boutique creative and strategy agencies, using mindset intelligence, isolated brand workspaces, and anti-slop review to protect taste-led craft while scaling founder judgment."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, boutique-creative-agency, product-fit, creative-engines]
 ---
@@ -35,12 +35,6 @@ The agency's taste and method stop living only in senior heads and accumulate as
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md), white-labeled to the agency, turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a distinctive artifact for a pitch.
-
-## What the fit is not
-
-- Not a replacement for the agency's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer that flattens the agency's taste into templates.
 
 ## Public boundary
 

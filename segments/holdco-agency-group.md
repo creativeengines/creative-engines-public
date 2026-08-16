@@ -2,7 +2,7 @@
 title: "Creative Engines for agency holding groups"
 description: "Explains why global agency holding groups are a strong fit for Creative Engines, positioning it as a brand-governance layer with buyer intelligence above their existing internal AI platforms rather than a replacement."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, holdco-agency-group, buyer-intelligence, creative-engines]
 ---
@@ -69,12 +69,6 @@ The decision is usually partnership-led, executive-sponsored, or team-specific, 
 - Holds positioning and brand voice consistent from brief to draft to review, so strategy survives handoff across agencies, teams, and markets.
 - Keeps a human review gate that protects senior creative and strategic judgment, so the group scales output without lowering the standard that justifies its premium.
 - Works as a structured governance layer above existing internal platforms rather than as another commodity creative engine.
-
-## What the fit is not
-
-- Not a replacement for the group's internal platforms, strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 

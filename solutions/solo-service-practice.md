@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for fractional CMOs and solo marketing practices"
 description: "Explains how Creative Engines fits fractional CMOs and solo marketing practices, using per-client Brand workspaces, Mindset Intelligence, and Brand Strategy to deliver senior-looking, on-brand work across multiple clients without the operator becoming a bottleneck."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, solo-service-practice, product-fit, creative-engines]
 ---
@@ -20,7 +20,7 @@ For a solo operator serving several clients, the sharp value sits in a few speci
 - **Continuity that carries across clients** – each client's voice and prior approved decisions carry into new delivery, so one person's judgment serves many clients instead of being re-derived each time. Grounded in [Brand Strategy](../product/brand-strategy.md), an editable per-client strategy the operator shapes.
 - **[Mindset Intelligence](../concepts/mindset-intelligence.md)** – the operator owns the buyer insight and can show it, rather than delegating research to an agency.
 - **[Content Distribution](../product/content-distribution.md)** – plan and schedule across several client brands from one calendar, with the operator as the final approval gate.
-- **Per-client isolation** – each client, and the operator's own practice, works in its own Brand workspace, so voices never blend.
+- **Per-client isolation** – each client, and the operator's own practice, works in its own Brand workspace, so each voice stays its own.
 
 Attribution that shows which strategy drove revenue – the evidence that justifies a retainer – is [on the roadmap](../product/performance-accountability.md); today the lead value is a scalable method and senior-sounding output.
 
@@ -35,12 +35,6 @@ Each client's context and the operator's own method accumulate as reusable, gove
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md) turns a prospect's URL into buyer Mindsets and a sample of strategy-grounded content – a fast, senior-looking artifact to win an engagement.
-
-## What the fit is not
-
-- Not a replacement for the operator's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from client context and buyer understanding.
 
 ## Public boundary
 

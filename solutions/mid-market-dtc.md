@@ -2,7 +2,7 @@
 title: "Solution: Creative Engines for founder-led premium and DTC brands"
 description: "Explains how Creative Engines fits founder-led premium and DTC brands, using mindset intelligence to keep the founder's voice authentic across high-cadence content and channels."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [solutions, mid-market-dtc, product-fit, creative-engines]
 ---
@@ -35,12 +35,6 @@ The founder's voice and the brand's customer belief are encoded once and reused 
 ## See it on a brand
 
 The free [brand audit](../concepts/free-brand-audit.md) turns a brand URL into buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand voice and buyer understanding.
 
 ## Public boundary
 

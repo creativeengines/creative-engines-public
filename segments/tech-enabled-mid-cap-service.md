@@ -2,7 +2,7 @@
 title: "Creative Engines for tech-enabled service companies at scale"
 description: "Describes why Creative Engines fits tech-enabled mid-cap service companies ($30M-$300M revenue), covering their buyer intelligence needs, decision-makers, pain points, and content governance challenges."
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
 tags: [segments, tech-enabled-mid-cap-service, buyer-intelligence, creative-engines]
 ---
@@ -66,12 +66,6 @@ The practical center is usually operations plus technology, with marketing or gr
 - Grounds drafts in the company's own approved brand knowledge and customer evidence, with a traceable link back to the source, so claims hold up under executive and technical scrutiny.
 - Holds positioning and brand voice consistent across the handoffs between engineering, operations, growth, and marketing, so the message survives every review rather than drifting.
 - Keeps a human review gate that protects senior judgment, and works as one governed surface above the existing stack rather than another tool the engineering team has to maintain.
-
-## What the fit is not
-
-- Not a replacement for the team's strategy, creative judgment, or professional review.
-- Not a claim that more content is automatically better.
-- Not a generic AI-writing layer detached from brand context and buyer understanding.
 
 ## Strategic interpretation
 
