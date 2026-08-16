@@ -78,6 +78,10 @@ Read down the solution pages and the same few differentiators recur – but in a
 
 A solution page that lists every module shows no difference; the ordering above is what makes each segment's story distinct.
 
+## When it is not the fit
+
+Five situations where another route will serve a team better – stated as situations rather than judgements about anyone – are on [When Creative Engines is not the fit](../comparisons/when-it-is-not-the-fit.md).
+
 ## Public boundary
 
 These pages describe segment fit at a client level. They do not publish internal priority markers, scoring, private research mechanics, or financial estimates.

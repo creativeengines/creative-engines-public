@@ -50,7 +50,9 @@ Three boundaries hold across every page in this folder, so they are stated once 
 
 ## Where it does not fit
 
-Creative Engines is built for professional marketing work. It is not designed for hobby-scale operations, for purely technical web-build work where the need is site delivery rather than content strategy, or for teams who want software to stand in for the marketing team rather than equip it.
+Creative Engines is built for professional marketing work. It is not designed for hobby-scale operations, or for purely technical web-build work where the need is site delivery rather than content strategy.
+
+Five situations where another route serves a team better are set out in full on [When Creative Engines is not the fit](../comparisons/when-it-is-not-the-fit.md).
 
 ## Public boundary
 

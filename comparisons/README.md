@@ -17,6 +17,7 @@ This folder explains how Creative Engines differs from adjacent tools and workfl
 - [Generic LLM chat](./generic-llm-chat.md)
 - [AI writing tools](./ai-writing-tools.md)
 - [Content factories](./content-factories.md)
+- [When Creative Engines is not the fit](./when-it-is-not-the-fit.md)
 
 ## Summary
 
