@@ -9,7 +9,7 @@ tags: [segments, ai-native-studio, buyer-intelligence, creative-engines]
 
 # Creative Engines for AI-native creative studios
 
-Studios built AI-native from inception - teams that put AI-enabled creative, strategy, or content workflows at the center of the operating model - and that still need strategy, brand intelligence, and buyer understanding sitting above generation. The work is often highly technical and fast-moving, and the studio frequently sells sophistication, so the strategic layer matters as much as the production layer.
+Studios built AI-native from inception – teams that put AI-enabled creative, strategy, or content workflows at the center of the operating model – and that still need strategy, brand intelligence, and buyer understanding sitting above generation. The work is often highly technical and fast-moving, and the studio frequently sells sophistication, so the strategic layer matters as much as the production layer.
 
 ## Boundaries
 
@@ -33,7 +33,7 @@ Titles commonly involved, and what each one weighs:
 - **Head of Product** - weighs what can be delivered reliably given current architecture, team bandwidth, and brand-fidelity expectations, and favors capabilities that hold up at production volume.
 - **Senior Strategist** - works to make strategic judgment the visible, scarce layer above fast production, and values material that proves strategy-informed creative is better creative.
 - **Head of Customer Success or Solutions Engineering** - keeps client-facing output consistent and dependable as pipelines and models change, and treats brand coherence across delivery as a professional standard.
-- **Investor or Board Observer** - looks for a clear, defensible moat story - workflow, brand intelligence, or client relationships that survive model commoditization.
+- **Investor or Board Observer** - looks for a clear, defensible moat story – workflow, brand intelligence, or client relationships that survive model commoditization.
 
 The decision is usually led by founders, product, or strategy leaders who want an intelligence layer that strengthens the studio's credibility and differentiation. The exact path depends on company structure, but the pattern is consistent: one team feels the pain first, several stakeholders need confidence, and the system has to be understood as strategy and governance support rather than a shortcut around human judgment.
 
@@ -67,7 +67,7 @@ The fit is strongest where the studio needs to turn strategy, buyer beliefs, bra
 
 ## See it on a brand
 
-The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

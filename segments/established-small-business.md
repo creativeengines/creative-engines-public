@@ -14,9 +14,9 @@ Established small businesses, roughly $1M to $10M in revenue with 5 to 30 employ
 ## Boundaries
 
 - Owner-led or manager-led businesses with an established customer base and a small internal or outsourced marketing setup.
-- The company may operate across several locations, offerings, or customer types - multi-location restaurant chains, niche-specialty retail with a team, mature B2B SMBs such as local IT services or regional consulting boutiques, established premium professional services practices, and multi-product DTC brands scaling past the founder-only stage.
+- The company may operate across several locations, offerings, or customer types – multi-location restaurant chains, niche-specialty retail with a team, mature B2B SMBs such as local IT services or regional consulting boutiques, established premium professional services practices, and multi-product DTC brands scaling past the founder-only stage.
 - Marketing knowledge is often split across the owner, a fractional leader, a small team, and outside specialists, so the work depends on getting context to the right place.
-- Distinct from local microbusinesses, where operations are not yet repeatable and the content surface is thin. Here the business has repeatable operations, sharper strategic stakes, and enough volume for a structured system to matter - without adopting a heavy enterprise stack.
+- Distinct from local microbusinesses, where operations are not yet repeatable and the content surface is thin. Here the business has repeatable operations, sharper strategic stakes, and enough volume for a structured system to matter – without adopting a heavy enterprise stack.
 
 ## Operating context
 
@@ -67,11 +67,11 @@ The owner or operating leader usually decides, often influenced by a fractional 
 
 ## Strategic interpretation
 
-The fit is strongest where an established small business needs to make strategic thinking reusable so a small team gets the clarity of a much larger one - turning buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by pressure-testing the message against the business's own buyer Mindsets and keeping it consistent across production, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
+The fit is strongest where an established small business needs to make strategic thinking reusable so a small team gets the clarity of a much larger one – turning buyer beliefs, brand context, and expert judgment into repeatable content work. Creative Engines supports that by pressure-testing the message against the business's own buyer Mindsets and keeping it consistent across production, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
 
 ## See it on a brand
 
-The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

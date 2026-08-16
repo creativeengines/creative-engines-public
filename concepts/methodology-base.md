@@ -1,6 +1,6 @@
 ---
 title: "The Methodology Base"
-description: "Describes the methodology base behind Creative Engines - a curated body of marketing science and jobs to be done, neuromarketing, and creative-tactic frameworks applied as working rules, with sources and catalogs kept private."
+description: "Describes the methodology base behind Creative Engines – a curated body of marketing science and jobs to be done, neuromarketing, and creative-tactic frameworks applied as working rules, with sources and catalogs kept private."
 status: Current
 last_updated: 2026-08-15
 audience: [buyers, partners, investors, strategists, ai-assistants]
@@ -17,7 +17,7 @@ This page explains, at a safe level, what that base covers and how it is used. I
 
 The methodology base brings together several established bodies of work. Publicly describable areas include:
 
-- **Jobs To Be Done and buyer psychology.** The progress a buyer is trying to make, and the four forces that move them: what pushes them from the present, what pulls them toward a better way, the anxiety that change creates, and the habit that holds them in place. Buyer readiness to act is read through the COM-B lens - capability, opportunity, and motivation.
+- **Jobs To Be Done and buyer psychology.** The progress a buyer is trying to make, and the four forces that move them: what pushes them from the present, what pulls them toward a better way, the anxiety that change creates, and the habit that holds them in place. Buyer readiness to act is read through the COM-B lens – capability, opportunity, and motivation.
 - **Neuromarketing and emotion.** Buyers act on feeling and justify with reason. Creative Engines reasons about the emotion a piece of content is likely to evoke, working from a model of 13 emotional states rather than a single "tone" label.
 - **Attention and the customer journey.** The AIDAL funnel (Awareness, Interest, Desire, Action, Loyalty) and a five-rung awareness ladder (from unaware to most-aware) place each piece of content at the buyer's real stage of readiness. Google's research on Micro-Moments and the Messy Middle informs the [Attention Journey](./attention-journey.md): the approach of mapping where attention forms and travels.
 - **Creative effectiveness and brand science.** Influences that can be named publicly include Byron Sharp's work on distinctive assets, Orlando Wood's work on creative effectiveness, Arthur Koestler's bisociation, and structured creative problem solving in the spirit of TRIZ.
@@ -29,7 +29,7 @@ The methodology base is not abstract. As live working dictionaries, it currently
 
 - **13 emotional states** the system reasons about when shaping and testing content.
 - **268 creative and styling tactics**, organized into 12 categories and 14 types.
-- **74 media channels**, classified across 4 media types - owned, earned, paid, and partnership - and 7 categories.
+- **74 media channels**, classified across 4 media types – owned, earned, paid, and partnership – and 7 categories.
 - **A five-stage attention-to-loyalty funnel** that sequences work from first attention through to retention.
 
 These are cross-mapped, not separate lists. Tactics are linked to the emotions they evoke and the funnel stages they serve, and channels are linked to the same funnel, so a go-to-market plan can be built as a connected graph rather than a flat checklist. The specific contents of these dictionaries stay private; the structure and scale are shared here as evidence of depth.

@@ -1,6 +1,6 @@
 ---
 title: "Creative Engines for volume digital agencies"
-description: "Why Creative Engines fits a digital agency running several client brands at once, where the owner is still the last set of eyes and context thins out at every handoff - including agencies whose clients sit in regulated verticals."
+description: "Why Creative Engines fits a digital agency running several client brands at once, where the owner is still the last set of eyes and context thins out at every handoff – including agencies whose clients sit in regulated verticals."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
@@ -25,7 +25,7 @@ Where those three are true, the strategy a client approved is being rebuilt from
 
 ## Boundaries
 
-- Independent agency - not part of a holding company - with strategy, creative, account, innovation, finance, and delivery functions and several stakeholders in any tooling decision.
+- Independent agency – not part of a holding company – with strategy, creative, account, innovation, finance, and delivery functions and several stakeholders in any tooling decision.
 - The agency competes with holdcos, boutiques, AI-native studios, and internal client teams, so a distinct point of view and senior judgment are the product.
 - AI seats are standard issue, and the live question is which seat, governed how, and how the agency stays differentiated when output across the industry sounds similar.
 - **Distinct from a [boutique creative agency](./boutique-creative-agency.md), and the difference is not size.** A boutique sells the founder's taste – the method *is* the product, and the question is how to set a standard once without the founder editing everything. Here the work has to hold across more people and more accounts at once, and the question is how a standard survives being handed to someone else. Two genuinely different problems, so the two pages read differently on purpose.
@@ -93,7 +93,7 @@ The fit is strongest where the agency needs to turn strategy, buyer beliefs, bra
 
 ## See it on a brand
 
-The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content - the fastest way to see the fit.
+The free [brand audit](../concepts/free-brand-audit.md) turns a company URL into a set of buyer Mindsets and a sample of strategy-grounded content – the fastest way to see the fit.
 
 ## Public boundary
 

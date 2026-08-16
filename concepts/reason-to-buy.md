@@ -1,6 +1,6 @@
 ---
 title: "Reason to Buy – why a brand's buyers choose it"
-description: "Explains Reason to Buy, the Creative Engines concept for the specific reason a brand's buyers choose it - surfaced from buyer language, tested on synthetic Mindsets before spend, then carried consistently across every touchpoint."
+description: "Explains Reason to Buy, the Creative Engines concept for the specific reason a brand's buyers choose it – surfaced from buyer language, tested on synthetic Mindsets before spend, then carried consistently across every touchpoint."
 status: Current
 last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]

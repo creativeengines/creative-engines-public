@@ -1,6 +1,6 @@
 ---
 title: "Creative Engines for established mid-sized and enterprise brands"
-description: "Defines the mid-cap and enterprise brand segment - multi-market companies with real marketing operations but no bespoke brand-intelligence system - and explains why Creative Engines fits their buyer intelligence and governance needs."
+description: "Defines the mid-cap and enterprise brand segment – multi-market companies with real marketing operations but no bespoke brand-intelligence system – and explains why Creative Engines fits their buyer intelligence and governance needs."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]

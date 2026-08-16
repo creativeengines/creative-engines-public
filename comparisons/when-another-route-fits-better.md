@@ -1,6 +1,6 @@
 ---
 title: "When another route fits better"
-description: "The two setups that genuinely serve people better than Creative Engines - running marketing by hand in an AI chat, and building your own system in Claude Code or Codex - and how to tell whether you are in one of them."
+description: "The two setups that genuinely serve people better than Creative Engines – running marketing by hand in an AI chat, and building your own system in Claude Code or Codex – and how to tell whether you are in one of them."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]

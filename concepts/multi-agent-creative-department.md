@@ -55,15 +55,15 @@ Creative Engines runs content production as that kind of process. A user keeps b
 
 Inside Creative Studio, a piece of content moves through a defined seven-stage pipeline, each stage with its own state and review expectations:
 
-1. **Research** - gather the brand context, buyer Mindset, and source material the piece needs.
-2. **Skeleton** - structure the argument before any prose is written.
-3. **Writing** - generate the draft, producing several parallel variants rather than one.
-4. **Styling** - run the anti-slop polishing pass that steers wording away from generic AI phrasing.
-5. **Packaging** - shape the piece into its final format.
-6. **Scheduling** - place it into the content calendar.
-7. **Publishing** - ship it to the channel.
+1. **Research** – gather the brand context, buyer Mindset, and source material the piece needs.
+2. **Skeleton** – structure the argument before any prose is written.
+3. **Writing** – generate the draft, producing several parallel variants rather than one.
+4. **Styling** – run the anti-slop polishing pass that steers wording away from generic AI phrasing.
+5. **Packaging** – shape the piece into its final format.
+6. **Scheduling** – place it into the content calendar.
+7. **Publishing** – ship it to the channel.
 
-The writing stage produces multiple variants in a single run. A person can approve one or several, or send targeted feedback for a redo, without restarting the whole pipeline - a live writer's room rather than a one-shot generator.
+The writing stage produces multiple variants in a single run. A person can approve one or several, or send targeted feedback for a redo, without restarting the whole pipeline – a live writer's room rather than a one-shot generator.
 
 The pipeline produces more than social posts. It can output long-form articles, social threads, multi-slide carousels, newsletters, landing-page copy, case studies, and video-format content, in the brand's default language with per-channel overrides.
 
