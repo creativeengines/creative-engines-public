@@ -9,9 +9,12 @@ tags: [segments, solo-service-practice, buyer-intelligence, creative-engines]
 
 # Creative Engines for fractional CMOs and solo marketing practices
 
-Fit group: **Fits best.**
-
 Independent consultants, fractional CMOs, niche specialists, expert advisors, and one-person agencies who sell expertise as a service and need more capacity on their own method without diluting the voice and judgment that earned the work. Typical engagements run a few hundred to several thousand dollars per client per month, with one operator serving several clients at once and carrying most of the strategy in their head.
+
+## What defines this practice
+
+- **Three to five clients carried at once** – enough that context gets mixed, few enough that one person still does the thinking for all of them.
+- **The operator's own voice and judgment are what clients pay the premium for**, which makes voice fidelity a purchase condition rather than a nice-to-have.
 
 ## Boundaries
 

@@ -9,8 +9,6 @@ tags: [solutions, established-small-business, product-fit, creative-engines]
 
 # The Creative Engines solution for established small businesses
 
-Fit group: **Great fit.**
-
 The value here is pressure-testing the message before you spend – synthetic Mindsets built from the business's own buyer evidence react before a piece ships, so the owner's sign-off lands on content that has already been challenged, not a first guess. For the full buyer picture, see the [segment page](../segments/established-small-business.md).
 
 ## What matters most for this segment

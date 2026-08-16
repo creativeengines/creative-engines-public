@@ -9,8 +9,6 @@ tags: [solutions, mid-cap-enterprise-brand, product-fit, creative-engines]
 
 # The Creative Engines solution for established mid-sized and enterprise brands
 
-Fit group: **Fits best.**
-
 The value here is a reason to buy that holds up and stays consistent across every market and business unit – enterprise-grade thinking without enterprise-grade internal infrastructure, one governed strategy the whole organization works from, and a story that stays straight across markets. For the full buyer picture, see the [segment page](../segments/mid-cap-enterprise-brand.md).
 
 ## What matters most for this segment

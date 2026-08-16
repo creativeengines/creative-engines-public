@@ -9,8 +9,6 @@ tags: [segments, startup, buyer-intelligence, creative-engines]
 
 # Creative Engines for post-earliest-stage startups
 
-Fit group: **Great fit.**
-
 Funded or self-funded startups on a growth trajectory, roughly idea-stage through about $30M in ARR, where the founder is still meaningfully involved and the company needs sharper positioning, buyer understanding, and content discipline while the product and the market are still changing.
 
 ## Boundaries

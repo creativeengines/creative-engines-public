@@ -67,9 +67,10 @@ The free brand audit: a brand's URL goes in, and a structured first read of that
 
 ## Public target-audience map
 
-- Fits best: ./segments/README.md#fits-best
-- Great fit: ./segments/README.md#great-fit
-- Not a fit: ./segments/README.md#not-a-fit
+- Agencies and independent operators: ./segments/README.md#agencies-and-independent-operators
+- In-house marketing teams: ./segments/README.md#in-house-marketing-teams
+- Founder-led businesses: ./segments/README.md#founder-led-businesses
+- Where it does not fit: ./segments/README.md#where-it-does-not-fit
 - Segment-specific product fit: ./solutions/README.md
 
 ## Public boundaries

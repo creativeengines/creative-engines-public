@@ -9,8 +9,6 @@ tags: [solutions, tech-enabled-mid-cap-service, product-fit, creative-engines]
 
 # The Creative Engines solution for tech-enabled service companies at scale
 
-Fit group: **Fits best.**
-
 The value here is grounded, credible positioning – a reason to buy that holds up in a technical, credibility-driven category, turning deep operational expertise into market language that shows how the service is genuinely different from a simpler provider. For the full buyer picture, see the [segment page](../segments/tech-enabled-mid-cap-service.md).
 
 ## What matters most for this segment

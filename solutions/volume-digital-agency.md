@@ -4,14 +4,12 @@ description: "Explains how Creative Engines fits independent agencies by encodin
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
-tags: [solutions, mid-tier-indie-agency, product-fit, creative-engines]
+tags: [solutions, volume-digital-agency, product-fit, creative-engines]
 ---
 
 # The Creative Engines solution for independent agencies
 
-Fit group: **Fits best.**
-
-The value here is craft that scales past the senior heads holding it – junior work rises toward the agency's senior bar because approved context and Creative Studio's review carry the standard, so senior thinking travels across every client engagement instead of living in one person's head. Creative Engines is built for these professionals to use, not to replace them. For the full buyer picture, see the [segment page](../segments/mid-tier-indie-agency.md).
+The value here is craft that scales past the senior heads holding it – junior work rises toward the agency's senior bar because approved context and Creative Studio's review carry the standard, so senior thinking travels across every client engagement instead of living in one person's head. Creative Engines is built for these professionals to use, not to replace them. For the full buyer picture, see the [segment page](../segments/volume-digital-agency.md).
 
 ## What matters most for this segment
 
@@ -42,7 +40,7 @@ This page describes how Creative Engines serves the segment. It does not expose 
 
 ## See also
 
-- [Segment overview](../segments/mid-tier-indie-agency.md)
+- [Segment overview](../segments/volume-digital-agency.md)
 - [Brand Strategy](../product/brand-strategy.md)
 - [Strategy handoff drift](../concepts/strategy-handoff-drift.md)
 - [Solutions](./README.md)

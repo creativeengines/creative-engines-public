@@ -1,6 +1,6 @@
 ---
 title: "Segments"
-description: "Outlines which marketing teams Creative Engines fits best - from mid-market B2B SaaS to boutique agencies - grouped by client type rather than pricing tier or buyer intelligence targeting."
+description: "Who Creative Engines is for - agencies and independent operators running several client brands, in-house marketing teams, and founder-led brands - and what each of them is actually buying."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
@@ -9,36 +9,36 @@ tags: [segments, buyer-intelligence, creative-engines]
 
 # Segments
 
-Who Creative Engines is for, and how it helps each kind of team.
+Who Creative Engines is for, and what each kind of team is actually buying.
 
-Creative Engines fits teams that want AI-assisted content to stay tied to strategy, buyer understanding, brand knowledge, and editorial control – not low-effort volume. The grouping below is a reader-friendly way to understand fit. It is not a statement of pricing, packaging, or priority.
+Creative Engines fits teams where content depends on strategy, buyer understanding, brand knowledge and editorial control – not on volume. The grouping below is by **the kind of operator you are**, so you can find yourself quickly. It is not a statement of pricing or packaging.
 
-The fastest way to see how Creative Engines reads a brand is the free [brand audit](../concepts/free-brand-audit.md): a company URL goes in, and a set of buyer [Mindsets](../concepts/mindset-intelligence.md) and a sample of strategy-grounded content come back.
+The fastest way to see how Creative Engines reads a brand is the free [brand audit](../concepts/free-brand-audit.md): a website goes in, and a structured first read of that brand and its buyers comes back.
 
-## One value proposition, several situations
+## What every segment has in common
 
-However a team comes in, everything ladders into one universal promise – you find the reason your buyers are likely choosing you, pressure-test it before you spend, and carry the reason that held up into what you ship. That promise is expressed for a handful of core situations: a mid-market brand marketing team, a small agency or independent marketer running several clients, a strategy-led boutique agency, a fractional CMO, a founder or small business, and a performance team proving a message in market. The firmographic groups below are the "who" view of that same portfolio.
+However a team arrives, one promise runs underneath all of them: **find the reason your buyers choose you, test it before you spend, and carry the version that held up into everything you publish.** What changes between segments is which part of that does the heavy lifting – and each page leads with the part that matters most there.
 
-These are the situations where the fit is sharpest.
+## Agencies and independent operators
 
-## Fits best
+Teams running several client brands at once, where each client's context has to stay its own.
 
-- [Growing B2B software companies](./mid-market-b2b-saas.md) – real go-to-market motion, several buying stakeholders, pressure to sound differentiated in a crowded category.
-- [Established mid-sized and enterprise brands](./mid-cap-enterprise-brand.md) – multiple markets, product lines, or business units, without the heaviest corporate review machinery.
+- [Volume digital agencies](./volume-digital-agency.md) – an owner-operator running several client brands, still personally the last set of eyes on the work, watching context thin out at every handoff. **This is the reader Creative Engines is built around first.** Includes agencies whose clients sit in regulated verticals.
+- [Boutique creative and strategy agencies](./boutique-creative-agency.md) – where the founder's taste and method *are* the product, and the calendar is the bottleneck.
+- [Fractional CMOs and solo marketing practices](./solo-service-practice.md) – independent operators carrying three to five clients, whose own voice and judgment are what clients pay the premium for.
+- [AI-native creative studios](./ai-native-studio.md) – studios built around AI generation that still need strategy and buyer understanding above it.
+
+## In-house marketing teams
+
+- [In-house marketing teams with real authority](./in-house-marketing-unit.md) – a marketing lead with an owned budget, several people in the process, and the ability to start something without a full procurement cycle.
+- [Established mid-sized and enterprise brands](./mid-cap-enterprise-brand.md) – multiple markets, product lines or business units, without the heaviest corporate review machinery.
 - [Tech-enabled service companies at scale](./tech-enabled-mid-cap-service.md) – technology supports delivery and measurement, but the company is not primarily a software product.
-- [Independent agencies](./mid-tier-indie-agency.md) – large enough for serious clients and complex strategy, close enough to delivery that quality and the return on senior talent matters weekly.
-- [Boutique creative and strategy agencies](./boutique-creative-agency.md) – where founder judgment, taste, and senior handoff decide the quality of the work.
-- [Specialized vertical agencies](./specialized-vertical-agency.md) – domain-focused agencies where repeatable expertise is the edge.
-- [Venture studios and multi-brand groups](./venture-studio-platform.md) – shared brand and content capability across a portfolio.
-- [Fractional CMOs and solo marketing practices](./solo-service-practice.md) – independent operators who sell expertise and need more capacity without diluting their method.
 
-## Great fit
+## Founder-led businesses
 
 - [Founder-led premium and DTC brands](./mid-market-dtc.md) – voice-led consumer brands that need performance content without losing the voice that made them work.
-- [Established small businesses](./established-small-business.md) – real operating history and repeat customers, enough complexity to need better content strategy.
-- [Post-earliest-stage startups](./startup.md) – need sharper positioning and content discipline while product and market are still moving.
-- [AI-native creative studios](./ai-native-studio.md) – studios built around AI that still need strategy and buyer understanding above generation.
-- [Agency holding groups](./holdco-agency-group.md) – where Creative Engines fits as an enabling layer across teams.
+- [Established small businesses](./established-small-business.md) – real operating history and repeat customers, and a reason people come back that has never been written down.
+- [Post-earliest-stage startups](./startup.md) – past the first scramble, needing sharper positioning while the product and the market still move.
 
 ## What the fit is not, for any segment
 
@@ -48,13 +48,13 @@ Three boundaries hold across every page in this folder, so they are stated once 
 - Not a claim that more content is automatically better.
 - Not a generic AI-writing layer detached from brand context and buyer understanding.
 
-## Not a fit
+## Where it does not fit
 
-Creative Engines is built for professional marketing teams. It is not designed for very small or hobby-scale operations, or for purely technical web-build work where the need is site delivery rather than content strategy.
+Creative Engines is built for professional marketing work. It is not designed for hobby-scale operations, for purely technical web-build work where the need is site delivery rather than content strategy, or for teams who want software to stand in for the marketing team rather than equip it.
 
 ## Public boundary
 
-This page groups public target audiences at a client level. It does not publish internal tiers, scoring, targeting tactics, or account-level detail.
+This page groups public audiences at a client level. It does not publish internal tiers, scoring, targeting tactics, or account-level detail.
 
 ## See also
 

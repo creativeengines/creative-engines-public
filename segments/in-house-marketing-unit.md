@@ -1,17 +1,26 @@
 ---
-title: "Creative Engines for growing B2B software companies"
-description: "Defines why Creative Engines fits mid-market B2B SaaS companies (roughly Series B-D, $5M-$1B ARR), covering buyer stakeholders, pain points, and how buyer intelligence keeps content distinct and credible to technical buyers."
+title: "Creative Engines for in-house marketing teams with real authority"
+description: "Why Creative Engines fits a self-contained in-house marketing team - a lead with an owned budget, several people in the process, and the authority to start something - using growing B2B software companies as the clearest example."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
-tags: [segments, mid-market-b2b-saas, buyer-intelligence, creative-engines]
+tags: [segments, in-house-marketing-unit, buyer-intelligence, creative-engines]
 ---
 
-# Creative Engines for growing B2B software companies
+# Creative Engines for in-house marketing teams with real authority
 
-Fit group: **Fits best.**
+A marketing organisation that can actually decide things for itself, and carries enough work that the strategy behind it has to survive being handed around.
 
-Mid-market B2B software companies, roughly Series B through D and $5M to $1B in ARR, with a real go-to-market motion, several buying stakeholders, and a standing need to produce content that is distinctly the company's, connected to pipeline, and credible to a technical buyer.
+## What defines this team
+
+Company size and funding stage describe this reader without qualifying them – a ninety-person company can have a fully empowered marketing lead, and a much larger one can have none. Four markers do the work instead:
+
+1. **A marketing leader with a budget they own.**
+2. **Five or more people in the process** – in-house, agency-side, or freelance.
+3. **Several agencies, tools or data sources** already in play.
+4. **The authority to start something** without a full procurement cycle.
+
+The clearest and most common example is a **growing B2B software company** – roughly Series B through D, with a real go-to-market motion, several buying stakeholders, and a standing need to produce content that is distinctly the company's, connected to pipeline, and credible to a technical buyer. The rest of this page is written from that example; the markers above are what actually decide the fit.
 
 ## Boundaries
 
@@ -83,4 +92,4 @@ This page describes the public buyer segment and how Creative Engines helps it. 
 - [Segments](./README.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
-- [Segment-specific solution](../solutions/mid-market-b2b-saas.md)
+- [Segment-specific solution](../solutions/in-house-marketing-unit.md)

@@ -9,8 +9,6 @@ tags: [solutions, ai-native-studio, product-fit, creative-engines]
 
 # The Creative Engines solution for AI-native creative studios
 
-Fit group: **Great fit.**
-
 The value here is strategy staying the visible, scarce layer above fast production – the standard carried by approved context and review, so an AI-native studio stays distinct rather than a generic production shop as output quality commoditizes. For the full buyer picture, see the [segment page](../segments/ai-native-studio.md).
 
 ## What matters most for this segment

@@ -9,8 +9,6 @@ tags: [segments, ai-native-studio, buyer-intelligence, creative-engines]
 
 # Creative Engines for AI-native creative studios
 
-Fit group: **Great fit.**
-
 Studios built AI-native from inception - teams that put AI-enabled creative, strategy, or content workflows at the center of the operating model - and that still need strategy, brand intelligence, and buyer understanding sitting above generation. The work is often highly technical and fast-moving, and the studio frequently sells sophistication, so the strategic layer matters as much as the production layer.
 
 ## Boundaries
