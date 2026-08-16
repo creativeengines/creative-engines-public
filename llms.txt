@@ -58,6 +58,7 @@ The free brand audit: a brand's URL goes in, and a structured first read of that
 - Brand voice: ./concepts/brand-voice.md
 - Free Brand Audit (the public entry point): ./concepts/free-brand-audit.md
 - Comparisons: ./comparisons/README.md
+- When another route fits better (the two alternatives that serve people better): ./comparisons/when-another-route-fits-better.md
 - Claude Code and AI agent comparison: ./comparisons/claude-code-and-ai-agents.md
 - FAQ (buyer questions answered): ./faq/README.md
 - Glossary: ./glossary/README.md
@@ -71,6 +72,7 @@ The free brand audit: a brand's URL goes in, and a structured first read of that
 - In-house marketing teams: ./segments/README.md#in-house-marketing-teams
 - Founder-led businesses: ./segments/README.md#founder-led-businesses
 - Where it does not fit: ./segments/README.md#where-it-does-not-fit
+- The two alternative setups and who they suit: ./comparisons/when-another-route-fits-better.md
 - Segment-specific product fit: ./solutions/README.md
 
 ## Public boundaries

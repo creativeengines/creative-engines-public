@@ -78,6 +78,10 @@ Read down the solution pages and the same few differentiators recur – but in a
 
 A solution page that lists every module shows no difference; the ordering above is what makes each segment's story distinct.
 
+## When another route fits better
+
+There are three sensible ways to run marketing work with AI, and this is one of them. The other two – running it by hand in an AI chat, and building your own system in an agent environment – are described on [When another route fits better](../comparisons/when-another-route-fits-better.md).
+
 ## Public boundary
 
 These pages describe segment fit at a client level. They do not publish internal priority markers, scoring, private research mechanics, or financial estimates.

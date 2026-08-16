@@ -107,15 +107,10 @@ Yes, and specifically:
 ## Getting started, speed, and support
 
 ### How long until I see value?
-**About ten minutes to a first Brand DNA profile from a URL.** From there it is days, not a three-month implementation project, and setup is self-serve from that first URL. A first finished, approved draft follows quickly; one-click publishing straight to channels is in active development.
+**About ten minutes to a first Brand DNA profile from a URL.** From there it is days, not a three-month implementation project, and setup is self-serve from that first URL. A first finished, approved draft follows quickly.
 
 ### Can I try it before committing?
 **Yes – the brand audit is free.** A prospect drops in a company URL and receives an auto-generated brand-intelligence deck – buyer Mindsets, contrasting buyer portraits, and a sample narrative with sample content – before any sales conversation. It is the fastest honest way to judge fit on real data. See [Free Brand Audit](../concepts/free-brand-audit.md). A self-serve free trial of the full product is in active development.
-
-### Does it integrate with my existing publishing stack?
-Handled honestly, because this is the biggest claim-discipline point:
-- **Today:** content moves through the full lifecycle to a reviewed, approved, ready-to-ship asset, and approved assets export cleanly into the tools a team already uses.
-- **In active development:** one-click publishing to WordPress, Ghost CMS, and social channels via API – connect once, publish from inside the product.
 
 ### How do I reach a human?
 A human path is always there: book a short walkthrough, or reach the team by email. Privacy and data questions go to privacy@creativeengines.ai; terms and legal questions go to legal@creativeengines.ai.
