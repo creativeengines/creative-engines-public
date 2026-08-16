@@ -107,9 +107,9 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Portfolio control** - The need to keep multiple brands, clients, voices, contexts, and content systems distinct while operating across a portfolio.
 
-**Segment** _(alias: Buyer Segment)_ - A firmographic grouping of buyers by account type: size or revenue band, client versus agency, and vertical. It describes the kind of company, agency, practice, or operator, and it can contain many Mindsets. The structural axis of the audience model – the needs-and-emotion axis lives in the Mindset.
+**Segment** _(alias: Buyer Segment)_ - A grouping of buyers by the kind of operator they are: what they run, how many brands they carry, who signs off, and where the work passes hands. Firmographics such as size, revenue band or vertical may describe a segment, but they do not define one – behaviour does, because two companies of identical size can behave nothing alike. A segment can contain many Mindsets. The structural axis of the audience model – the needs-and-emotion axis lives in the Mindset.
 
-**ICP (Ideal Customer Profile)** - The segment or Mindset a brand actively pursues as its primary target.
+**ICP (Ideal Customer Profile)** - The segment or Mindset a brand actively pursues as its primary target. A brand usually holds a ranked portfolio rather than a single ICP: one lead reader the message is built around, and others it serves well without leading with them.
 
 **Strategy-grounded content** - Content shaped by audience understanding, brand context, editorial intent, and a clear business purpose.
 

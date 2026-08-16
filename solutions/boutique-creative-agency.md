@@ -9,8 +9,6 @@ tags: [solutions, boutique-creative-agency, product-fit, creative-engines]
 
 # The Creative Engines solution for boutique creative and strategy agencies
 
-Fit group: **Fits best.**
-
 The value here is the agency founder's taste and judgment scaling past what one person can review – junior work rises toward the shop's senior bar, methodology depth and protected craft that let a lean agency scale without becoming generic, grounded in approved context and review. Creative Engines is built for these professionals to use, not to replace them. For the full buyer picture, see the [segment page](../segments/boutique-creative-agency.md).
 
 ## What matters most for this segment

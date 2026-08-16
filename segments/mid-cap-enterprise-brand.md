@@ -9,8 +9,6 @@ tags: [segments, mid-cap-enterprise-brand, buyer-intelligence, creative-engines]
 
 # Creative Engines for established mid-sized and enterprise brands
 
-Fit group: **Fits best.**
-
 Scaled enterprise brands below the largest global tier, often spanning multiple markets, locations, product lines, or business units, with meaningful internal marketing operations but without the specialist infrastructure of the largest corporations. The segment is vertical-agnostic and includes regional retail, mid-cap pharma divisions, mid-cap consumer goods, industrial B2B, regional banks, mid-cap professional services such as law and accounting, and multi-location franchise brands.
 
 ## Boundaries

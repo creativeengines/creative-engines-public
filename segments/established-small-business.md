@@ -9,8 +9,6 @@ tags: [segments, established-small-business, buyer-intelligence, creative-engine
 
 # Creative Engines for established small businesses
 
-Fit group: **Great fit.**
-
 Established small businesses, roughly $1M to $10M in revenue with 5 to 30 employees and a mix of online and offline operations, past the sole-proprietor or family-business stage, with either a small internal marketing function or actively engaged fractional support, and enough content surface that strategy and consistency start to matter.
 
 ## Boundaries

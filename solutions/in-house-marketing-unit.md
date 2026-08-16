@@ -4,14 +4,12 @@ description: "Explains how Creative Engines fits growing B2B software companies,
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
-tags: [solutions, mid-market-b2b-saas, product-fit, creative-engines]
+tags: [solutions, in-house-marketing-unit, product-fit, creative-engines]
 ---
 
 # The Creative Engines solution for growing B2B software companies
 
-Fit group: **Fits best.**
-
-In a crowded category, the value here is a reason to buy that lines up with what the market actually values and holds up under a technical buyer's scrutiny – content that sounds like the one company they should choose, grounded in evidence that backs it up. For the full buyer picture, see the [segment page](../segments/mid-market-b2b-saas.md).
+In a crowded category, the value here is a reason to buy that lines up with what the market actually values and holds up under a technical buyer's scrutiny – content that sounds like the one company they should choose, grounded in evidence that backs it up. For the full buyer picture, see the [segment page](../segments/in-house-marketing-unit.md).
 
 ## What matters most for this segment
 
@@ -41,7 +39,7 @@ This page describes how Creative Engines serves the segment. It does not expose 
 
 ## See also
 
-- [Segment overview](../segments/mid-market-b2b-saas.md)
+- [Segment overview](../segments/in-house-marketing-unit.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
 - [Brand Knowledge](../product/brand-knowledge.md)
 - [Solutions](./README.md)

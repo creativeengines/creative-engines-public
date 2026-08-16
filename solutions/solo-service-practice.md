@@ -9,8 +9,6 @@ tags: [solutions, solo-service-practice, product-fit, creative-engines]
 
 # The Creative Engines solution for fractional CMOs and solo marketing practices
 
-Fit group: **Fits best.**
-
 The value here is continuity that carries – each client's voice and prior approved decisions carry into new delivery, so senior-looking, on-brand work holds across several clients without the operator becoming the bottleneck for every brief. For the full buyer picture, see the [segment page](../segments/solo-service-practice.md).
 
 ## What matters most for this segment

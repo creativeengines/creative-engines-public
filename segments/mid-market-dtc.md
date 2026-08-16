@@ -9,8 +9,6 @@ tags: [segments, mid-market-dtc, buyer-intelligence, creative-engines]
 
 # Creative Engines for founder-led premium and DTC brands
 
-Fit group: **Great fit.**
-
 Founder-led or voice-led consumer brands, roughly $40M to $1B in revenue, that need performance content and brand storytelling to scale without losing the distinct voice that made the brand work. The brand's point of view, founder taste, and customer belief are central assets rather than decorative copy details, and the team produces across paid, owned, retail, email, social, and community work at a high creative cadence.
 
 ## Boundaries

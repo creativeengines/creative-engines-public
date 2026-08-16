@@ -9,8 +9,6 @@ tags: [solutions, startup, product-fit, creative-engines]
 
 # The Creative Engines solution for post-earliest-stage startups
 
-Fit group: **Great fit.**
-
 The value here is pressure-testing a positioning hypothesis before you spend – synthetic Mindsets built from the company's own buyer evidence react before launch, so the go-to-market a founder presents has already been challenged against buyer evidence. For the full buyer picture, see the [segment page](../segments/startup.md).
 
 ## What matters most for this segment

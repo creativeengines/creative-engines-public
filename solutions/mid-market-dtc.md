@@ -9,8 +9,6 @@ tags: [solutions, mid-market-dtc, product-fit, creative-engines]
 
 # The Creative Engines solution for founder-led premium and DTC brands
 
-Fit group: **Great fit.**
-
 The value here is a brand voice that scales without drifting – performance content across every channel that still sounds unmistakably like the brand, behind a reason to buy that lines up with what the market actually values. For the full buyer picture, see the [segment page](../segments/mid-market-dtc.md).
 
 ## What matters most for this segment

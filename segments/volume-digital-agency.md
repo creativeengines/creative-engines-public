@@ -1,24 +1,34 @@
 ---
-title: "Creative Engines for independent agencies"
-description: "This page describes why Creative Engines fits mid-tier independent agencies, framing it as a buyer intelligence and governance layer that preserves strategic distinctiveness and brand voice across pitch, creative, and account teams."
+title: "Creative Engines for volume digital agencies"
+description: "Why Creative Engines fits a digital agency running several client brands at once, where the owner is still the last set of eyes and context thins out at every handoff - including agencies whose clients sit in regulated verticals."
 status: Current
 last_updated: 2026-08-16
 audience: [buyers, partners, ai-assistants]
-tags: [segments, mid-tier-indie-agency, buyer-intelligence, creative-engines]
+tags: [segments, volume-digital-agency, buyer-intelligence, creative-engines]
 ---
 
-# Creative Engines for independent agencies
+# Creative Engines for volume digital agencies
 
-Fit group: **Fits best.**
+**This is the reader Creative Engines is built around first.**
 
-Independent agencies large enough to manage serious clients and complex strategy, yet still close enough to delivery that margin, quality, and the return on senior talent matter every week. These shops hold strategy, creative, account, innovation, finance, and delivery functions under one roof, compete against holding-company groups, boutiques, AI-native studios, and clients' own in-house teams, and carry a standing need to scale output quality without flattening the method that makes their work distinct.
+Agencies large enough to manage serious clients and complex strategy, yet still close enough to delivery that margin, quality, and the return on senior talent matter every week. These shops hold strategy, creative, account, innovation, finance, and delivery functions under one roof, compete against holding-company groups, boutiques, AI-native studios, and clients' own in-house teams, and carry a standing need to scale output quality without flattening the method that makes their work distinct.
+
+## What actually defines this agency
+
+Not headcount. Two agencies with the same number of people can be a small shop and a very large one, so size describes this reader without qualifying them. Three things do:
+
+1. **Several client brands running at once** – enough that no one person can hold every brand's current strategy in their head.
+2. **The owner or a managing partner is still personally the last set of eyes** on client work.
+3. **Work passes through at least one handoff** – an employee, a freelancer, or an AI tool – before it reaches the client.
+
+Where those three are true, the strategy a client approved is being rebuilt from memory several times a week, by different hands. That is the problem this product exists against, and it does not care how many desks the agency has.
 
 ## Boundaries
 
 - Independent agency - not part of a holding company - with strategy, creative, account, innovation, finance, and delivery functions and several stakeholders in any tooling decision.
 - The agency competes with holdcos, boutiques, AI-native studios, and internal client teams, so a distinct point of view and senior judgment are the product.
 - AI seats are standard issue, and the live question is which seat, governed how, and how the agency stays differentiated when output across the industry sounds similar.
-- Distinct from boutique agencies, which have smaller teams, less formal client structures, and a lighter need to preserve strategy across departments. Here the work has to stay consistent across more people and more client accounts at once.
+- **Distinct from a [boutique creative agency](./boutique-creative-agency.md), and the difference is not size.** A boutique sells the founder's taste – the method *is* the product, and the question is how to set a standard once without the founder editing everything. Here the work has to hold across more people and more accounts at once, and the question is how a standard survives being handed to someone else. Two genuinely different problems, so the two pages read differently on purpose.
 
 ## Operating context
 
@@ -67,6 +77,16 @@ The decision is founder-led or strategy-led, but creative authority and finance 
 - Keeps a human review gate that protects creative and strategic judgment, so the agency scales quality without lowering the craft bar.
 - Works as one governed surface above the existing stack rather than another disconnected point tool that needs constant upkeep.
 
+## If the agency works in a regulated vertical
+
+Some agencies are built around one regulated or craft vertical – pharmaceutical and medical marketing, financial services, or luxury and heritage brands – where domain fluency and repeatable, defensible expertise are the competitive advantage. That is the same buyer as above with one requirement added, not a different audience.
+
+- The agency holds strong patterns from many similar clients, and often has no structured way to turn those patterns into intelligence the whole team can draw on.
+- Clients expect domain fluency and practical, defensible guidance rather than generic creative language, and the work routinely passes through a formal review cycle before it reaches market.
+- What changes in practice: each client's material stays separated, approvals leave a trail, and content is checked against the agency's own configured safety and claim rules **before** it enters that review cycle.
+
+**The vertical's own compliance, medical or legal review remains the authority.** Nothing here shortens it, replaces it, or predicts its outcome – the work simply arrives at review already speaking the vertical's language.
+
 ## Strategic interpretation
 
 The fit is strongest where the agency needs to turn strategy, buyer beliefs, brand context, and expert judgment into repeatable content work without flattening its method into generic AI output. Creative Engines supports that by grounding the agency's method and craft bar in approved context and carrying them through review into every client engagement, rather than acting as a content factory. See the [anti-slop stance](../concepts/anti-slop-stance.md), [editorial governance](../concepts/editorial-governance.md), and [strategy-grounded content](../concepts/strategy-grounded-content.md).
@@ -84,4 +104,4 @@ This page describes the public buyer segment and how Creative Engines helps it. 
 - [Segments](./README.md)
 - [Mindset Intelligence](../concepts/mindset-intelligence.md)
 - [Strategy-grounded content](../concepts/strategy-grounded-content.md)
-- [Segment-specific solution](../solutions/mid-tier-indie-agency.md)
+- [Segment-specific solution](../solutions/volume-digital-agency.md)

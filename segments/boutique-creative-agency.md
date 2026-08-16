@@ -9,8 +9,6 @@ tags: [segments, boutique-creative-agency, buyer-intelligence, creative-engines]
 
 # Creative Engines for boutique creative and strategy agencies
 
-Fit group: **Fits best.**
-
 Small, independent creative or strategy-led agencies, roughly 5 to 30 people, where founder judgment, taste, client context, and senior handoff determine the quality of the work. Founder, strategy, creative, account, and production responsibilities are often blended across a lean team, and the agency wins on taste, trust, speed, or specialization rather than scale. The standing need is to produce client work and the agency's own marketing that stays distinctly the agency's, reflects approved client context, and holds the senior strategic reasoning that clients pay for.
 
 ## Boundaries
@@ -18,7 +16,7 @@ Small, independent creative or strategy-led agencies, roughly 5 to 30 people, wh
 - Small full-service or specialized agencies - branding, design, content, or strategy - where senior founder context still dominates the operating model.
 - The team has enough output volume to feel the cost of inconsistency, and enough taste-led positioning to need a distinct voice rather than generic production.
 - AI seats are standard issue across the team, but the agency still depends on defensible craft, client-specific judgment, and a way to keep quality consistent as more work is produced with AI.
-- Distinct from a solo service practice, where there is no team or client delivery system, and from a mid-tier or holding-group agency, where formal process replaces founder-led judgment. Here, the founder or senior strategist remains the operating center.
+- **Distinct from a [volume digital agency](./volume-digital-agency.md), and the difference is not size.** There, the work has to hold across more people and more accounts, and the question is how a standard survives a handoff. Here the founder's taste *is* the product, and the question is how to set that standard once per client without the founder editing everything. Also distinct from a [solo practice](./solo-service-practice.md), where there is no team or delivery system at all. The founder or senior strategist remains the operating centre.
 
 ## Operating context
 

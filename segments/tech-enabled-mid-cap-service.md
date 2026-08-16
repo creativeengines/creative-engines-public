@@ -9,8 +9,6 @@ tags: [segments, tech-enabled-mid-cap-service, buyer-intelligence, creative-engi
 
 # Creative Engines for tech-enabled service companies at scale
 
-Fit group: **Fits best.**
-
 Scaled service companies, roughly $30M to $300M in revenue and 100 to 500 employees, where technology supports delivery, operations, quality, or measurement, but the company is not primarily a SaaS product company. These businesses are post-startup and pre-enterprise, often operator-led, with an in-house engineering team built to run the service rather than to ship a product, and a standing need to explain a sophisticated service in market-facing language that supports trust and pipeline.
 
 ## Boundaries

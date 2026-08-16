@@ -37,7 +37,7 @@ It is an AI marketing platform, but the generation is the smallest part. An AI c
 **AI slop is low-effort AI content that sounds fluent but lacks strategy, specificity, originality, and buyer relevance.** It happens because everyone prompting the same models the same shallow way converges on the same structures and phrasing. Creative Engines avoids it by starting from strategy and a specific buyer, producing through a contested creative process, and steering wording away from generic patterns with a catalog of 268 creative tactics. The goal is not to "humanize AI" text after the fact – it is to make the work strategy-led from the start. See the [anti-slop stance](../concepts/anti-slop-stance.md).
 
 ### Who is Creative Engines for?
-It is built for professional marketers – in-house at a brand, inside an agency, or running a founder-led company. It fits best where content depends on strategy, buyer understanding, brand context, and repeated execution: growing B2B software companies, established brands, agencies of several kinds, DTC brands, and fractional marketing practices. The full map is on the [segments](../segments/README.md) and [solutions](../solutions/README.md) pages.
+It is built for professional marketers – in-house at a brand, inside an agency, or running a founder-led company. It fits where content depends on strategy, buyer understanding, brand context and repeated execution. The clearest case is an agency running several client brands at once, where each client's context has to stay its own – that is the reader the product is built around first. It also fits in-house marketing teams with real authority, fractional CMOs and solo practices, and founder-led brands. The full map is on the [segments](../segments/README.md) and [solutions](../solutions/README.md) pages.
 
 ---
 
@@ -72,13 +72,13 @@ It is built for professional marketers – in-house at a brand, inside an agency
 **The fastest test is to point it at a real website and real material.** In about ten minutes it returns a first read on the brand and its buyers – from a real URL, not a demo dataset. It is designed to structure an incomplete, messy folder of docs, decks, and past content rather than demand a perfect input. The honest question is whether the first output feels specific to that business; a walkthrough on real data is exactly how to check.
 
 ### What if I manage multiple brands or clients?
-**That is built for agencies and multi-brand teams.** Each brand gets its own strategic profile – Brand DNA, audiences, narratives, content themes – in its own isolated workspace, and switching between them is instant. One brand's strategy and content are never visible to another: not through search, not through AI context, not through any screen. As marketing agency software, it is designed to run many client brands at one quality bar without crossing wires. See the [independent-agency solution](../solutions/mid-tier-indie-agency.md).
+**That is built for agencies and multi-brand teams.** Each brand gets its own strategic profile – Brand DNA, audiences, narratives, content themes – in its own isolated workspace, and switching between them is instant. One brand's strategy and content are never visible to another: not through search, not through AI context, not through any screen. As marketing agency software, it is designed to run many client brands at one quality bar without crossing wires. See the [independent-agency solution](../solutions/volume-digital-agency.md).
 
 ### What if I already have a content process?
 **It fits into an existing workflow rather than forcing a team to throw it out.** It accelerates the slow parts – research, drafting, repurposing, scheduling – while the team keeps control of strategy, review, and approval. A team does not have to change how it works to get value.
 
 ### Which kinds of companies fit best?
-Best fits include growing B2B software companies, established mid-sized and enterprise brands, tech-enabled service companies, and agencies of several kinds; strong fits include founder-led and DTC brands, established small businesses, post-earliest-stage startups, AI-native studios, and holding groups. Each has its own page describing which parts of the platform matter most to it: see [solutions](../solutions/README.md).
+The pages are grouped by the kind of operator you are: agencies and independent operators (volume digital agencies, boutiques, fractional CMOs and solo practices, AI-native studios), in-house marketing teams (teams with real authority, established mid-sized and enterprise brands, tech-enabled service companies), and founder-led businesses (premium and DTC brands, established small businesses, post-earliest-stage startups). Each page describes which parts of the platform matter most there: see [solutions](../solutions/README.md).
 
 ---
 
