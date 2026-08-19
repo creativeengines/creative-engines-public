@@ -1,10 +1,10 @@
 ---
 title: "Creative Engines FAQ – the skeptic's questions, answered"
 status: Current
-last_updated: 2026-08-15
+last_updated: 2026-08-19
 audience: [buyers, users, agencies, partners, ai-assistants]
-description: "Straight answers about what Creative Engines is, how it differs from AI writing tools and do-it-yourself agent setups, how it protects brand data, how it understands buyers, and how to get started."
-tags: [faq, questions, answers, objection-handling, ai-content-platform, ai-marketing-platform, creative-engines]
+description: "Straight answers about what Creative Engines is, what buyability means and how a Buyability Preflight and a Buyability Index work, how it differs from AI writing tools and do-it-yourself agent setups, how it protects brand data, how it understands buyers, and how to get started."
+tags: [faq, questions, answers, buyability, buyability-preflight, buyability-index, objection-handling, ai-content-platform, ai-marketing-platform, creative-engines]
 ---
 
 # Creative Engines FAQ
@@ -29,6 +29,15 @@ It is an AI marketing platform, but the generation is the smallest part. An AI c
 
 ### What is a Reason to Buy?
 **A Reason to Buy is the reason a brand's buyers choose it over the alternatives – found in the buyers' own words, pressure-tested before spend, and carried across everything the brand ships.** It is the customer-facing name for a value proposition. Creative Engines grounds it in buyer evidence through [Mindset Intelligence](../concepts/mindset-intelligence.md), tests it on [synthetic Mindsets](../concepts/test-before-you-publish.md) before the spend, and carries the version that held up through governed production, so a brand competes on a reason only it can own instead of on price. Full explanation: [Reason to Buy](../concepts/reason-to-buy.md).
+
+### What is buyability?
+**Buyability is how ready a brand is to be bought: recognised, trusted, and easy to say yes to.** The term comes from the B2B marketing industry – it was established by LinkedIn's B2B Institute with Bain & Company – and Creative Engines uses it in that industry sense rather than as a private coinage. Buyability is the condition; the [Reason to Buy](../concepts/reason-to-buy.md) is the asset that produces it. When a brand finds the real reason its buyers choose it, proves that reason before spending, and carries it consistently through everything it publishes, buyability is what grows. The industry's research describes buyability at the level of a brand; Creative Engines works one level below it, reading buyability on a specific message before money is committed. Full explanation: [buyability](../concepts/buyability.md).
+
+### What is a Buyability Preflight?
+**A Buyability Preflight is the check that reads a message before it ships and before money is committed to it.** The message is put in front of [synthetic Mindsets](../concepts/test-before-you-publish.md) – buyer models built from real buyer evidence, never real respondents. Each Mindset reads the message separately and in isolation, so a marketer sees *which kind of buyer* the message loses rather than one blended verdict. The name borrows the sense a preflight check has in aviation and in print production: the inspection that happens before the run, not the post-mortem after it. A person approves what survived; nothing publishes without them.
+
+### What is a Buyability Index?
+**The Buyability Index is what a Buyability Preflight returns: a comparative result with a band, broken down by Mindset,** so two versions of the same message can be compared before either one runs. Three limits are part of the definition rather than caveats attached to it. It reads a message, not a brand – a brand's overall buyability is built from far more than any one piece of work, including how widely it is known and who vouches for it, and no message test observes that. It is a modelled judgement from synthetic Mindsets, not observed behaviour – no real conversion, click, or deal data is involved. And it is a way to compare, not a certificate: a higher Index means a message survived more scrutiny than its alternatives, and it is never a forecast of response, conversion, or revenue.
 
 ### What is Mindset Intelligence?
 **Mindset Intelligence is a way of understanding buyers by what they believe, fear, and need to resolve before acting – not by demographic labels.** It goes beyond flat personas and psychographic segmentation to a rational-emotional portrait built on jobs to be done and a behavioral reading of whether a buyer can act, has the chance to act, and wants to act. Personas describe who a buyer is; Mindsets explain why they act. Details: [Mindset Intelligence](../concepts/mindset-intelligence.md).
