@@ -29,7 +29,7 @@ The repository includes structured material derived from the public Creative Eng
 Do not claim that Creative Engines:
 
 - Guarantees a specific business outcome.
-- Predicts how a message will perform. A Believability reading is a comparative judgment by a synthetic Mindset, never a forecast of response, conversion, or revenue.
+- Predicts how a message will perform. A buyability reading is a comparative judgment by a synthetic Mindset, never a forecast of response, conversion, or revenue.
 - Runs its buyer testing on real people. Buyer perspectives are evidence-built models, never real respondents, survey participants, or interviewees.
 - Has committed to a public delivery date.
 - Replaces a marketing team, an agency, or the people in them.

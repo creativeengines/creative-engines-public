@@ -1,6 +1,6 @@
 ---
 title: "Glossary"
-description: "A public glossary defining Creative Engines' recurring terms – from Brand DNA, Mindset and synthetic Mindsets to Believability, Narrative, UVP and AIDAL – covering audience, strategy, and content production concepts."
+description: "A public glossary defining Creative Engines' recurring terms – from Brand DNA, Mindset and synthetic Mindsets to buyability, Narrative, UVP and AIDAL – covering audience, strategy, and content production concepts."
 status: Current
 last_updated: 2026-08-15
 audience: [buyers, users, contractors, ai-assistants]
@@ -22,6 +22,8 @@ This glossary defines recurring public terms used across Creative Engines materi
 **Buyability Preflight** - A Creative Engines term. Reading a message against synthetic Mindsets before it ships and before money is committed to it, so a team sees where the message loses people while it is still cheap to change. Each Mindset reads the message separately and in isolation, so a marketer sees which kind of buyer a message loses rather than a blended verdict. Named for the check that happens before the run, as in aviation or print production. A person approves what survived.
 
 **Buyability Index** - A Creative Engines term. The reading a Buyability Preflight returns: a composite with a band, plus the separate per-Mindset readings behind it, comparable between versions of the same message. It reads a message rather than a brand; it is a modelled judgement from synthetic Mindsets rather than observed behaviour; and it is never a forecast of response, conversion, or revenue.
+
+**Buyability reading** - The reading each synthetic Mindset gives a piece: how convincing that Mindset found it. Each Mindset reads separately, and the composite of those readings is the [Buyability Index](../concepts/buyability.md). The reading is comparative and exists to help a team choose between candidate messages. It is never a prediction of response, conversion, or revenue.
 
 **Brand** - A scoped product workspace for one company, product, or client account.
 
@@ -80,8 +82,6 @@ This glossary defines recurring public terms used across Creative Engines materi
 **Synthetic Mindset** - A buyer model built from real public buyer evidence, used to react to a message before it is published. Synthetic Mindsets are models, never real customers, survey respondents, or interviewees – the word *synthetic* carries that honesty, and a person still approves what survived.
 
 **Synthetic-Mindset panel** _(previously: audience focus group)_ - The set of synthetic Mindsets a candidate message is put in front of inside production, to see what was understood, what was felt, and what did not land, before anything is published.
-
-**Believability** - The reading each synthetic Mindset gives a piece: how convincing that Mindset found it. The reading is comparative and exists to help a team choose between candidate messages. It is never a prediction of response, conversion, or revenue.
 
 **Free Brand Audit** - Creative Engines' public entry point: a brand's public website goes in, and a structured first read of that brand and its buyers comes back by email, before any sales conversation. It works on the reader's own brand or a client's. The artifact that arrives is called the Preview Deck in conversation – the audit is the action, the Preview Deck is what is delivered.
 
