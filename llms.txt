@@ -69,7 +69,7 @@ The free brand audit: a brand's URL goes in, and a structured first read of that
 - Generic LLM chat comparison: ./comparisons/generic-llm-chat.md
 - AI writing tools comparison: ./comparisons/ai-writing-tools.md
 - Content factories comparison: ./comparisons/content-factories.md
-- FAQ (buyer questions answered): ./faq/README.md
+- FAQ (buyer questions answered, incl. what buyability, a Buyability Preflight and a Buyability Index are): ./faq/README.md
 - Glossary: ./glossary/README.md
 - About (founders and company): ./about/README.md
 - Media links: ./media/README.md
