@@ -32,7 +32,7 @@ The Creative Engines website states the plan in three steps, because three is wh
 - [Brand Knowledge](./product/brand-knowledge.md) · [Market Intelligence](./product/market-intelligence.md) · [Mindset Intelligence](./product/mindset-intelligence.md) · [Brand Strategy](./product/brand-strategy.md)
 - Concepts: [Mindset Intelligence](./concepts/mindset-intelligence.md) · [Attention Journey](./concepts/attention-journey.md) · [The Methodology Base](./concepts/methodology-base.md)
 
-**Test.** Put a candidate message in front of **synthetic Mindsets** – buyer models built from that same evidence, never real respondents. Each reaction carries a **buyability** reading: how convincing that Mindset found the piece. The reading is comparative, and it exists to help a team choose between candidate messages. It is never a prediction of response, conversion, or revenue. A person approves what survived.
+**Test.** Put a candidate message in front of **synthetic Mindsets** – buyer models built from that same evidence, never real respondents. That check is a **Buyability Preflight**, and it returns a **Buyability Index**: how convincing the message was, broken down by Mindset so a team can see which buyer it loses. The Index is comparative, and it exists to help a team choose between candidate messages. It is never a prediction of response, conversion, or revenue. A person approves what survived.
 
 - [Test before you publish](./concepts/test-before-you-publish.md) · [Multi-Agent Creative Department](./concepts/multi-agent-creative-department.md) · [Anti-slop stance](./concepts/anti-slop-stance.md)
 

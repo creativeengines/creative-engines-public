@@ -21,9 +21,7 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Buyability Preflight** - A Creative Engines term. Reading a message against synthetic Mindsets before it ships and before money is committed to it, so a team sees where the message loses people while it is still cheap to change. Each Mindset reads the message separately and in isolation, so a marketer sees which kind of buyer a message loses rather than a blended verdict. Named for the check that happens before the run, as in aviation or print production. A person approves what survived.
 
-**Buyability Index** - A Creative Engines term. The reading a Buyability Preflight returns: a composite with a band, plus the separate per-Mindset readings behind it, comparable between versions of the same message. It reads a message rather than a brand; it is a modelled judgement from synthetic Mindsets rather than observed behaviour; and it is never a forecast of response, conversion, or revenue.
-
-**Buyability reading** - The reading each synthetic Mindset gives a piece: how convincing that Mindset found it. Each Mindset reads separately, and the composite of those readings is the [Buyability Index](../concepts/buyability.md). The reading is comparative and exists to help a team choose between candidate messages. It is never a prediction of response, conversion, or revenue.
+**Buyability Index** - A Creative Engines term. What a Buyability Preflight returns: a composite result with a band, broken down by Mindset so a team can see which buyer a message loses, comparable between versions of the same message. It reads a message rather than a brand; it is a modelled judgement from synthetic Mindsets rather than observed behaviour; and it is never a forecast of response, conversion, or revenue.
 
 **Brand** - A scoped product workspace for one company, product, or client account.
 

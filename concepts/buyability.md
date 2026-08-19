@@ -41,7 +41,7 @@ it into something a marketer can act on this afternoon, at the level of the indi
 
 ### Buyability Preflight
 
-**Buyability Preflight** is the Creative Engines term for reading a message against
+**Buyability Preflight** is the Creative Engines term for putting a message in front of
 [synthetic Mindsets](./test-before-you-publish.md) – buyer models built from real buyer evidence,
 never real respondents – **before it ships and before money is committed to it.** It returns where
 the message loses people and what to change, and a person approves what survived.
@@ -55,20 +55,20 @@ happens **before the run**, not the post-mortem after it.
 
 ### Buyability Index
 
-**Buyability Index** is the Creative Engines term for what a Preflight hands back: a composite reading
-with a band, plus the separate per-Mindset readings behind it, comparable between versions of the same
-message.
+**Buyability Index** is the Creative Engines term for what a Preflight hands back: a composite result
+with a band, broken down by Mindset so a marketer can see which buyer a message loses, comparable
+between versions of the same message.
 
 Three limits are part of the definition, not caveats attached to it:
 
 1. **It reads a message, not a brand.** The Index reflects how one piece of work reads to modelled
    buyers. A brand's overall buyability is built from far more than any message – how widely it is
    known, who vouches for it, how risky it feels to adopt – and no message test observes that.
-2. **It is a modelled judgement, not observed behaviour.** The reading comes from synthetic Mindsets.
+2. **It is a modelled judgement, not observed behaviour.** The Index comes from synthetic Mindsets.
    No real conversion, click, or deal data is involved, and it is never a forecast of response,
    conversion, or revenue. It is comparative: this version read better than that one, to these
    modelled buyers.
-3. **It is a way to compare, not a certificate.** A higher reading means a message survived more
+3. **It is a way to compare, not a certificate.** A higher Index means a message survived more
    scrutiny than its alternatives. It does not promise a market result, and Creative Engines does not
    offer one.
 
