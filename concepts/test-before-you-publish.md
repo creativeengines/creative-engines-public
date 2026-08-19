@@ -1,10 +1,10 @@
 ---
 title: "Test before you publish"
-description: "Explains how Creative Engines puts a message in front of synthetic Mindsets before it ships, what a Believability reading is and is not, and why catching a flat or misread message in rehearsal beats catching it in the market."
+description: "Explains how Creative Engines puts a message in front of synthetic Mindsets before it ships, what a Buyability Index is and is not, and why catching a flat or misread message in rehearsal beats catching it in the market."
 status: Current
 last_updated: 2026-08-15
 audience: [buyers, partners, ai-assistants]
-tags: [concepts, audience-testing, synthetic-mindsets, believability, pre-flight, creative-engines]
+tags: [concepts, audience-testing, synthetic-mindsets, buyability, buyability-preflight, creative-engines]
 ---
 
 # Test before you publish
@@ -37,9 +37,9 @@ Before a piece is approved, it can be put in front of those Mindsets and asked w
 
 That last question matters more than it looks. Sameness is not a style problem – it is the reason a category stops being able to charge a premium – and it is easiest to catch in the reaction of someone who has already read nine versions of it.
 
-## The Believability reading
+## The Buyability Index
 
-Each reaction carries a **Believability** reading: how convincing that Mindset found the piece.
+The check is a **Buyability Preflight**, and what it returns is a **Buyability Index**: how convincing the message was, broken down by Mindset.
 
 The reading is comparative. It exists to help a team choose between candidate messages – this angle held up, that one did not – and to show where a claim needs proof it does not yet have. It is never a prediction of response, conversion, click-through, or revenue, and it should never be quoted as one. A model can tell you a message landed flat with the buyer-type it was written for. It cannot tell you what the market will do.
 
@@ -51,7 +51,7 @@ It also changes what approval means. A person still signs off on everything that
 
 ## Public boundary
 
-This page explains a product philosophy and what a reader gets. It does not describe how synthetic Mindsets are constructed, what evidence sources they draw on, how a panel is assembled or run, or how a Believability reading is produced, scaled, or weighted.
+This page explains a product philosophy and what a reader gets. It does not describe how synthetic Mindsets are constructed, what evidence sources they draw on, how a panel is assembled or run, or how a Buyability Index is produced, scaled, or weighted.
 
 ## See also
 

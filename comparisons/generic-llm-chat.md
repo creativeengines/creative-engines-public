@@ -43,7 +43,7 @@ Across 11 leading models, assistants affirmed users' actions about **49% more of
 
 This is not a flaw someone forgot to fix. A general assistant is built to satisfy the person typing, and the person typing is the author of the message. Ask it whether your positioning is strong and you are asking an audience of one, optimized to please you, standing in for a buyer who owes you nothing.
 
-Creative Engines runs the check from the other side. A message is put in front of [synthetic Mindsets](../concepts/test-before-you-publish.md) built from real public buyer evidence, and each reaction carries a Believability reading – how convincing *that buyer model* found it. The reading is comparative and never a forecast of response or revenue. The difference that matters here is whose satisfaction the answer is optimized for: the author's, or the buyer's.
+Creative Engines runs the check from the other side. A message is put in front of [synthetic Mindsets](../concepts/test-before-you-publish.md) built from real public buyer evidence, and the check returns a Buyability Index – how convincing the message was, broken down by buyer model. The Index is comparative and never a forecast of response or revenue. The difference that matters here is whose satisfaction the answer is optimized for: the author's, or the buyer's.
 
 Nothing in that removes the marketer's judgment. A person still approves what survived.
 
