@@ -17,6 +17,12 @@ This glossary defines recurring public terms used across Creative Engines materi
 
 **Ground → Test → Publish** - The three-step plan Creative Engines states publicly. *Ground* builds the strategy on the brand's own material and real buyer evidence with openable sources; *Test* puts a candidate message in front of synthetic Mindsets before it ships; *Publish* turns the approved direction into content a person reviews before it represents the brand. The three names are the compact public form; each opens into a fuller set of steps in the product.
 
+**Buyability** - How ready a brand is to be *bought*: trusted, credible, and easy for a whole buying group to say yes to and to defend afterwards. The term comes from the B2B marketing industry – the research LinkedIn's B2B Institute ran with Bain & Company, public since 2025 – not from Creative Engines. It is the condition a [Reason to Buy](../concepts/reason-to-buy.md) produces: the reason is the asset a brand builds, buyability is what the brand gains once that reason is found, proven, and carried everywhere. See [buyability](../concepts/buyability.md).
+
+**Buyability Preflight** - Putting a message in front of synthetic Mindsets before it ships and before money is committed to it, so a team sees where the message loses people while it is still cheap to change. Named for the check that happens before the run, as in aviation or print production. A person approves what survived.
+
+**Buyability Index** - The reading a Buyability Preflight returns: a composite with a band and a per-Mindset breakdown of where a message loses people, comparable between versions of the same message. It reads the message, not the brand's total buyability; it is a modelled judgement from synthetic Mindsets rather than observed behaviour; and it is never a forecast of response, conversion, or revenue.
+
 **Brand** - A scoped product workspace for one company, product, or client account.
 
 **Brand context** - The approved material, voice, positioning, audience assumptions, and source knowledge that should shape content.

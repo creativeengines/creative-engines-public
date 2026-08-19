@@ -16,6 +16,7 @@ Creative Engines uses these concepts to explain why the product is different fro
 ## The central idea
 
 - [Reason to Buy](./reason-to-buy.md) - the reason a brand's buyers choose it; the outcome every other capability ladders into.
+- [Buyability](./buyability.md) - the industry's word for how ready a brand is to be bought by a whole buying group; the condition a Reason to Buy produces, read on a message by a Buyability Preflight.
 
 ## What Creative Engines believes
 
